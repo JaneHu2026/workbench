@@ -1,2 +1,0 @@
-<html><head><title>Andrej Karpathy</title><meta name="description" content=""></head><body><div><h3><a href=""></a></h3><p></p><a href=""></a><br><time></time></div>
-<div><h3><a href=""></a></h3><p></p><a href=""></a><br><time></time></div></body></html>
