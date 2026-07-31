@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:14",
+ "fetchedAt": "09:16",
  "fetchedDate": "2026-07-31",
  "source": "server",
  "items": [
@@ -13,25 +13,15 @@
      "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785510000&x-signature=7sAuEHwgjnD3wugAHPu4tLuz3wc%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 8143583",
+     "meta": "🔥 8291064",
      "desc": "热门话题「AI生成的作品算艺术吗」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "10万人看过的漂亮眼镜教程来了！",
-     "link": "https://www.xiaohongshu.com/explore/6a486e7a000000001503ceb4?xsec_token=ABNUx6xs5rD7vywo3UAvpLd72Oc-K7QVSztI7t7SmhrJo%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202607311714/a094647ddab048d11be8816fba1d8d13/1040g0083226dlr4k7o005obgd2a0ja2glnqfftg!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "小雨不吃香菜（搓甲日记）",
-     "meta": "❤️ 5.4万",
-     "desc": "#唐山美甲[话题]# #美甲vlog[话题]# #眼镜[话题]# #小镜框眼镜[话题]# #手工diy[话题]# #DIY眼镜[话题]# #美甲教程[话题]# #美甲师的日常[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
