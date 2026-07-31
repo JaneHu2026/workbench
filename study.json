@@ -1,5 +1,5 @@
 {
- "fetchedAt": "16:43",
+ "fetchedAt": "16:55",
  "fetchedDate": "2026-07-31",
  "source": "server",
  "items": [
@@ -10,18 +10,28 @@
     {
      "title": "AI生成的作品算艺术吗",
      "link": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785506400&x-signature=eydmBh1DI6XNLSmBV59vSnukr5o%3D&from=3218412987",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785506400&x-signature=vWc2Kgc5jWiyLjvNv2oeo1Gk3es%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7867408",
+     "meta": "🔥 7929659",
      "desc": "热门话题「AI生成的作品算艺术吗」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "给小孩买了这个猫拼图回家不吵着玩手机啦！",
+     "link": "https://www.xiaohongshu.com/explore/6a45c5790000000006032ce5?xsec_token=ABT12JrDxgyojRYExVk4DUv-NVvu66wZBY4CK3Ga30xac%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202607311655/bec83cd1729696252ea05175f18479d7/spectrum/1040g34o3223phmsc72105plk3e83cg7m6459h3g!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "晚安(´-ωก`)",
+     "meta": "❤️ 2498",
+     "desc": "#益智拼图[话题]# #猫咪也要玩玩具[话题]# #宝宝拼图[话题]# #沉浸式拼图[话题]# #拼图[话题]# #猫咪爱好者[话题]# #亲子玩具[话题]# #沉浸式拼图[话题]##贴画[话题]# #我的拼图[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -55,15 +65,6 @@
      "desc": "HuggingFace 对事件的报道： OpenAI 对事件的报道："
     },
     {
-     "title": "GPT 6 potentially LEAKS!!!",
-     "link": "https://www.youtube.com/watch?v=u5esm1--kUo",
-     "cover": "https://i2.ytimg.com/vi/u5esm1--kUo/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "07月21日",
-     "pub": "2026-07-21T22:00:07+00:00",
-     "desc": "上周，Hugging Face 在检测并遏制后披露了一种新型安全事件⁠(opens in a new window)"
-    },
-    {
      "title": "You Can Just Download More Tokens/Sec",
      "link": "https://www.youtube.com/watch?v=GkClGdrGViQ",
      "cover": "https://i4.ytimg.com/vi/GkClGdrGViQ/hqdefault.jpg",
@@ -73,24 +74,6 @@
      "desc": "谈论 DeepSeek DSpark / DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等等。写下w"
     },
     {
-     "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
-     "link": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-     "cover": "https://i2.ytimg.com/vi/iGNNgzUumoY/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "07月17日",
-     "pub": "2026-07-17T21:55:53+00:00",
-     "desc": "🔗 链接 🔗 我挑战 Kimi K3 vs Fable 5 vs Sol 5.6 来制作《奥德赛》.... 只需一个提示！结果是stu"
-    },
-    {
-     "title": "I tested Kimi K3 with INSANE prompts....",
-     "link": "https://www.youtube.com/watch?v=uBFkApLTMbw",
-     "cover": "https://i2.ytimg.com/vi/uBFkApLTMbw/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "07月16日",
-     "pub": "2026-07-16T23:29:20+00:00",
-     "desc": "我用奇怪的提示测试了 Kimi K3，模型的结果就在这个视频中！ Max Weinbach 的 Kimi K3 Mac OS Sim"
-    },
-    {
      "title": "Claude Just Revealed AI's Biggest Problem",
      "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
      "cover": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
@@ -98,6 +81,33 @@
      "meta": "07月16日",
      "pub": "2026-07-16T15:39:17+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：🙏 我们希望……"
+    },
+    {
+     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+     "cover": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "07月16日",
+     "pub": "2026-07-16T11:56:04+00:00",
+     "desc": "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
+    },
+    {
+     "title": "Anthropic Found Something That Shouldn't Exist",
+     "link": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+     "cover": "https://i1.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "07月15日",
+     "pub": "2026-07-15T13:58:27+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：Paper forrenedeer Vision …"
+    },
+    {
+     "title": "In search of frontier AI at home",
+     "link": "https://www.youtube.com/watch?v=31MvP7yHzxM",
+     "cover": "https://i4.ytimg.com/vi/31MvP7yHzxM/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "07月09日",
+     "pub": "2026-07-09T15:02:53+00:00",
+     "desc": "分析一些适合特定 GPU 内存上限的本地模型，了解压缩程度"
     }
    ]
   }
