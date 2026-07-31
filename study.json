@@ -1,5 +1,5 @@
 {
- "fetchedAt": "09:25",
+ "fetchedAt": "09:27",
  "fetchedDate": "2026-07-31",
  "source": "server",
  "items": [
@@ -10,7 +10,7 @@
     {
      "title": "AI生成的作品算艺术吗",
      "link": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97?type=general",
-     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785510000&x-signature=bkgaPBGAobdS0oALkR5wNuyn58Y%3D&from=3218412987",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785510000&x-signature=boKptwSMAxu4lbkeOI7Jb%2FImkQc%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
      "meta": "🔥 8620033",
@@ -20,18 +20,8 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "几根扭扭棒就能做的手势棒，可以给孩子学习做点读棒超低成本，简单好做，快点做起来吧",
-     "link": "https://www.xiaohongshu.com/explore/6a3b29550000000015027033?xsec_token=ABlBW26osJI_Us7x0N_1cqCluye5uJAD9cQWN7ha_77XQ%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202607311725/34fd4b36b665ca3b90acc01cfb990115/1040g2sg321pevhmc7ue05oe891n41tgnviamkio!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "爱画画的小雪花",
-     "meta": "❤️ 6635",
-     "desc": "几根扭扭棒就能做的手势棒，可以给孩子学习做点读棒超低成本，简单好做，快点做起来吧! 材料:扭扭棒、木棍、剪刀、胶枪、尺子 #扭扭棒[话题]# #手工[话题]# #手工友人成长计划[话题]# #扭扭棒手工[话题]# #手工日常[话题]# #手工作品[话题]# #小红书手工友好季[话题]# #热爱手工的我[话题]# #分享我的手工日常[话题]# #手工爱好者[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
