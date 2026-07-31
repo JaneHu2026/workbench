@@ -1,0 +1,1092 @@
+Title: How I use LLMs - YouTube
+
+URL Source: https://www.youtube.com/watch?v=EWvNQjAaOHw
+
+Warning: Target URL returned error 401: Unauthorized
+
+Markdown Content:
+Back [![Image 1](https://www.youtube.com/watch?v=EWvNQjAaOHw)](https://www.youtube.com/ "YouTube Home")
+
+Skip navigation
+
+ Search 
+
+ Search with your voice 
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DEWvNQjAaOHw&hl=en&ec=65620)
+
+[![Image 2](https://www.youtube.com/watch?v=EWvNQjAaOHw)](https://www.youtube.com/ "YouTube Home")
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[Video 2](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+Tap to unmute
+
+2x
+
+[![Image 3](https://www.youtube.com/watch?v=EWvNQjAaOHw)](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+## How I use LLMs
+
+Andrej Karpathy 2,608,507 views 1 year ago
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+Copy link
+
+Info
+
+Shopping
+
+![Image 4](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+[![Image 5](https://www.youtube.com/watch?v=EWvNQjAaOHw)](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+Cancel Confirm
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+Share
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw "Share link")- [x] Include playlist 
+
+An error occurred while retrieving sharing information. Please try again later.
+
+![Image 6](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+0:00
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)[](https://www.youtube.com/watch?v=c-zlMcdIqk0)
+
+0:00 / 0:00
+
+Live
+
+•Watch full video
+
+•
+
+Intro into the growing LLM ecosystem
+
+•
+
+[3:31:24 Deep Dive into LLMs like ChatGPT Andrej Karpathy 8.3M views • 1 year ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=7xTGNNLPyMI)[1:54:09 RL for Agents Workshop - Deep Dive on Training Agents with RL and Open Source Hugging Face 198K views • Streamed 3 months ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=cixmqTsi2A4)[2:45:31 Full Archon Guide - Build AI Coding Harnesses That Actually Ship (LIVE)Cole Medin 100K views • Streamed 3 months ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=srx9iwnjK2M)[3:54:45 JavaScript Tutorial For Beginners | JavaScript Training | JavaScript Course | Intellipaat Intellipaat 1.4M views • Streamed 5 years ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=1h46cNkyXlE)[1:43:36 The AI Blueprint: How To Use AI To Make Millions, & Change Your Life w/ Alicia Lyttle 🚀Earn Your Leisure 213K views • Streamed 1 month ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=S7sd0Sdn3Gk)[2:34:42 Power Automate Tutorial ⚡ Beginner To Pro [Full Course]Pragmatic Works 693K views • Streamed 2 years ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=KsgxDz-nY_I)[37:16 Politics Chat, July 30, 2026 Heather Cox Richardson 159K views • Streamed 9 hours ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=LG_YlRGTYrQ)[1:05:09 Gil Strang's Final 18.06 Linear Algebra Lecture MIT OpenCourseWare 3.3M views • Streamed 3 years ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=lUUte2o2Sn8)[3:27:45 Free Event: Power BI Beginner to Pro 2026 Edition - Full Hands-On Tutorial Pragmatic Works 397K views • Streamed 6 months ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=c-zlMcdIqk0)[2:12:08 Live Q&A with Brian Greene | World Science Festival World Science Festival 212K views • Streamed 3 months ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=nH8c60ZbSgw)[3:23:25 Welcome to the Game 3: Markiplier's Redemption Markiplier 3M views • Streamed 13 days ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=IRPOlmaKpYA)[2:57:12 Santo Rosário | Sexta-feira | 04:00 | 17/07/2026 | Live Ao vivo Frei Gilson / Som do Monte - OFICIAL 1M views • Streamed 13 days ago Live Playlist ()Mix (50+)](https://www.youtube.com/watch?v=PwUXF4vU3Qg)
+
+Sign in to confirm you’re not a bot This helps protect our community. [Learn more](https://support.google.com/youtube/answer/3037019#zippy=%2Ccheck-that-youre-signed-into-youtube)
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DEWvNQjAaOHw&hl=en)
+
+# How I use LLMs
+
+[![Image 7: Andrej Karpathy](https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@AndrejKarpathy)
+
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
+ Andrej Karpathy 
+
+1.62M subscribers
+
+Subscribe
+
+Subscribed
+
+66K
+
+Share
+
+Save
+
+Download
+
+ Download 
+
+2.6M views 1 year ago
+
+ 2,608,507 views • Feb 27, 2025 
+
+The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life. …...more 
+
+...more 
+
+## Chapters
+
+View all
+
+[![Image 8](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Intro into the growing LLM ecosystem ### Intro into the growing LLM ecosystem 0:00](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Intro into the growing LLM ecosystem](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+0:00
+
+[![Image 9](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### ChatGPT interaction under the hood ### ChatGPT interaction under the hood 2:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s)
+
+### [ChatGPT interaction under the hood](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s)
+
+2:54
+
+[![Image 10](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Basic LLM interactions examples ### Basic LLM interactions examples 13:12](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s)
+
+### [Basic LLM interactions examples](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s)
+
+13:12
+
+[![Image 11](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Be aware of the model you're using, pricing tiers ### Be aware of the model you're using, pricing tiers 18:03](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s&pp=0gcJCSADDuyUWbzu)
+
+### [Be aware of the model you're using, pricing tiers](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s&pp=0gcJCSADDuyUWbzu)
+
+18:03
+
+[![Image 12](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Thinking models and when to use them ### Thinking models and when to use them 22:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1374s)
+
+### [Thinking models and when to use them](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1374s)
+
+22:54
+
+[![Image 13](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Tool use: internet search ### Tool use: internet search 31:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1860s)
+
+### [Tool use: internet search](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1860s)
+
+31:00
+
+[![Image 14](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Tool use: deep research ### Tool use: deep research 42:04](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=2524s)
+
+### [Tool use: deep research](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=2524s)
+
+42:04
+
+[![Image 15](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### File uploads, adding documents to context ### File uploads, adding documents to context 50:57](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3057s)
+
+### [File uploads, adding documents to context](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3057s)
+
+50:57
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+[![Image 16](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Andrej Karpathy 1.62M subscribers](https://www.youtube.com/@AndrejKarpathy)
+
+[Videos](https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ/videos)[About](https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ/about)[![Image 17](https://www.youtube.com/watch?v=EWvNQjAaOHw) Discord](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUM4Zm9rU3huUFBsdnBMTkUtVHRwa0UwSlk3dnxBR3JiS2FtUVY4YmhiZE1IVmxHakhhNmpKS3Jtc0xRelJqRFI4VEt5MHdNWnRoY3lVSGxVSUQ4dlZFdnEtYXd4VTZFZHpFT2pLdHBfT1ByODdrVFoyenB6NTB2Szdmdml3clZG&q=https%3A%2F%2Fdiscord.gg%2F3zy8kqD9Cp)
+
+Show less 
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+# How I use LLMs
+
+2,608,507 views 2.6M views
+
+Feb 27, 2025
+
+66K
+
+Share
+
+Save
+
+Download
+
+ Download 
+
+## 2,368 Comments
+
+ Sort comments 
+
+Sort by
+
+[Top Show featured comments](https://www.youtube.com/watch?v=EWvNQjAaOHw)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+![Image 18: Default profile photo](https://yt3.ggpht.com/a/default-user=s48-c-k-c0x00ffffff-no-rj)
+
+Add a comment...
+
+![Image 19](https://yt3.ggpht.com/ytc/AIdro_kOR2RYzLQ5028v3gXX3mVXtZlSVDLYomBPvPXDE2x2PsrrK9mEAaJCQJkebLqwEkdCbw=s88-c-k-c0x00ffffff-no-rj)
+
+### [@riverland0072](https://www.youtube.com/@riverland0072)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgwSJ6VNWCdyXrVQV-l4AaABAg)
+
+Just canceled my wedding this weekend to make time to watch this
+
+Show less Read more
+
+ Like 
+
+ 8.9K 
+
+ Dislike 
+
+![Image 20](https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj)
+
+ ❤ by @AndrejKarpathy 
+
+Reply
+
+190 replies
+
+Hide replies
+
+190 replies
+
+![Image 21](https://yt3.ggpht.com/ytc/AIdro_lVqHjgxSLzrJWy_pfvmryfg2IFeryavGmkW4fIUF7uUeVv=s88-c-k-c0x00ffffff-no-rj)
+
+### [@Inventor22x](https://www.youtube.com/@Inventor22x)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgyGg2hGXBrH_W04YO94AaABAg)
+
+What an absolute gigachad. No fancy introduction, everyone knows who he is. No immediate request to like and subscribe, we've already done that. Just "Hi Everyone", and then he jumps right in. The world needs more Andrej's.
+
+Show less Read more
+
+ Like 
+
+ 2.8K 
+
+ Dislike 
+
+![Image 22](https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj)
+
+ ❤ by @AndrejKarpathy 
+
+Reply
+
+![Image 23](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+·
+
+18 replies
+
+![Image 24](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+·
+
+Hide replies
+
+![Image 25: Andrej Karpathy](https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s48-c-k-c0x00ffffff-no-rj)
+
+·
+
+18 replies
+
+![Image 26](https://yt3.ggpht.com/ytc/AIdro_nqG5kNb9WDoM5cFrNSQr9fzliieK8lWbCqB52t7OKShdvcGjZ-DNkPlowQu3IE1MHYgQ=s88-c-k-c0x00ffffff-no-rj)
+
+### [@Nirvan01](https://www.youtube.com/@Nirvan01)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgxpRbIc3IZdXUygAGB4AaABAg)
+
+For those who don’t know, he is not just some random content creator; he is a renowned scientist in the field of artificial intelligence and a founding member of OpenAI, the company behind ChatGPT. We’re living in a time where knowledge is being shared directly from the source—like learning relativity from Einstein, quantum mechanics from Heisenberg, evolution from Darwin, black holes from Stephen Hawking, or psychology from Freud. What makes it even more special is that despite being such a brilliant mind, he carries himself with patience and a calm, soft-spoken nature, explaining complex topics with remarkable clarity. It’s incredible to witness this shift, where groundbreaking insights come straight from the minds shaping the future of humanity. I never imagined a scientist could be such a great teacher, making complex topics clear and engaging for everyone. The world is lucky to learn from you—I look forward to more insightful videos. Thank you, sir!
+
+Show less Read more
+
+ Like 
+
+ 1.7K 
+
+ Dislike 
+
+![Image 27](https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj)
+
+ ❤ by @AndrejKarpathy 
+
+Reply
+
+20 replies
+
+Hide replies
+
+20 replies
+
+![Image 28](https://yt3.ggpht.com/nrI4-FYdVaAnTPnZMXRkTRZ-tcVDKYKXSI2zW_7ERUAXmVnn_LU5behbzEgkIBgqmhwyeewk=s88-c-k-c0x00ffffff-no-rj)
+
+### [@ricfair7549](https://www.youtube.com/@ricfair7549)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugy4diwayugyTP-zw-p4AaABAg)
+
+It's so so rare to have a top engineer/researcher in a field take the time to teach others about that field, not just the technical aspects but the applications as well - for free. Thank you.
+
+Show less Read more
+
+ Like 
+
+ 97 
+
+ Dislike 
+
+Reply
+
+![Image 29](https://yt3.ggpht.com/ytc/AIdro_mIhUNKcgjJ4N6YlBzSdjV5rIhjr2B5jZq6x76wH5j9zg=s88-c-k-c0x00ffffff-no-rj)
+
+### [@Fralickmike](https://www.youtube.com/@Fralickmike)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugx95y7E_P7Bf14394N4AaABAg)
+
+Andrej, I’m an associate professor at the university of Toronto. I can confidently say that you are an outstanding teacher. I have only one question: when is the next video coming out ?! ![Image 30: 🤓](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+Show less Read more
+
+ Like 
+
+ 117 
+
+ Dislike 
+
+Reply
+
+![Image 31](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@Numōris](https://www.youtube.com/@Num%C5%8Dris)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgyAEj4RpleYa7-uLiJ4AaABAg)
+
+I’m a graduate student in engineering at MIT. Your lectures are more valuable than anything I’ve gotten on campus, and for that I thank you Andrej!
+
+Show less Read more
+
+ Like 
+
+ 1.1K 
+
+ Dislike 
+
+![Image 32](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+ ❤ by @AndrejKarpathy 
+
+Reply
+
+12 replies
+
+Hide replies
+
+12 replies
+
+![Image 33](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@rsslehed](https://www.youtube.com/@rsslehed)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgxbpYPsSHOvqZkUobN4AaABAg)
+
+I'm an ancient warrior from the land of Babylon, your lectures are more valuable than any hand-printed manuscript i've ever read, thanks a lot!
+
+Show less Read more
+
+ Like 
+
+ 488 
+
+ Dislike 
+
+Reply
+
+6 replies
+
+Hide replies
+
+6 replies
+
+![Image 34](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@khangvutien2538](https://www.youtube.com/@khangvutien2538)
+
+[1 year ago (edited)](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgxualvDRkvmPCnIIlZ4AaABAg)
+
+I’m surprised how a researcher in AI can make a 2h video without inundating me with jargon and instead be quite easy to understand. Thank you for the effort.
+
+Show less Read more
+
+ Like 
+
+ 308 
+
+ Dislike 
+
+Reply
+
+2 replies
+
+Hide replies
+
+2 replies
+
+![Image 35](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@singh0833](https://www.youtube.com/@singh0833)
+
+[4 months ago (edited)](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgxYO2BbnZEUW_NZiHp4AaABAg&pp=0gcJCSIANpG00pGi)
+
+Literally the coolest dude I've ever witnessed in existence. Most people are like "Let me take over the world, let me build AI, let me do this blah blah"... Andrew just spends time teaching people the most difficult crap in the easiest of notions to grasp. What a fulfilling freaking life you live my dude!
+
+Show less Read more
+
+ Like 
+
+ 8 
+
+ Dislike 
+
+Reply
+
+![Image 36](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@MitProd](https://www.youtube.com/@MitProd)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugwmem93I_aLbx9HIrR4AaABAg)
+
+My AI professor can't even say a line without jargons and here he is explaining in most simple language anyone can understand. Thanks a ton!
+
+Show less Read more
+
+ Like 
+
+ 23 
+
+ Dislike 
+
+Reply
+
+![Image 37](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@nigelcrasto](https://www.youtube.com/@nigelcrasto)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugxhl1hSViLtfyh5c6R4AaABAg)
+
+Just postponed a major surgery, me and my surgeon both are watching this video together
+
+Show less Read more
+
+ Like 
+
+ 245 
+
+ Dislike 
+
+Reply
+
+7 replies
+
+Hide replies
+
+7 replies
+
+![Image 38](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@Matthew_personal-c6y](https://www.youtube.com/@Matthew_personal-c6y)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugy0NkrQFhKyn0R7cY54AaABAg)
+
+I must say, there are a lot of people on this platform that teach about AI and in particular LLM's but without question Andrej is the absolute best. I learned a long time ago in grad. school that just because someone is very smart does not automatically make them a good teacher. Imagine for a minute if we did not have this platform, how much money it would cost to spend 2 hours with Andrej Karpathy having him explain all of these things. One of the best things about YouTube is how it has and will continue to transform education.
+
+Show less Read more
+
+ Like 
+
+ 179 
+
+ Dislike 
+
+Reply
+
+1 reply
+
+Hide replies
+
+1 reply
+
+![Image 39](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@fatemehmousavi402](https://www.youtube.com/@fatemehmousavi402)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgwhlQQinX3ruDzzRbV4AaABAg)
+
+Every time you upload a video , for me is just like the best gift of my week. Thanks for sharing your incredible knowledge
+
+Show less Read more
+
+ Like 
+
+ 265 
+
+ Dislike 
+
+Reply
+
+![Image 40](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@NurshodMirsaidov](https://www.youtube.com/@NurshodMirsaidov)
+
+[12 days ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgxcoZHb1gOXHFkoBa54AaABAg)
+
+No fluff, Just a pure knowledge and teaching. Loved it!
+
+Show less Read more
+
+ Like 
+
+ 1 
+
+ Dislike 
+
+Reply
+
+![Image 41](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@Satisfactory-0](https://www.youtube.com/@Satisfactory-0)
+
+[2 months ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgxjE2tTtOZd01gkWnN4AaABAg)
+
+His simple way of explaining things is absolutely amazing ![Image 42: ❤](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+Show less Read more
+
+ Like 
+
+ 4 
+
+ Dislike 
+
+Reply
+
+![Image 43](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@abhijeetmahto3665](https://www.youtube.com/@abhijeetmahto3665)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgwpWFmZHdUNNaDcMJJ4AaABAg)
+
+Andrej dropping videos is like an artist dropping albums
+
+Show less Read more
+
+ Like 
+
+ 86 
+
+ Dislike 
+
+Reply
+
+![Image 44](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@rbr951](https://www.youtube.com/@rbr951)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugwm7H3nVl1xw6gbBrB4AaABAg)
+
+Andrej, i am almost 60. And i am so excited to watch your videos over and over!!! Man… what a teacher you are!!!
+
+Show less Read more
+
+ Like 
+
+ 90 
+
+ Dislike 
+
+Reply
+
+![Image 45](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@user-bg2tv1ly6q](https://www.youtube.com/@user-bg2tv1ly6q)
+
+[1 year ago (edited)](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=Ugwfjd_FefPn85vl5XR4AaABAg&pp=0gcJCSIANpG00pGi)
+
+After watching a few Andrej’s videos, I think I understand why his new company is going to be about education … I believe it will be a huge success
+
+Show less Read more
+
+ Like 
+
+ 70 
+
+ Dislike 
+
+Reply
+
+![Image 46](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@rohitlearnscode](https://www.youtube.com/@rohitlearnscode)
+
+[1 year ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgwMsYFkYKB2B2ZD_Sx4AaABAg)
+
+Thank you Mr. Karpathy. The fact that you don't have to do it but you are still doing it for the rest of us. Lots of respect for you.
+
+Show less Read more
+
+ Like 
+
+ 14 
+
+ Dislike 
+
+Reply
+
+![Image 47](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [@Imdad-h2q](https://www.youtube.com/@Imdad-h2q)
+
+[8 months ago](https://www.youtube.com/watch?v=EWvNQjAaOHw&lc=UgwicWpxxSYve65lVmt4AaABAg)
+
+the world needs a new video upload
+
+Show less Read more
+
+ Like 
+
+ 9 
+
+ Dislike 
+
+Reply
+
+NaN / NaN
+
+## Comments 2.3K
+
+[Top Show featured comments](https://www.youtube.com/watch?v=EWvNQjAaOHw)[Newest Show recent comments, including potential spam](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+## In this video
+
+Chapters
+
+Transcript
+
+## Chapters
+
+[![Image 48](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Intro into the growing LLM ecosystem ### Intro into the growing LLM ecosystem 0:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&pp=0gcJCSADDuyUWbzu)
+
+### [Intro into the growing LLM ecosystem](https://www.youtube.com/watch?v=EWvNQjAaOHw&pp=0gcJCSADDuyUWbzu)
+
+0:00
+
+[![Image 49](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### ChatGPT interaction under the hood ### ChatGPT interaction under the hood 2:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s)
+
+### [ChatGPT interaction under the hood](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s)
+
+2:54
+
+[![Image 50](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Basic LLM interactions examples ### Basic LLM interactions examples 13:12](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s)
+
+### [Basic LLM interactions examples](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s)
+
+13:12
+
+[![Image 51](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Be aware of the model you're using, pricing tiers ### Be aware of the model you're using, pricing tiers 18:03](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s)
+
+### [Be aware of the model you're using, pricing tiers](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s)
+
+18:03
+
+[![Image 52](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Thinking models and when to use them ### Thinking models and when to use them 22:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1374s&pp=0gcJCSADDuyUWbzu)
+
+### [Thinking models and when to use them](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1374s&pp=0gcJCSADDuyUWbzu)
+
+22:54
+
+[![Image 53](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Tool use: internet search ### Tool use: internet search 31:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1860s)
+
+### [Tool use: internet search](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1860s)
+
+31:00
+
+[![Image 54](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Tool use: deep research ### Tool use: deep research 42:04](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=2524s)
+
+### [Tool use: deep research](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=2524s)
+
+42:04
+
+[![Image 55](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### File uploads, adding documents to context ### File uploads, adding documents to context 50:57](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3057s)
+
+### [File uploads, adding documents to context](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3057s)
+
+50:57
+
+[![Image 56](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Tool use: python interpreter, messiness of the ecosystem ### Tool use: python interpreter, messiness of the ecosystem 59:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3540s)
+
+### [Tool use: python interpreter, messiness of the ecosystem](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3540s)
+
+59:00
+
+[![Image 57](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### ChatGPT Advanced Data Analysis, figures, plots ### ChatGPT Advanced Data Analysis, figures, plots 1:04:35](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3875s)
+
+### [ChatGPT Advanced Data Analysis, figures, plots](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3875s)
+
+1:04:35
+
+[![Image 58](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Claude Artifacts, apps, diagrams ### Claude Artifacts, apps, diagrams 1:09:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4140s)
+
+### [Claude Artifacts, apps, diagrams](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4140s)
+
+1:09:00
+
+[![Image 59](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Cursor: Composer, writing code ### Cursor: Composer, writing code 1:14:02](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4442s&pp=0gcJCSADDuyUWbzu)
+
+### [Cursor: Composer, writing code](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4442s&pp=0gcJCSADDuyUWbzu)
+
+1:14:02
+
+[![Image 60](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Audio (Speech) Input/Output ### Audio (Speech) Input/Output 1:22:28](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4948s)
+
+### [Audio (Speech) Input/Output](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4948s)
+
+1:22:28
+
+[![Image 61](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Advanced Voice Mode aka true audio inside the model ### Advanced Voice Mode aka true audio inside the model 1:27:37](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=5257s)
+
+### [Advanced Voice Mode aka true audio inside the model](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=5257s)
+
+1:27:37
+
+[![Image 62](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### NotebookLM, podcast generation ### NotebookLM, podcast generation 1:37:09](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=5829s)
+
+### [NotebookLM, podcast generation](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=5829s)
+
+1:37:09
+
+[![Image 63](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Image input, OCR ### Image input, OCR 1:40:20](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6020s&pp=0gcJCSADDuyUWbzu)
+
+### [Image input, OCR](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6020s&pp=0gcJCSADDuyUWbzu)
+
+1:40:20
+
+[![Image 64](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Image output, DALL-E, Ideogram, etc. ### Image output, DALL-E, Ideogram, etc. 1:47:02](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6422s)
+
+### [Image output, DALL-E, Ideogram, etc.](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6422s)
+
+1:47:02
+
+[![Image 65](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Video input, point and talk on app ### Video input, point and talk on app 1:49:14](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6554s)
+
+### [Video input, point and talk on app](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6554s)
+
+1:49:14
+
+[![Image 66](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Video output, Sora, Veo 2, etc etc. ### Video output, Sora, Veo 2, etc etc. 1:52:23](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6743s)
+
+### [Video output, Sora, Veo 2, etc etc.](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6743s)
+
+1:52:23
+
+[![Image 67](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### ChatGPT memory, custom instructions ### ChatGPT memory, custom instructions 1:53:29](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6809s)
+
+### [ChatGPT memory, custom instructions](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6809s)
+
+1:53:29
+
+[![Image 68](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Custom GPTs ### Custom GPTs 1:58:38](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=7118s)
+
+### [Custom GPTs](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=7118s)
+
+1:58:38
+
+[![Image 69](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Summary ### Summary 2:06:30](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=7590s)
+
+### [Summary](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=7590s)
+
+2:06:30
+
+Sync to video time
+
+## Description
+
+How I use LLMs
+
+[![Image 70: Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw)](https://www.youtube.com/@AndrejKarpathy)
+
+Andrej Karpathy
+
+ Andrej Karpathy 
+
+66K Likes
+
+2,608,507 Views
+
+2025 Feb 27
+
+The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life. Chapters [00:00:00](https://www.youtube.com/watch?v=EWvNQjAaOHw) Intro into the growing LLM ecosystem [00:02:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s) ChatGPT interaction under the hood [00:13:12](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s) Basic LLM interactions examples [00:18:03](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s) Be aware of the model you're using, pricing tiers [00:22:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1374s) Thinking models and when to use them [00:31:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1860s) Tool use: internet search [00:42:04](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=2524s) Tool use: deep research [00:50:57](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3057s) File uploads, adding documents to context [00:59:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3540s) Tool use: python interpreter, messiness of the ecosystem [01:04:35](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=3875s) ChatGPT Advanced Data Analysis, figures, plots [01:09:00](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4140s) Claude Artifacts, apps, diagrams [01:14:02](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4442s) Cursor: Composer, writing code [01:22:28](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=4948s) Audio (Speech) Input/Output [01:27:37](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=5257s) Advanced Voice Mode aka true audio inside the model [01:37:09](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=5829s) NotebookLM, podcast generation [01:40:20](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6020s) Image input, OCR [01:47:02](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6422s) Image output, DALL-E, Ideogram, etc. [01:49:14](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6554s) Video input, point and talk on app [01:52:23](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6743s) Video output, Sora, Veo 2, etc etc. [01:53:29](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=6809s) ChatGPT memory, custom instructions [01:58:38](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=7118s) Custom GPTs [02:06:30](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=7590s) Summary Links 
+*   Tiktokenizer [https://tiktokenizer.vercel.app/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUUUwOWM1WVc1RERLUGo0ZzdtY0RaanxBR3JiS2FsbkVodmtSakhud3N3Uk1QUzZRZmU0QUwzbG96eWs2SXpIWmRxRWlQRV9SM0FOYWFjTkRpSTJDUXFOVC03SmU0UmJTdl83QUNqNnFXYUFGRGdTamNDNEEtdlRSQlJt&q=https%3A%2F%2Ftiktokenizer.vercel.app%2F&v=EWvNQjAaOHw)
+*   OpenAI's ChatGPT [https://chatgpt.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rU2dfMTdDVWdnQzFyX3BJQUFfWUFaZnxBR3JiS2FtbHA1WnNxb0JqNzAzdDBPRjhQdmdXbnBHOFVOQjEyN09qbnJTNXp6TWo5eDFoRnR1VWhDZ2E5T2Z2S3JxLWI0R0VCRV9LNE9PSWVoV0dEa1E4emh4VlMtOWpDUWpF&q=https%3A%2F%2Fchatgpt.com%2F&v=EWvNQjAaOHw)
+*   Anthropic's Claude [https://claude.ai/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUmRfZmMzcHMxUU1SS0JwOExSWGhESnxBR3JiS2FrcFJzTU53aGF1QVh0RFNYRTRiMVFMN2w4UHRFejRXdUI0MUVrY0tvNWFxalM0N1NSQjZQdHU1Q21CN0F4d3VIb1Z5bDI3MHVxZzFQNWJlQ19IMG14dVY2UW9DMXB6&q=https%3A%2F%2Fclaude.ai%2F&v=EWvNQjAaOHw)
+*   Google's Gemini [https://gemini.google.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUlJWbUI2cXdfMGI3T2Y2dUtPQ2lvQnxBR3JiS2FtTDkxeFo5Ui1GSDc2LXRmWjlienEtbTlfRm5iQ0diN0k3TFdXTC1ZTjhuYmNOajh6UWhTZWZuTFZCcFliazJ2ckZDblhYNEJ0VEl1VVY5X1NKUXB6NFdLempzZDBm&q=https%3A%2F%2Fgemini.google.com%2F&v=EWvNQjAaOHw)
+*   xAI's Grok [https://grok.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVDFHTUQtZ2tKaHdqa3Rza2ZsSldnb3xBR3JiS2FuclhndWhTVzRVNU9ueFd1QTMzYUhMZEZSZGFtLS1fUEQ2LVBicVBwWF8tRXRJZ3pQME94aktfUWRybFhkeUJ6MjhFalpLczFFdHNnc3I1bHRMaGNrQXV2c2dVODBl&q=https%3A%2F%2Fgrok.com%2F&v=EWvNQjAaOHw)
+*   Perplexity [https://www.perplexity.ai/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rU1NhZFc3eWV2SlY5dUxpTTJYdVdYcHxBR3JiS2FtVTRlMFhJU0c0a2NpandMdDhTZEw0azFQOUQ5VklJWHk4clFKTS15cEtvUnZEQ3VfVzVGd0Q0M2gtTnZTb181eWdzMFRXYWVfZk92Mzk4UzlBd3VUS1hTMWw2c25l&q=https%3A%2F%2Fwww.perplexity.ai%2F&v=EWvNQjAaOHw)
+*   Google's NotebookLM [https://notebooklm.google.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVHI4OHZDRUN5Y1VwT2NOSkVvX0R1N3xBR3JiS2FtY2hxbFR5Sm9DYUcxS0ZWUnlxUF9jV0NyTWVLZldObjdWNmhQVmRvazJ1UC1IQU9QWnlQWktVank1OGdaVUZrRW5MRElabTFJWDY1eGN2ZUZYRzl2R1YxTlJfRGRN&q=https%3A%2F%2Fnotebooklm.google.com%2F&v=EWvNQjAaOHw)
+*   Cursor [https://www.cursor.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUW9HRnBIcEpPSzhUeFFxelJpa18wMHxBR3JiS2FuVjR5bUVMRk9oejN5N2pCTXBlX3pCdGhiOTJ6eVJwdlM4Nzc0UmVkM3ZTRnZnaE44RndMV21UMmRCMHpVd2paeE1EWEViWWphZDdBOUNrQzRXMWlKRDlrSU5QcEhK&q=https%3A%2F%2Fwww.cursor.com%2F&v=EWvNQjAaOHw)
+*   Histories of Mysteries AI podcast on Spotify [https://open.spotify.com/show/3K4LRyM...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVFpndktIN1lPeHV3a09qSFZqbWROSHxBR3JiS2FtaV9FcFd6ZnNtbEFsU09oV2pYRURDcTVzaXE4ZDA3T1p3YjZpdlktNmNUMXBUSE5ISi1qYjRWSkRRTGVlc1RCZUhqVkR1THZyVWNrMWlrNlBNM0RKZVRCaTJtWjZp&q=https%3A%2F%2Fopen.spotify.com%2Fshow%2F3K4LRyMCP44kBbiOziwJjb&v=EWvNQjAaOHw)
+
+*   The visualization UI I was using in the video: [https://excalidraw.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVGZxTzFVTTVMYk1rT21VNm9PZUI4cnxBR3JiS2FuakNUdC1zcGtfOF94YmFhcWpNZ2JpbV84alFPQ1U4WEt2Wk51UmRpRkZkbEx1clZzd1FVaFVYZ2JzVGlXUTJ1OVBBbF9uSTlTQjYzRExMNkxKZ2p1dkI5Mml4Y2U1&q=https%3A%2F%2Fexcalidraw.com%2F&v=EWvNQjAaOHw)
+*   The specific file of Excalidraw we built up: [https://drive.google.com/file/d/1DN3L...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVDVhM2UxMlJlRG0xMjdPaE9hdHdzZnxBR3JiS2FsNG8tX0NUVmdWdzNkSWhzbmk1WkRiVFZfZ3RmUHJSRlFKRGZvUnc3cFlxMUhoUjdUT04tUVpVd1NFdnI3UW5wZ1JRUG0xNm40Z2g0OXh0T1AyMTM3ZXJUTlJJMUww&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1DN3LU3MbKI00udxoS-W5ckCHq99V0Uqs%2Fview%3Fusp%3Dsharing&v=EWvNQjAaOHw)
+*   Discord channel for Eureka Labs and this video: [![Image 71](https://www.youtube.com/watch?v=EWvNQjAaOHw)/discord](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUWVOdzMzU2VHNGVycWl4NjhYcE5rTXxBR3JiS2FuZV8wTlZPQVB2Vk5pd1BiX25EcTFsSVV3SFBmZ3c5R1lsbDRVMy0yRjVrbms2YmZQQUZiQkdGc2F3Uzk4Zlg4UmMtcno4OFlvTjZlM01tZUtpSkpBUnUzQVl4M21x&q=https%3A%2F%2Fdiscord.gg%2F3zy8kqD9Cp&v=EWvNQjAaOHw)
+
+ Educational Use Licensing This video is freely available for educational and internal training purposes. Educators, students, schools, universities, nonprofit institutions, businesses, and individual learners may use this content freely for lessons, courses, internal training, and learning activities, provided they do not engage in commercial resale, redistribution, external commercial use, or modify content to misrepresent its intent.…...more 
+
+...more Show less 
+
+## Chapters
+
+View all
+
+[![Image 72](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Intro into the growing LLM ecosystem ### Intro into the growing LLM ecosystem 0:00](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Intro into the growing LLM ecosystem](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+0:00
+
+[![Image 73](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### ChatGPT interaction under the hood ### ChatGPT interaction under the hood 2:54](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s)
+
+### [ChatGPT interaction under the hood](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=174s)
+
+2:54
+
+[![Image 74](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Basic LLM interactions examples ### Basic LLM interactions examples 13:12](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s)
+
+### [Basic LLM interactions examples](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=792s)
+
+13:12
+
+[![Image 75](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Be aware of the model you're using, pricing tiers ### Be aware of the model you're using, pricing tiers 18:03](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s&pp=0gcJCSADDuyUWbzu)
+
+### [Be aware of the model you're using, pricing tiers](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1083s&pp=0gcJCSADDuyUWbzu)
+
+18:03
+
+Transcript
+
+Follow along using the transcript.
+
+Show transcript
+
+[![Image 76](https://www.youtube.com/watch?v=EWvNQjAaOHw) ### Andrej Karpathy 1.62M subscribers](https://www.youtube.com/@AndrejKarpathy)
+
+[Videos](https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ/videos)[About](https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ/about)[![Image 77](https://www.youtube.com/watch?v=EWvNQjAaOHw) Discord](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUM4Zm9rU3huUFBsdnBMTkUtVHRwa0UwSlk3dnxBR3JiS2FtUVY4YmhiZE1IVmxHakhhNmpKS3Jtc0xRelJqRFI4VEt5MHdNWnRoY3lVSGxVSUQ4dlZFdnEtYXd4VTZFZHpFT2pLdHBfT1ByODdrVFoyenB6NTB2Szdmdml3clZG&q=https%3A%2F%2Fdiscord.gg%2F3zy8kqD9Cp)
+
+## Transcript
+
+[![Image 78](https://i.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAgu2DOHMs2z1bUovuEcI0BkF0Vg) 3:31:24](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+![Image 79](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+
+Andrej Karpathy
+
+8.3M 1y ago
+
+[![Image 80](https://i.ytimg.com/vi/cixmqTsi2A4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCN44GwruncHWInk0BXRGpu3Ys8ng) 1:54:09](https://www.youtube.com/watch?v=cixmqTsi2A4&pp=ugUHEgVlbi1VUw%3D%3D)
+
+![Image 81](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [RL for Agents Workshop - Deep Dive on Training Agents with RL and Open Source](https://www.youtube.com/watch?v=cixmqTsi2A4&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Hugging Face
+
+198K Streamed 3mo ago
+
+[![Image 82](https://i.ytimg.com/vi/srx9iwnjK2M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVzbgWRRb5FF1p1SofENlnK3tqwA) 2:45:31](https://www.youtube.com/watch?v=srx9iwnjK2M)
+
+![Image 83](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Full Archon Guide - Build AI Coding Harnesses That Actually Ship (LIVE)](https://www.youtube.com/watch?v=srx9iwnjK2M)
+
+Cole Medin
+
+100K Streamed 3mo ago
+
+[![Image 84](https://i.ytimg.com/vi/1h46cNkyXlE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_NIkZf8bZlEqrtHH39QWV3-W0kw) 3:54:45](https://www.youtube.com/watch?v=1h46cNkyXlE)
+
+![Image 85](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [JavaScript Tutorial For Beginners | JavaScript Training | JavaScript Course | Intellipaat](https://www.youtube.com/watch?v=1h46cNkyXlE)
+
+Intellipaat
+
+1.4M Streamed 5y ago
+
+[![Image 86](https://i.ytimg.com/vi/S7sd0Sdn3Gk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAUj2dB0jyYh34Sr73SzGOMt92lQ) 1:43:36](https://www.youtube.com/watch?v=S7sd0Sdn3Gk&pp=ugUHEgVlbi1VUw%3D%3D)
+
+![Image 87](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [The AI Blueprint: How To Use AI To Make Millions, & Change Your Life w/ Alicia Lyttle 🚀](https://www.youtube.com/watch?v=S7sd0Sdn3Gk&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Earn Your Leisure
+
+213K Streamed 1mo ago
+
+[![Image 88](https://i.ytimg.com/vi/KsgxDz-nY_I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQ1Vt5o5PwUM7r3txOduC5DTgpUQ) 2:34:42](https://www.youtube.com/watch?v=KsgxDz-nY_I)
+
+![Image 89](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Power Automate Tutorial ⚡ Beginner To Pro [Full Course]](https://www.youtube.com/watch?v=KsgxDz-nY_I)
+
+Pragmatic Works
+
+693K Streamed 2y ago
+
+[![Image 90](https://i.ytimg.com/vi/LG_YlRGTYrQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBk5wpD-agonXvBW3vWQpcxd6NgSA) 37:16](https://www.youtube.com/watch?v=LG_YlRGTYrQ)
+
+![Image 91](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Politics Chat, July 30, 2026](https://www.youtube.com/watch?v=LG_YlRGTYrQ)
+
+Heather Cox Richardson
+
+159K Streamed 9h ago
+
+New
+
+[![Image 92](https://i.ytimg.com/vi/lUUte2o2Sn8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTUgy5S81yGwmLlSVyTYSuy8lURA) 1:05:09](https://www.youtube.com/watch?v=lUUte2o2Sn8&pp=ugUEEgJlbg%3D%3D)
+
+![Image 93](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Gil Strang's Final 18.06 Linear Algebra Lecture](https://www.youtube.com/watch?v=lUUte2o2Sn8&pp=ugUEEgJlbg%3D%3D)
+
+MIT OpenCourseWare
+
+3.3M Streamed 3y ago
+
+[![Image 94](https://i.ytimg.com/vi/c-zlMcdIqk0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBaGFVxPm6vzmaWJ30Kmy9k2Yg5A) 3:27:45](https://www.youtube.com/watch?v=c-zlMcdIqk0)
+
+![Image 95](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Free Event: Power BI Beginner to Pro 2026 Edition - Full Hands-On Tutorial](https://www.youtube.com/watch?v=c-zlMcdIqk0)
+
+Pragmatic Works
+
+397K Streamed 6mo ago
+
+[![Image 96](https://i.ytimg.com/vi/nH8c60ZbSgw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKBBpCrO0BgXbWEtZWwX5qYYQQfA) 2:12:08](https://www.youtube.com/watch?v=nH8c60ZbSgw)
+
+![Image 97](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Live Q&A with Brian Greene | World Science Festival](https://www.youtube.com/watch?v=nH8c60ZbSgw)
+
+World Science Festival
+
+212K Streamed 3mo ago
+
+[![Image 98](https://i.ytimg.com/vi/IRPOlmaKpYA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjF0h4vOXpgrV7WguBIs2sMGOeIg) 3:23:25](https://www.youtube.com/watch?v=IRPOlmaKpYA)
+
+![Image 99](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Welcome to the Game 3: Markiplier's Redemption](https://www.youtube.com/watch?v=IRPOlmaKpYA)
+
+Markiplier
+
+3M Streamed 13d ago
+
+[![Image 100](https://www.youtube.com/watch?v=EWvNQjAaOHw) 2:57:12](https://www.youtube.com/watch?v=PwUXF4vU3Qg)
+
+![Image 101](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Santo Rosário | Sexta-feira | 04:00 | 17/07/2026 | Live Ao vivo](https://www.youtube.com/watch?v=PwUXF4vU3Qg)
+
+Frei Gilson / Som do Monte - OFICIAL
+
+1M Streamed 13d ago
+
+[![Image 102](https://www.youtube.com/watch?v=EWvNQjAaOHw) 2:34:41](https://www.youtube.com/watch?v=MrLnibFTtbA)
+
+![Image 103](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Data Modeling for Power BI [Full Course] 📊](https://www.youtube.com/watch?v=MrLnibFTtbA)
+
+Pragmatic Works
+
+3.5M Streamed 3y ago
+
+[![Image 104](https://www.youtube.com/watch?v=EWvNQjAaOHw) 1:05:32](https://www.youtube.com/watch?v=ftsOb9c38yQ&pp=ugUHEgVlbi1VUw%3D%3D)
+
+![Image 105](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Ben Wikler | American Conversations](https://www.youtube.com/watch?v=ftsOb9c38yQ&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Heather Cox Richardson
+
+158K Streamed 3d ago
+
+New
+
+[![Image 106](https://www.youtube.com/watch?v=EWvNQjAaOHw) 45:50](https://www.youtube.com/watch?v=De97zQi5rzc&pp=ugUHEgVlbi1VUw%3D%3D)
+
+![Image 107](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Music Theory Masterclass 1: Drilling the Basics](https://www.youtube.com/watch?v=De97zQi5rzc&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Rick Beato
+
+1.8M Streamed 5y ago
+
+[![Image 108](https://www.youtube.com/watch?v=EWvNQjAaOHw) 1:00:48](https://www.youtube.com/watch?v=Tv9ycc-6Zvc&pp=ugUHEgVlbi1VUw%3D%3D)
+
+![Image 109](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Can I Win this Tournament with AGGRESSIVE GAMBITS?!?!](https://www.youtube.com/watch?v=Tv9ycc-6Zvc&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Eric Rosen
+
+34K Streamed 7d ago
+
+[![Image 110](https://www.youtube.com/watch?v=EWvNQjAaOHw) 34:57](https://www.youtube.com/watch?v=3zN7TjX7h18)
+
+![Image 111](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [How to understand native speakers when they talk quickly: Live English Class](https://www.youtube.com/watch?v=3zN7TjX7h18)
+
+BBC Learning English
+
+310K Streamed 9mo ago
+
+[![Image 112](https://www.youtube.com/watch?v=EWvNQjAaOHw) 2:44:32](https://www.youtube.com/watch?v=4sAOFCyybnA)
+
+![Image 113](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [The Secret Psychology Of Accomplishing Anything](https://www.youtube.com/watch?v=4sAOFCyybnA)
+
+Myron Golden
+
+361K Streamed 1y ago
+
+[![Image 114](https://www.youtube.com/watch?v=EWvNQjAaOHw) 36:59](https://www.youtube.com/watch?v=a1B1jXXVzPQ)
+
+![Image 115](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [Jfrog | Jfrog Artifactory | Jfrog Artifactory Tutorial | Artifactory Tutorial | Intellipaat](https://www.youtube.com/watch?v=a1B1jXXVzPQ)
+
+Intellipaat
+
+218K Streamed 5y ago
+
+[![Image 116](https://www.youtube.com/watch?v=EWvNQjAaOHw) 1:01:57](https://www.youtube.com/watch?v=kSux13Yy4pM&pp=ugUHEgVlbi1VUw%3D%3D)
+
+![Image 117](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
+### [As Much GUITAR THEORY As I Can Teach In 1 Hour](https://www.youtube.com/watch?v=kSux13Yy4pM&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Rick Beato
+
+1.5M Streamed 5y ago
+
+Show more
+
+Show more
+
+[](https://www.youtube.com/watch?v=EWvNQjAaOHw)
