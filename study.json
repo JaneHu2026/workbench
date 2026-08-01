@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:54",
+ "fetchedAt": "11:12",
  "fetchedDate": "2026-08-01",
  "source": "server",
  "items": [
@@ -10,28 +10,18 @@
     {
      "title": "AI生成的作品算艺术吗",
      "link": "https://www.douyin.com/search/AI%E7%94%9F%E6%88%90%E7%9A%84%E4%BD%9C%E5%93%81%E7%AE%97%E8%89%BA%E6%9C%AF%E5%90%97?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785589200&x-signature=do6XbtDQrZTkBliMuRJnhc1ji3I%3D&from=3218412987",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oM0A2LqAAE9dEQLAFBApsIIDsglNbOABeTfDty~noop.jpeg?lk3s=bfd515bb&x-expires=1785603600&x-signature=oj6bSQ%2B5YwlXU1pL%2BN9VmRAz63A%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 9152305",
+     "meta": "🔥 7841366",
      "desc": "热门话题「AI生成的作品算艺术吗」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "C罗输球后砸坏自闭症小孩手机",
-     "link": "https://www.xiaohongshu.com/explore/6a4d868a000000001503c4be?xsec_token=AB3PuR4-JzF6lpcrByI3K0Vl-umo67BbSSsqP0-nkfXmg%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608011553/2d10e5793b7fbb77fac73851acdadd4e/spectrum/1040g34o322bcsqia70105qgqbpc08t00efkslg8!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "艾凌体育",
-     "meta": "❤️ 2.9万",
-     "desc": "#C罗[话题]# #跳水罗[话题]# #总裁C罗[话题]# #世界杯聊个球[话题]# #藏不住了我是球迷[话题]# #好视频扶持计划[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
