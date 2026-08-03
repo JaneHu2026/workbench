@@ -1,5 +1,5 @@
 {
- "fetchedAt": "12:40",
+ "fetchedAt": "16:00",
  "fetchedDate": "2026-08-03",
  "source": "server",
  "items": [
@@ -10,18 +10,28 @@
     {
      "title": "全球首款可DIY个人机器人亮相",
      "link": "https://www.douyin.com/search/%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E5%8F%AFDIY%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQMmiBaNBEAW0Pw6nIZ1PFiIA1XP69FIWA9Zx~noop.jpeg?lk3s=bfd515bb&x-expires=1785780000&x-signature=UboM8NnZOZ8%2Fot4ynO09VsXD2xU%3D&from=3218412987",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQMmiBaNBEAW0Pw6nIZ1PFiIA1XP69FIWA9Zx~noop.jpeg?lk3s=bfd515bb&x-expires=1785790800&x-signature=7VSXvvBHDxks4UaD3mHqljB7zRI%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 9183646",
+     "meta": "🔥 8638917",
      "desc": "热门话题「全球首款可DIY个人机器人亮相」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "“机器人伴侣”订单火爆，却被吐槽货不对板",
+     "link": "https://www.xiaohongshu.com/explore/6a471082000000002103edcf?xsec_token=ABoAGCGXHI2xM6NjnU9uJZdIHCKisze3yS240ESxH5RDI%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608032359/d8f72d7c9dd03b0ae974c261b25a99f4/spectrum/1040g0k03225303ptn2005o9tjiigksbslkd7uu0!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "果然视频",
+     "meta": "❤️ 6189",
+     "desc": "“机器人伴侣”订单火爆，却被吐槽“货不对板”！Pro款深夜优惠1万元，不能行走、做家务，主打情感陪伴！"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -32,7 +42,7 @@
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2小时前",
+     "meta": "6小时前",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
@@ -41,7 +51,7 @@
      "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
      "cover": "https://i1.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "21小时前",
+     "meta": "1天前",
      "pub": "2026-08-02T15:01:10+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：🙏 我们要感谢我们的 Gener"
     },
