@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:08",
- "fetchedDate": "2026-08-02",
+ "fetchedAt": "12:40",
+ "fetchedDate": "2026-08-03",
  "source": "server",
  "items": [
   {
@@ -8,22 +8,13 @@
    "ok": true,
    "items": [
     {
-     "title": "这届AI进化到开始玩心眼了",
-     "link": "https://www.douyin.com/search/%E8%BF%99%E5%B1%8AAI%E8%BF%9B%E5%8C%96%E5%88%B0%E5%BC%80%E5%A7%8B%E7%8E%A9%E5%BF%83%E7%9C%BC%E4%BA%86?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oA9g3a6IPRLmiA9iRAB1jwIURJQBkdYtPMlsI~noop.jpeg?lk3s=bfd515bb&x-expires=1785690000&x-signature=mQK6dPCJltAa2WnxBjmh%2FZLPQA4%3D&from=3218412987",
+     "title": "全球首款可DIY个人机器人亮相",
+     "link": "https://www.douyin.com/search/%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E5%8F%AFDIY%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8?type=general",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQMmiBaNBEAW0Pw6nIZ1PFiIA1XP69FIWA9Zx~noop.jpeg?lk3s=bfd515bb&x-expires=1785780000&x-signature=UboM8NnZOZ8%2Fot4ynO09VsXD2xU%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 9320102",
-     "desc": "热门话题「这届AI进化到开始玩心眼了」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    },
-    {
-     "title": "陆毅鲍蕾看女儿做的AI生日短片",
-     "link": "https://www.douyin.com/search/%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E7%9C%8B%E5%A5%B3%E5%84%BF%E5%81%9A%E7%9A%84AI%E7%94%9F%E6%97%A5%E7%9F%AD%E7%89%87?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/okiqYqsedAosC9ziwEF0bnoD3fnlGMpEEABtuI~noop.jpeg?lk3s=bfd515bb&x-expires=1785690000&x-signature=7aWS23ZMjAUCdbyHEv%2BpCt5P6uY%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7671403",
-     "desc": "热门话题「陆毅鲍蕾看女儿做的AI生日短片」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 9183646",
+     "desc": "热门话题「全球首款可DIY个人机器人亮相」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -37,11 +28,29 @@
    "ok": true,
    "items": [
     {
+     "title": "Another DeepSeek Moment Has Arrived",
+     "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+     "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2小时前",
+     "pub": "2026-08-03T09:47:34+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
+    },
+    {
+     "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+     "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+     "cover": "https://i1.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "21小时前",
+     "pub": "2026-08-02T15:01:10+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：🙏 我们要感谢我们的 Gener"
+    },
+    {
      "title": "Kimi K3 Just Broke The Economics Of AI",
      "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
      "cover": "https://i1.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "5天前",
      "pub": "2026-07-29T12:37:50+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：尝试 Kimi K3（视情况而定）"
     },
@@ -89,24 +98,6 @@
      "meta": "07月17日",
      "pub": "2026-07-17T21:55:53+00:00",
      "desc": "🔗 链接 🔗 我挑战 Kimi K3 vs Fable 5 vs Sol 5.6 来制作《奥德赛》.... 只需一个提示！结果是stu"
-    },
-    {
-     "title": "I tested Kimi K3 with INSANE prompts....",
-     "link": "https://www.youtube.com/watch?v=uBFkApLTMbw",
-     "cover": "https://i2.ytimg.com/vi/uBFkApLTMbw/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "07月16日",
-     "pub": "2026-07-16T23:29:20+00:00",
-     "desc": "我用奇怪的提示测试了 Kimi K3，模型的结果就在这个视频中！ Max Weinbach 的 Kimi K3 Mac OS Sim"
-    },
-    {
-     "title": "Claude Just Revealed AI's Biggest Problem",
-     "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-     "cover": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "07月16日",
-     "pub": "2026-07-16T15:39:17+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：🙏 我们希望……"
     }
    ]
   }
