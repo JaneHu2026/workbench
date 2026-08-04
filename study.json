@@ -1,35 +1,34 @@
 {
- "fetchedAt": "16:00",
- "fetchedDate": "2026-08-03",
+ "fetchedAt": "10:15",
+ "fetchedDate": "2026-08-04",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "全球首款可DIY个人机器人亮相",
-     "link": "https://www.douyin.com/search/%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E5%8F%AFDIY%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8?type=general",
-     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQMmiBaNBEAW0Pw6nIZ1PFiIA1XP69FIWA9Zx~noop.jpeg?lk3s=bfd515bb&x-expires=1785790800&x-signature=7VSXvvBHDxks4UaD3mHqljB7zRI%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 8638917",
-     "desc": "热门话题「全球首款可DIY个人机器人亮相」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
    "ok": true,
    "items": [
     {
-     "title": "“机器人伴侣”订单火爆，却被吐槽货不对板",
-     "link": "https://www.xiaohongshu.com/explore/6a471082000000002103edcf?xsec_token=ABoAGCGXHI2xM6NjnU9uJZdIHCKisze3yS240ESxH5RDI%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608032359/d8f72d7c9dd03b0ae974c261b25a99f4/spectrum/1040g0k03225303ptn2005o9tjiigksbslkd7uu0!nc_n_nwebp_prv_1",
+     "title": "🌈✨💛华为mate80彩色小冰块🧊～好绝 好夏天！",
+     "link": "https://www.xiaohongshu.com/explore/6a417988000000001702ba37?xsec_token=AB5f5_okE2s3jwA7WCXCFlF1lWOmcW2cVo3E-bsLtouEY%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608041814/dd2a7c59a1c69728b0e63c96c90ddf4c/1040g008321vi2cvdnu1g5nlfjrog895n8kffi40!nc_n_nwebp_prv_1",
      "source": "小红书",
-     "author": "果然视频",
-     "meta": "❤️ 6189",
-     "desc": "“机器人伴侣”订单火爆，却被吐槽“货不对板”！Pro款深夜优惠1万元，不能行走、做家务，主打情感陪伴！"
+     "author": "壳壳主义的店",
+     "meta": "❤️ 1062",
+     "desc": "#手机壳[话题]# #华为手机壳[话题]# #华为mate60手机壳[话题]# #苹果17手机壳[话题]# #ins风手机壳[话题]# #苹果17promax手机壳[话题]# #夏天手机壳[话题]# #美式复古[话题]# #苹果17pro手机壳[话题]# #华为p70pro手机壳[话题]#"
+    },
+    {
+     "title": "哥们儿，一定是ChatGPT的忠实用户",
+     "link": "https://www.xiaohongshu.com/explore/6a32289d0000000007013626?xsec_token=AB4DQAzSVoO29t8lfIp0E4QHhOB8ZDOAHHH8bLUTymnrk%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608041814/8787e161c65f7a929ad1d6de4a3c608d/1040g008321glj8e57u005poctchnce1nupr6dsg!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "我不是幻想家",
+     "meta": "❤️ 3.7万",
+     "desc": "#拍下毕业前的60秒[话题]# #浪漫生活的记录者[话题]# #记录生活[话题]# #GPT[话题]# #人生的意义[话题]# #人工智能[话题]# #毕业季[话题]# #ai[话题]# #随拍[话题]#"
     }
    ]
   },
@@ -42,7 +41,7 @@
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "6小时前",
+     "meta": "1天前",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
