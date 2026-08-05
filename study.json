@@ -1,5 +1,5 @@
 {
- "fetchedAt": "10:04",
+ "fetchedAt": "12:27",
  "fetchedDate": "2026-08-05",
  "source": "server",
  "items": [
@@ -10,18 +10,8 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "上完班回家看到这些都没力气上吊了租房 零零后 省钱小妙招 青年大学习 出租屋",
-     "link": "https://www.xiaohongshu.com/explore/6a3f4a5a000000001101dc18?xsec_token=ABU28n-C3uTxzchOdcgC9pVmF1J_HJU3fOkq7ry_7Ghhk%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608051804/46d4db57542f8932bf4ff65bceac00e0/spectrum/1040g0k0321tg1jqcn2005p1diri4i2o1oe7oioo!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "桃气小娱",
-     "meta": "❤️ 2.1万",
-     "desc": "上完班回家看到这些都没力气上吊了#租房[话题]# #零零后[话题]# #省钱小妙招[话题]# #青年大学习[话题]# #出租屋[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
