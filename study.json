@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:31",
- "fetchedDate": "2026-08-04",
+ "fetchedAt": "10:04",
+ "fetchedDate": "2026-08-05",
  "source": "server",
  "items": [
   {
@@ -10,8 +10,18 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "上完班回家看到这些都没力气上吊了租房 零零后 省钱小妙招 青年大学习 出租屋",
+     "link": "https://www.xiaohongshu.com/explore/6a3f4a5a000000001101dc18?xsec_token=ABU28n-C3uTxzchOdcgC9pVmF1J_HJU3fOkq7ry_7Ghhk%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608051804/46d4db57542f8932bf4ff65bceac00e0/spectrum/1040g0k0321tg1jqcn2005p1diri4i2o1oe7oioo!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "桃气小娱",
+     "meta": "❤️ 2.1万",
+     "desc": "上完班回家看到这些都没力气上吊了#租房[话题]# #零零后[话题]# #省钱小妙招[话题]# #青年大学习[话题]# #出租屋[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -22,7 +32,7 @@
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
@@ -31,7 +41,7 @@
      "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
      "cover": "https://i1.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-02T15:01:10+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：🙏 我们要感谢我们的 Gener"
     },
@@ -40,7 +50,7 @@
      "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
      "cover": "https://i1.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-07-29T12:37:50+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：尝试 Kimi K3（视情况而定）"
     },
