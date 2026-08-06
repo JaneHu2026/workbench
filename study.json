@@ -1,12 +1,22 @@
 {
- "fetchedAt": "12:27",
- "fetchedDate": "2026-08-05",
+ "fetchedAt": "10:13",
+ "fetchedDate": "2026-08-06",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "戚薇用AI解锁末世",
+     "link": "https://www.douyin.com/search/%E6%88%9A%E8%96%87%E7%94%A8AI%E8%A7%A3%E9%94%81%E6%9C%AB%E4%B8%96?type=general",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYAzfhgOPAEIVqNwCBe1aZBcdiANiA0wZbGIDx~noop.jpeg?lk3s=bfd515bb&x-expires=1786032000&x-signature=xsAAAIHBokIDCj6Zr61JOU9msEA%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7718725",
+     "desc": "热门话题「戚薇用AI解锁末世」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -18,11 +28,20 @@
    "ok": true,
    "items": [
     {
+     "title": "The Billion Dollar AI Race Just Broke",
+     "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+     "cover": "https://i1.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "20小时前",
+     "pub": "2026-08-05T13:54:29+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Qwen 3.8 Max：来源："
+    },
+    {
      "title": "Another DeepSeek Moment Has Arrived",
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
@@ -31,18 +50,9 @@
      "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
      "cover": "https://i1.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-02T15:01:10+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：🙏 我们要感谢我们的 Gener"
-    },
-    {
-     "title": "Kimi K3 Just Broke The Economics Of AI",
-     "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-     "cover": "https://i1.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "6天前",
-     "pub": "2026-07-29T12:37:50+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 该论文可在此处获取：尝试 Kimi K3（视情况而定）"
     },
     {
      "title": "The 64 sugar cubes puzzle",
