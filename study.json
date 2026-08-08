@@ -1,5 +1,5 @@
 {
- "fetchedAt": "04:00",
+ "fetchedAt": "08:07",
  "fetchedDate": "2026-08-08",
  "source": "server",
  "items": [
@@ -10,8 +10,18 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "蜗蜗喝个小米粥白玉蜗牛 爬宠",
+     "link": "https://www.xiaohongshu.com/explore/6a49ab41000000001702bbbd?xsec_token=ABee5kusrE9_80M1CkKsjcu33FlG8SDZs4DwJOios0MsE%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608081607/fca291219210bbcf0f8a716d42e3535c/1040g2sg3227kca447ok05q40pp57n2cpq0mbso0!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "关注王转转",
+     "meta": "❤️ 4945",
+     "desc": "蜗蜗喝个小米粥#白玉蜗牛[话题]# #爬宠[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -22,7 +32,7 @@
      "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
      "cover": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "19小时前",
+     "meta": "23小时前",
      "pub": "2026-08-07T08:22:00+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Gemma4 论文以及更多内容可在此处找到："
     },
