@@ -1,6 +1,6 @@
 {
- "fetchedAt": "08:07",
- "fetchedDate": "2026-08-08",
+ "fetchedAt": "04:42",
+ "fetchedDate": "2026-08-09",
  "source": "server",
  "items": [
   {
@@ -10,29 +10,28 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "蜗蜗喝个小米粥白玉蜗牛 爬宠",
-     "link": "https://www.xiaohongshu.com/explore/6a49ab41000000001702bbbd?xsec_token=ABee5kusrE9_80M1CkKsjcu33FlG8SDZs4DwJOios0MsE%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608081607/fca291219210bbcf0f8a716d42e3535c/1040g2sg3227kca447ok05q40pp57n2cpq0mbso0!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "关注王转转",
-     "meta": "❤️ 4945",
-     "desc": "蜗蜗喝个小米粥#白玉蜗牛[话题]# #爬宠[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
     {
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "11小时前",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
+    },
+    {
      "title": "DeepMind Just Changed How AI Sees The World",
      "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
      "cover": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "23小时前",
+     "meta": "1天前",
      "pub": "2026-08-07T08:22:00+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Gemma4 论文以及更多内容可在此处找到："
     },
@@ -41,7 +40,7 @@
      "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
      "cover": "https://i1.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-05T13:54:29+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Qwen 3.8 Max：来源："
     },
@@ -50,7 +49,7 @@
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
@@ -89,15 +88,6 @@
      "meta": "07月20日",
      "pub": "2026-07-20T15:05:01+00:00",
      "desc": "谈论 DeepSeek DSpark / DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等等。写下w"
-    },
-    {
-     "title": "I challenged Kimi K3 vs Fable 5 vs Sol 5.6 to make The Odyssey....",
-     "link": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-     "cover": "https://i2.ytimg.com/vi/iGNNgzUumoY/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "07月17日",
-     "pub": "2026-07-17T21:55:53+00:00",
-     "desc": "🔗 链接 🔗 我挑战 Kimi K3 vs Fable 5 vs Sol 5.6 来制作《奥德赛》.... 只需一个提示！结果是stu"
     }
    ]
   }
