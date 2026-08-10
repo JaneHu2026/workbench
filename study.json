@@ -1,5 +1,5 @@
 {
- "fetchedAt": "05:10",
+ "fetchedAt": "10:41",
  "fetchedDate": "2026-08-10",
  "source": "server",
  "items": [
@@ -31,7 +31,7 @@
      "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
      "cover": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-07T08:22:00+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Gemma4 论文以及更多内容可在此处找到："
     },
@@ -49,7 +49,7 @@
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "6天前",
+     "meta": "08月03日",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
