@@ -1,6 +1,6 @@
 {
- "fetchedAt": "08:10",
- "fetchedDate": "2026-08-09",
+ "fetchedAt": "05:10",
+ "fetchedDate": "2026-08-10",
  "source": "server",
  "items": [
   {
@@ -22,7 +22,7 @@
      "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
      "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "14小时前",
+     "meta": "1天前",
      "pub": "2026-08-08T17:22:18+00:00",
      "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     },
@@ -31,7 +31,7 @@
      "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
      "cover": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-07T08:22:00+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Gemma4 论文以及更多内容可在此处找到："
     },
@@ -40,7 +40,7 @@
      "link": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
      "cover": "https://i1.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-05T13:54:29+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Qwen 3.8 Max：来源："
     },
@@ -49,7 +49,7 @@
      "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
      "cover": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-03T09:47:34+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek v4 Flash 0731：DeepSeek API："
     },
