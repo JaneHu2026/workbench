@@ -1,5 +1,5 @@
 {
- "fetchedAt": "05:44",
+ "fetchedAt": "09:42",
  "fetchedDate": "2026-08-14",
  "source": "server",
  "items": [
@@ -10,28 +10,19 @@
     {
      "title": "用AI给小时候的自己做头像",
      "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/osFAmhOBAHhBDhGU73ZEBeutEEIHEAF8ABAffD~noop.jpeg?lk3s=bfd515bb&x-expires=1786705200&x-signature=cG9gC%2B616N%2BAavKj6iBAPvDpXQQ%3D&from=3218412987",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/osFAmhOBAHhBDhGU73ZEBeutEEIHEAF8ABAffD~noop.jpeg?lk3s=bfd515bb&x-expires=1786719600&x-signature=YrNPgsBc3isYoCdVWdTAg48rcWE%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 8328887",
-     "desc": "热门话题「用AI给小时候的自己做头像」：相关视频 7 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    },
-    {
-     "title": "用AI给朋友做个专属小游戏",
-     "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E6%9C%8B%E5%8F%8B%E5%81%9A%E4%B8%AA%E4%B8%93%E5%B1%9E%E5%B0%8F%E6%B8%B8%E6%88%8F?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oII1yIgiPPZ368hxbXAPEDBKAm9hMAoddxina~noop.jpeg?lk3s=bfd515bb&x-expires=1786705200&x-signature=ooXsZCQpyDi7wDND8QxewOh0cb0%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7744428",
-     "desc": "热门话题「用AI给朋友做个专属小游戏」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 8444529",
+     "desc": "热门话题「用AI给小时候的自己做头像」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     },
     {
      "title": "AI拍出中国版怪奇物语",
      "link": "https://www.douyin.com/search/AI%E6%8B%8D%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%89%88%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oovcNIAhv9FNDpXBxIwIziQ5RglXkazPzLmAi~noop.jpeg?lk3s=bfd515bb&x-expires=1786705200&x-signature=01EtpImwN%2BqYzTXpwmVnEfXYtlM%3D&from=3218412987",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oovcNIAhv9FNDpXBxIwIziQ5RglXkazPzLmAi~noop.jpeg?lk3s=bfd515bb&x-expires=1786719600&x-signature=IlWFNkFmvi%2F87Kf2CWfkxv5w5IE%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7728779",
+     "meta": "🔥 7729744",
      "desc": "热门话题「AI拍出中国版怪奇物语」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
@@ -46,148 +37,76 @@
    "ok": true,
    "items": [
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+     "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+     "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "1小时前",
+     "pub": "2026-08-14T08:42:07+00:00",
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 该论文可在此处获取：来源："
     },
     {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "OpenAI’s AI Agents Just Crossed A Line",
+     "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+     "cover": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2天前",
+     "pub": "2026-08-11T15:35:35+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 更多报告可在此处获取："
     },
     {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "5天前",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     },
     {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "DeepMind Just Changed How AI Sees The World",
+     "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+     "cover": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "08月07日",
+     "pub": "2026-08-07T08:22:00+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Gemma4 论文以及更多内容可在此处找到："
     },
     {
      "title": "The 64 sugar cubes puzzle",
-     "pubDate": "2026-07-24 15:05:39",
-     "link": "https://www.youtube.com/shorts/6XPlmCDNLNc",
-     "guid": "yt:video:6XPlmCDNLNc",
+     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/6XPlmCDNLNc?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "07月24日",
+     "pub": "2026-07-24T15:05:39+00:00",
+     "desc": "查看所有每月谜题："
     },
     {
-     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-     "pubDate": "2026-07-16 11:56:04",
-     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-     "guid": "yt:video:GlYgs6v2YfU",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/GlYgs6v2YfU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "OpenAI hacked HuggingFace",
+     "link": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+     "cover": "https://i2.ytimg.com/vi/IY3b4HTxpgU/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "07月22日",
+     "pub": "2026-07-22T16:28:16+00:00",
+     "desc": "HuggingFace 对事件的报道： OpenAI 对事件的报道："
     },
     {
-     "title": "100 random chords, how many intersections?",
-     "pubDate": "2026-06-16 18:04:05",
-     "link": "https://www.youtube.com/shorts/wGffBCfrAsE",
-     "guid": "yt:video:wGffBCfrAsE",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/wGffBCfrAsE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "GPT 6 potentially LEAKS!!!",
+     "link": "https://www.youtube.com/watch?v=u5esm1--kUo",
+     "cover": "https://i2.ytimg.com/vi/u5esm1--kUo/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "07月21日",
+     "pub": "2026-07-21T22:00:07+00:00",
+     "desc": "上周，Hugging Face 在检测并遏制后披露了一种新型安全事件⁠(opens in a new window)"
     },
     {
-     "title": "Measuring the entropy of English",
-     "pubDate": "2026-06-12 13:22:02",
-     "link": "https://www.youtube.com/shorts/-7etvZSBxlk",
-     "guid": "yt:video:-7etvZSBxlk",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i2.ytimg.com/vi/-7etvZSBxlk/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/-7etvZSBxlk?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/-7etvZSBxlk/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "You Can Just Download More Tokens/Sec",
+     "link": "https://www.youtube.com/watch?v=GkClGdrGViQ",
+     "cover": "https://i4.ytimg.com/vi/GkClGdrGViQ/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "07月20日",
+     "pub": "2026-07-20T15:05:01+00:00",
+     "desc": "谈论 DeepSeek DSpark / DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等等。写下w"
     }
    ]
   }
