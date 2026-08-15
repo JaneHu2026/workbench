@@ -1,6 +1,6 @@
 {
- "fetchedAt": "09:42",
- "fetchedDate": "2026-08-14",
+ "fetchedAt": "03:02",
+ "fetchedDate": "2026-08-15",
  "source": "server",
  "items": [
   {
@@ -8,22 +8,22 @@
    "ok": true,
    "items": [
     {
-     "title": "用AI给小时候的自己做头像",
-     "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c001/osFAmhOBAHhBDhGU73ZEBeutEEIHEAF8ABAffD~noop.jpeg?lk3s=bfd515bb&x-expires=1786719600&x-signature=YrNPgsBc3isYoCdVWdTAg48rcWE%3D&from=3218412987",
+     "title": "具身智能机器人扎堆进厂干活",
+     "link": "https://www.douyin.com/search/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%E8%BF%9B%E5%8E%82%E5%B9%B2%E6%B4%BB?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogw9hN0GpEDqLqqLImugnAgaDCVeefSAg2gfnv~noop.jpeg?lk3s=bfd515bb&x-expires=1786784400&x-signature=AL5D4IWIPOKMWmcHNLRuD07rrMM%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 8444529",
-     "desc": "热门话题「用AI给小时候的自己做头像」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 11223669",
+     "desc": "热门话题「具身智能机器人扎堆进厂干活」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     },
     {
-     "title": "AI拍出中国版怪奇物语",
-     "link": "https://www.douyin.com/search/AI%E6%8B%8D%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%89%88%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oovcNIAhv9FNDpXBxIwIziQ5RglXkazPzLmAi~noop.jpeg?lk3s=bfd515bb&x-expires=1786719600&x-signature=IlWFNkFmvi%2F87Kf2CWfkxv5w5IE%3D&from=3218412987",
+     "title": "用AI给小时候的自己做头像",
+     "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/osFAmhOBAHhBDhGU73ZEBeutEEIHEAF8ABAffD~noop.jpeg?lk3s=bfd515bb&x-expires=1786784400&x-signature=SAGiQmxFmXK7VAHUj5rt%2FNWxm74%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7729744",
-     "desc": "热门话题「AI拍出中国版怪奇物语」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7718890",
+     "desc": "热门话题「用AI给小时候的自己做头像」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -37,11 +37,20 @@
    "ok": true,
    "items": [
     {
+     "title": "Save your token cost with Gemini 3.7 Flash!!!",
+     "link": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
+     "cover": "https://i3.ytimg.com/vi/BOTJ0iXda-4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "5小时前",
+     "pub": "2026-08-14T21:54:23+00:00",
+     "desc": "3.7 Flash 在软件工程、知识工作和 Web 开发工作流程方面提供了重大改进 —"
+    },
+    {
      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
      "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
      "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1小时前",
+     "meta": "18小时前",
      "pub": "2026-08-14T08:42:07+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 该论文可在此处获取：来源："
     },
@@ -50,7 +59,7 @@
      "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
      "cover": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-11T15:35:35+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 更多报告可在此处获取："
     },
@@ -59,7 +68,7 @@
      "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
      "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-08T17:22:18+00:00",
      "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     },
@@ -98,15 +107,6 @@
      "meta": "07月21日",
      "pub": "2026-07-21T22:00:07+00:00",
      "desc": "上周，Hugging Face 在检测并遏制后披露了一种新型安全事件⁠(opens in a new window)"
-    },
-    {
-     "title": "You Can Just Download More Tokens/Sec",
-     "link": "https://www.youtube.com/watch?v=GkClGdrGViQ",
-     "cover": "https://i4.ytimg.com/vi/GkClGdrGViQ/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "07月20日",
-     "pub": "2026-07-20T15:05:01+00:00",
-     "desc": "谈论 DeepSeek DSpark / DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等等。写下w"
     }
    ]
   }
