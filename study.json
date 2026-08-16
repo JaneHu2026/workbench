@@ -1,6 +1,6 @@
 {
- "fetchedAt": "07:19",
- "fetchedDate": "2026-08-15",
+ "fetchedAt": "03:16",
+ "fetchedDate": "2026-08-16",
  "source": "server",
  "items": [
   {
@@ -8,13 +8,22 @@
    "ok": true,
    "items": [
     {
-     "title": "用AI给小时候的自己做头像",
-     "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/osFAmhOBAHhBDhGU73ZEBeutEEIHEAF8ABAffD~noop.jpeg?lk3s=bfd515bb&x-expires=1786798800&x-signature=xeQEtXIPh29dqwGkzvbwpuereLY%3D&from=3218412987",
+     "title": "60岁AI动画赛道新人",
+     "link": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ow8ZfcHH5pADBAQelzvWjDzMEKC5fA2fHA0ACC~noop.jpeg?lk3s=bfd515bb&x-expires=1786870800&x-signature=3gvSPR1hQrxLmLdClo6VbhjA9L0%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7676462",
-     "desc": "热门话题「用AI给小时候的自己做头像」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 9262931",
+     "desc": "热门话题「60岁AI动画赛道新人」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    },
+    {
+     "title": "我和闺蜜联手掀翻AI穿书剧本",
+     "link": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E9%97%BA%E8%9C%9C%E8%81%94%E6%89%8B%E6%8E%80%E7%BF%BBAI%E7%A9%BF%E4%B9%A6%E5%89%A7%E6%9C%AC?type=general",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ok8NlXEQQBAUTCffFzFGehrxOa2tBBAFDCs7Fq~noop.jpeg?lk3s=bfd515bb&x-expires=1786870800&x-signature=YDWefcA6tNmTe3XoWKPCzNRBZus%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7758752",
+     "desc": "热门话题「我和闺蜜联手掀翻AI穿书剧本」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -32,7 +41,7 @@
      "link": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
      "cover": "https://i3.ytimg.com/vi/BOTJ0iXda-4/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "9小时前",
+     "meta": "1天前",
      "pub": "2026-08-14T21:54:23+00:00",
      "desc": "3.7 Flash 在软件工程、知识工作和 Web 开发工作流程方面提供了重大改进 —"
     },
@@ -41,7 +50,7 @@
      "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
      "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "22小时前",
+     "meta": "1天前",
      "pub": "2026-08-14T08:42:07+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 该论文可在此处获取：来源："
     },
@@ -50,7 +59,7 @@
      "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
      "cover": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-11T15:35:35+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 更多报告可在此处获取："
     },
@@ -59,7 +68,7 @@
      "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
      "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "6天前",
+     "meta": "08月08日",
      "pub": "2026-08-08T17:22:18+00:00",
      "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     },
