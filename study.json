@@ -1,5 +1,5 @@
 {
- "fetchedAt": "03:16",
+ "fetchedAt": "07:45",
  "fetchedDate": "2026-08-16",
  "source": "server",
  "items": [
@@ -8,29 +8,39 @@
    "ok": true,
    "items": [
     {
-     "title": "60岁AI动画赛道新人",
-     "link": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA?type=general",
-     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ow8ZfcHH5pADBAQelzvWjDzMEKC5fA2fHA0ACC~noop.jpeg?lk3s=bfd515bb&x-expires=1786870800&x-signature=3gvSPR1hQrxLmLdClo6VbhjA9L0%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 9262931",
-     "desc": "热门话题「60岁AI动画赛道新人」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    },
-    {
      "title": "我和闺蜜联手掀翻AI穿书剧本",
      "link": "https://www.douyin.com/search/%E6%88%91%E5%92%8C%E9%97%BA%E8%9C%9C%E8%81%94%E6%89%8B%E6%8E%80%E7%BF%BBAI%E7%A9%BF%E4%B9%A6%E5%89%A7%E6%9C%AC?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ok8NlXEQQBAUTCffFzFGehrxOa2tBBAFDCs7Fq~noop.jpeg?lk3s=bfd515bb&x-expires=1786870800&x-signature=YDWefcA6tNmTe3XoWKPCzNRBZus%3D&from=3218412987",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ok8NlXEQQBAUTCffFzFGehrxOa2tBBAFDCs7Fq~noop.jpeg?lk3s=bfd515bb&x-expires=1786885200&x-signature=eWPwl6S3%2FwWWwwPfp2k3nsK77Zs%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7758752",
+     "meta": "🔥 7697415",
      "desc": "热门话题「我和闺蜜联手掀翻AI穿书剧本」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    },
+    {
+     "title": "60岁AI动画赛道新人",
+     "link": "https://www.douyin.com/search/60%E5%B2%81AI%E5%8A%A8%E7%94%BB%E8%B5%9B%E9%81%93%E6%96%B0%E4%BA%BA?type=general",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ow8ZfcHH5pADBAQelzvWjDzMEKC5fA2fHA0ACC~noop.jpeg?lk3s=bfd515bb&x-expires=1786885200&x-signature=L2I2upN5jevIzoA5%2BrAABIlahZ0%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7664531",
+     "desc": "热门话题「60岁AI动画赛道新人」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "你的手机我的梦 ",
+     "link": "https://www.xiaohongshu.com/explore/6a3cb0da0000000022014bb4?xsec_token=AB4GDuBmjOd_0_Om9TacY_uZ1PkSALuewZL1Ql8JN5b6Y%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608161544/b9db9b9a6527086f6c70cbf249e4c656/1040g2sg321quonhqnu7048gq4b94am5pp68a7fo!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "-iyench",
+     "meta": "❤️ 4917",
+     "desc": "#沉浸式打字[话题]# #关于我喜欢看别人玩手机这件事[话题]# #打字音[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
