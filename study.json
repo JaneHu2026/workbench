@@ -1,185 +1,93 @@
 {
- "fetchedAt": "06:50",
- "fetchedDate": "2026-08-21",
+ "fetchedAt": "00:30",
+ "fetchedDate": "2026-08-22",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "AI补全了我对长辈的所有未知",
-     "link": "https://www.douyin.com/search/AI%E8%A1%A5%E5%85%A8%E4%BA%86%E6%88%91%E5%AF%B9%E9%95%BF%E8%BE%88%E7%9A%84%E6%89%80%E6%9C%89%E6%9C%AA%E7%9F%A5?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/owENblqfe1i3ioEWBBBGSWi0X2BQwA4Ej8ijIA~noop.jpeg?lk3s=bfd515bb&x-expires=1787313600&x-signature=MCWwbjeKSoUsVwVN3LcHzIdgrAc%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 10410949",
-     "desc": "热门话题「AI补全了我对长辈的所有未知」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "几根扭扭棒就能做的手势棒，可以给孩子学习做点读棒超低成本，简单好做，快点做起来吧",
-     "link": "https://www.xiaohongshu.com/explore/6a3b29550000000015027033?xsec_token=ABlBW26osJI_Us7x0N_1cqCudtw5wwLdI6ieaWtBMQMIk%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608211449/bf8c5191cd93888fa13c6b4062aa7658/1040g2sg321pevhmc7ue05oe891n41tgnviamkio!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "爱画画的小雪花",
-     "meta": "❤️ 6761",
-     "desc": "几根扭扭棒就能做的手势棒，可以给孩子学习做点读棒超低成本，简单好做，快点做起来吧! 材料:扭扭棒、木棍、剪刀、胶枪、尺子 #扭扭棒[话题]# #手工[话题]# #手工友人成长计划[话题]# #扭扭棒手工[话题]# #手工日常[话题]# #手工作品[话题]# #小红书手工友好季[话题]# #热爱手工的我[话题]# #分享我的手工日常[话题]# #手工爱好者[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "I Tested Ox Alpha (stealth model)!!!",
+     "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
+     "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "1小时前",
+     "pub": "2026-08-21T22:40:14+00:00",
+     "desc": "🔗 链接 🔗 可能是中国模特"
     },
     {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+     "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+     "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2天前",
+     "pub": "2026-08-19T18:02:46+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：DeepSeek V4 Pro 0813：DSpark 完整剧集："
     },
     {
      "title": "The jumping pegs puzzle",
-     "pubDate": "2026-08-18 14:54:17",
-     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-     "guid": "yt:video:rYyJm1tD3d0",
+     "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
+     "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "3天前",
+     "pub": "2026-08-18T14:54:17+00:00",
+     "desc": "MoMath 每月拼图系列的一部分。"
+    },
+    {
+     "title": "Save your token cost with Gemini 3.7 Flash!!!",
+     "link": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
+     "cover": "https://i3.ytimg.com/vi/BOTJ0iXda-4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "08月14日",
+     "pub": "2026-08-14T21:54:23+00:00",
+     "desc": "3.7 Flash 在软件工程、知识工作和 Web 开发工作流程方面提供了重大改进 —"
+    },
+    {
+     "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+     "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+     "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "08月14日",
+     "pub": "2026-08-14T08:42:07+00:00",
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 该论文可在此处获取：来源："
+    },
+    {
+     "title": "OpenAI’s AI Agents Just Crossed A Line",
+     "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+     "cover": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "08月11日",
+     "pub": "2026-08-11T15:35:35+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 更多报告可在此处获取："
+    },
+    {
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "08月08日",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     },
     {
      "title": "The 64 sugar cubes puzzle",
-     "pubDate": "2026-07-24 15:05:39",
-     "link": "https://www.youtube.com/shorts/6XPlmCDNLNc",
-     "guid": "yt:video:6XPlmCDNLNc",
+     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/6XPlmCDNLNc?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-     "pubDate": "2026-07-16 11:56:04",
-     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-     "guid": "yt:video:GlYgs6v2YfU",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/GlYgs6v2YfU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "100 random chords, how many intersections?",
-     "pubDate": "2026-06-16 18:04:05",
-     "link": "https://www.youtube.com/shorts/wGffBCfrAsE",
-     "guid": "yt:video:wGffBCfrAsE",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/wGffBCfrAsE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "07月24日",
+     "pub": "2026-07-24T15:05:39+00:00",
+     "desc": "查看所有每月谜题："
     }
    ]
   }
