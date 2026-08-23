@@ -1,12 +1,22 @@
 {
- "fetchedAt": "06:42",
- "fetchedDate": "2026-08-22",
+ "fetchedAt": "00:32",
+ "fetchedDate": "2026-08-23",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "世界人形机器人运动会开幕",
+     "link": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/obj/webcast-cover/7676786149398334259?lk3s=bfd515bb&x-expires=1787464800&x-signature=y%2B9ILw8CGaenCQ7EjEVblBOcFXE%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 11149524",
+     "desc": "热门话题「世界人形机器人运动会开幕」：相关视频 9 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -18,13 +28,67 @@
    "ok": true,
    "items": [
     {
+     "title": "I Tested Ox Alpha (stealth model)!!!",
+     "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
+     "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "1天前",
+     "pub": "2026-08-21T22:40:14+00:00",
+     "desc": "🔗 链接🔗潜在的中国模式"
+    },
+    {
+     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+     "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+     "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "3天前",
+     "pub": "2026-08-19T18:02:46+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek V4 Pro 0813 ： DSpark完整剧集："
+    },
+    {
      "title": "The jumping pegs puzzle",
      "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
      "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath 每月拼图系列的一部分。"
+     "desc": "MoMath每月系列谜题的一部分。"
+    },
+    {
+     "title": "Save your token cost with Gemini 3.7 Flash!!!",
+     "link": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
+     "cover": "https://i3.ytimg.com/vi/BOTJ0iXda-4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "08月14日",
+     "pub": "2026-08-14T21:54:23+00:00",
+     "desc": "3.7 Flash在软件工程、知识工作和Web开发工作流程方面实现了实质性改进—"
+    },
+    {
+     "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+     "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+     "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "08月14日",
+     "pub": "2026-08-14T08:42:07+00:00",
+     "desc": "查看权重与偏见，并在此处注册免费演示：📝本文可在此处获得：来源："
+    },
+    {
+     "title": "OpenAI’s AI Agents Just Crossed A Line",
+     "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+     "cover": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "08月11日",
+     "pub": "2026-08-11T15:35:35+00:00",
+     "desc": "在此处查看Lambda并注册其GPU云：📝更多报告可在此处获得："
+    },
+    {
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "08月08日",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿AI ，谈论PCIe交换机， deepseek v4 flash 0731/preview/dspark ， GLM 5.2 ，"
     },
     {
      "title": "The 64 sugar cubes puzzle",
@@ -33,88 +97,7 @@
      "author": "3Blue1Brown",
      "meta": "07月24日",
      "pub": "2026-07-24T15:05:39+00:00",
-     "desc": "查看所有每月谜题："
-    },
-    {
-     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-     "cover": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "07月16日",
-     "pub": "2026-07-16T11:56:04+00:00",
-     "desc": "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
-    },
-    {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "desc": "查看所有每月拼图："
     }
    ]
   }
