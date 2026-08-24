@@ -1,6 +1,6 @@
 {
- "fetchedAt": "06:42",
- "fetchedDate": "2026-08-23",
+ "fetchedAt": "00:31",
+ "fetchedDate": "2026-08-24",
  "source": "server",
  "items": [
   {
@@ -8,20 +8,30 @@
    "ok": true,
    "items": [
     {
-     "title": "世界人形机器人运动会开幕",
-     "link": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95?type=general",
-     "cover": "https://p3-sign.douyinpic.com/obj/webcast-cover/7676786149398334259?lk3s=bfd515bb&x-expires=1787486400&x-signature=ebcvOvVlo%2FWjBZk4zCIoojvOLzc%3D&from=3218412987",
+     "title": "宋雨琦AI照进现实了",
+     "link": "https://www.douyin.com/search/%E5%AE%8B%E9%9B%A8%E7%90%A6AI%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E4%BA%86?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4fqIw9MAfDilVWE0mFuqILOEwlrQwBkspBo7A~noop.jpeg?lk3s=bfd515bb&x-expires=1787551200&x-signature=u%2FWaWIq5GYwoFfzaWSaKYuj3O18%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 11103019",
-     "desc": "热门话题「世界人形机器人运动会开幕」：相关视频 11 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7910791",
+     "desc": "热门话题「宋雨琦AI照进现实了」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "遇到事情不要慌 先拿出手机发个小红书",
+     "link": "https://www.xiaohongshu.com/explore/6a602916000000001c00f147?xsec_token=AB1EYhreQSiWZKsXEI-4cN4uO3Nu8Ebaf2wXNVstqTM0Q%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608240831/bb107f5459f96a1acc547ba3dbff3a5d/1040g2sg322tj7p6mnul05njs5hog994tvuqtc38!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "小婉体态管理",
+     "meta": "❤️ 7.6万",
+     "desc": "遇到事情不要慌 先拿出手机发个小红书"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -32,27 +42,27 @@
      "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
      "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-21T22:40:14+00:00",
-     "desc": "🔗 链接 🔗 可能是中国模特"
+     "desc": "🔗 链接🔗潜在的中国模式"
     },
     {
      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
      "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
      "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-19T18:02:46+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：DeepSeek V4 Pro 0813：DSpark 完整剧集："
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek V4 Pro 0813 ： DSpark完整剧集："
     },
     {
      "title": "The jumping pegs puzzle",
      "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
      "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath 每月拼图系列的一部分。"
+     "desc": "MoMath每月系列谜题的一部分。"
     },
     {
      "title": "Save your token cost with Gemini 3.7 Flash!!!",
@@ -61,7 +71,7 @@
      "author": "1littlecoder",
      "meta": "08月14日",
      "pub": "2026-08-14T21:54:23+00:00",
-     "desc": "3.7 Flash 在软件工程、知识工作和 Web 开发工作流程方面提供了重大改进 —"
+     "desc": "3.7 Flash在软件工程、知识工作和Web开发工作流程方面实现了实质性改进—"
     },
     {
      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
@@ -70,7 +80,7 @@
      "author": "Two Minute Papers",
      "meta": "08月14日",
      "pub": "2026-08-14T08:42:07+00:00",
-     "desc": "查看权重和偏差并在此处注册免费演示：📝 该论文可在此处获取：来源："
+     "desc": "查看权重与偏见，并在此处注册免费演示：📝本文可在此处获得：来源："
     },
     {
      "title": "OpenAI’s AI Agents Just Crossed A Line",
@@ -79,7 +89,7 @@
      "author": "Two Minute Papers",
      "meta": "08月11日",
      "pub": "2026-08-11T15:35:35+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 更多报告可在此处获取："
+     "desc": "在此处查看Lambda并注册其GPU云：📝更多报告可在此处获得："
     },
     {
      "title": "The Right Harness is All You Need - For local Frontier AI",
@@ -88,7 +98,7 @@
      "author": "sentdex",
      "meta": "08月08日",
      "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
+     "desc": "我们继续在家中运行前沿AI ，谈论PCIe交换机， deepseek v4 flash 0731/preview/dspark ， GLM 5.2 ，"
     },
     {
      "title": "The 64 sugar cubes puzzle",
@@ -97,7 +107,7 @@
      "author": "3Blue1Brown",
      "meta": "07月24日",
      "pub": "2026-07-24T15:05:39+00:00",
-     "desc": "查看所有每月谜题："
+     "desc": "查看所有每月拼图："
     }
    ]
   }
