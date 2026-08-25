@@ -1,6 +1,6 @@
 {
- "fetchedAt": "07:01",
- "fetchedDate": "2026-08-24",
+ "fetchedAt": "00:30",
+ "fetchedDate": "2026-08-25",
  "source": "server",
  "items": [
   {
@@ -8,50 +8,40 @@
    "ok": true,
    "items": [
     {
-     "title": "宋雨琦AI照进现实了",
-     "link": "https://www.douyin.com/search/%E5%AE%8B%E9%9B%A8%E7%90%A6AI%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%E4%BA%86?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4fqIw9MAfDilVWE0mFuqILOEwlrQwBkspBo7A~noop.jpeg?lk3s=bfd515bb&x-expires=1787576400&x-signature=HlD%2F%2F%2F2UkoXzBJ3SUrMS6Aff18c%3D&from=3218412987",
+     "title": "第二届世界人形机器人运动会",
+     "link": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQSLLMgRfAIBs3yJCBe1o6B1miADiAaa4c8Ih6~noop.jpeg?lk3s=bfd515bb&x-expires=1787637600&x-signature=yOWIcziht06lVGdHgNkVMlTf%2BpI%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7709111",
-     "desc": "热门话题「宋雨琦AI照进现实了」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 9017068",
+     "desc": "热门话题「第二届世界人形机器人运动会」：相关视频 8 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "C罗输球后砸坏自闭症小孩手机",
-     "link": "https://www.xiaohongshu.com/explore/6a4d868a000000001503c4be?xsec_token=AB3PuR4-JzF6lpcrByI3K0Vn9-nog-lX2bxjUbWRcgpnM%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608241500/3d56702ec6b61091b705217bb52c61ce/spectrum/1040g34o322bcsqia70105qgqbpc08t00efkslg8!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "艾凌体育",
-     "meta": "❤️ 3万",
-     "desc": "#C罗[话题]# #跳水罗[话题]# #总裁C罗[话题]# #世界杯聊个球[话题]# #藏不住了我是球迷[话题]# #好视频扶持计划[话题]#"
-    },
-    {
-     "title": "【开箱】小米出制冰机了？",
-     "link": "https://www.xiaohongshu.com/explore/6a3937fd000000001700bbff?xsec_token=ABYZsAXZoNNmyA9Wgajb_ZhtdKdnr6n_2jN4B-JTkCR58%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608241500/8bdf64131694921e21d012dd2475733a/spectrum/1040g0k0321ni1gmg74005ni04s008nlop890foo!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "陈抱一",
-     "meta": "❤️ 2028",
-     "desc": "#开箱[话题]# #小米[话题]# #雷军[话题]# #米家即热饮水机Max制冰版[话题]# #评测[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
     {
+     "title": "This Small AI Will Change Everything",
+     "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+     "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "7小时前",
+     "pub": "2026-08-24T16:48:40+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Qwen3.8-27b可在此处获得：来源："
+    },
+    {
      "title": "I Tested Ox Alpha (stealth model)!!!",
      "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
      "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-21T22:40:14+00:00",
      "desc": "🔗 链接🔗潜在的中国模式"
     },
@@ -60,7 +50,7 @@
      "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
      "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-19T18:02:46+00:00",
      "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek V4 Pro 0813 ： DSpark完整剧集："
     },
@@ -69,7 +59,7 @@
      "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
      "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-18T14:54:17+00:00",
      "desc": "MoMath每月系列谜题的一部分。"
     },
@@ -90,15 +80,6 @@
      "meta": "08月14日",
      "pub": "2026-08-14T08:42:07+00:00",
      "desc": "查看权重与偏见，并在此处注册免费演示：📝本文可在此处获得：来源："
-    },
-    {
-     "title": "OpenAI’s AI Agents Just Crossed A Line",
-     "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
-     "cover": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "08月11日",
-     "pub": "2026-08-11T15:35:35+00:00",
-     "desc": "在此处查看Lambda并注册其GPU云：📝更多报告可在此处获得："
     },
     {
      "title": "The Right Harness is All You Need - For local Frontier AI",
