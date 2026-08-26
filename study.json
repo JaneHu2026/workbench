@@ -1,103 +1,121 @@
 {
- "fetchedAt": "06:51",
- "fetchedDate": "2026-08-25",
+ "fetchedAt": "00:32",
+ "fetchedDate": "2026-08-26",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
-  },
-  {
-   "label": "小红书 AI 学习",
    "ok": true,
    "items": [
     {
-     "title": "包饺子10种包法包饺子 花样包饺子 包饺子教程 饺子爱好者 美食教程",
-     "link": "https://www.xiaohongshu.com/explore/6a5b077a000000000401d34f?xsec_token=ABqFCnn5QcfKeiZfrruwSASyuJCPMvlsHpo3nnXPRsRE4%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608251451/e7adc3c71e202d8bca3c0e96247ba49b/1040g008322oibmf5006g5pcsge97q56ul6kgbe0!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "萌爸爱美食",
-     "meta": "❤️ 3650",
-     "desc": "包饺子10种包法#包饺子[话题]# #花样包饺子[话题]# #包饺子教程[话题]# #饺子爱好者[话题]# #美食教程[话题]#"
+     "title": "农田智能作业机器人上线",
+     "link": "https://www.douyin.com/search/%E5%86%9C%E7%94%B0%E6%99%BA%E8%83%BD%E4%BD%9C%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E7%BA%BF?type=general",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4pCaDNeEazVLBAqQkUc7mfGAIdBEMVMQDGeQq~noop.jpeg?lk3s=bfd515bb&x-expires=1787724000&x-signature=FtPU9JPMcMRh%2Bfw6YfSaS3Tqjyg%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 11367871",
+     "desc": "热门话题「农田智能作业机器人上线」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    },
+    {
+     "title": "小米玄戒O3芯片藏着特别彩蛋",
+     "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E8%8A%AF%E7%89%87%E8%97%8F%E7%9D%80%E7%89%B9%E5%88%AB%E5%BD%A9%E8%9B%8B?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/o42JBLTMAQHeEpLfCqmpAg4XlAIDQAzEGfekIA~noop.jpeg?lk3s=bfd515bb&x-expires=1787724000&x-signature=eHmZxk4p2fLwmnyfxxivy75%2BXzU%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7654868",
+     "desc": "热门话题「小米玄戒O3芯片藏着特别彩蛋」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    },
+    {
+     "title": "小米玄戒O3芯片解析",
+     "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E8%8A%AF%E7%89%87%E8%A7%A3%E6%9E%90?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ocECQCEf9T3QmzA9i0iqIHFCmihDjegAAx72LB~noop.jpeg?lk3s=bfd515bb&x-expires=1787724000&x-signature=V8oa48o8vakxeDLuULdfn9jtGsM%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7633751",
+     "desc": "热门话题「小米玄戒O3芯片解析」：相关视频 5 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
+  },
+  {
+   "label": "小红书 AI 学习",
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "This Small AI Will Change Everything",
+     "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+     "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "1天前",
+     "pub": "2026-08-24T16:48:40+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Qwen3.8-27b可在此处获得：来源："
     },
     {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "I Tested Ox Alpha (stealth model)!!!",
+     "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
+     "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "4天前",
+     "pub": "2026-08-21T22:40:14+00:00",
+     "desc": "🔗 链接🔗潜在的中国模式"
     },
     {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+     "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+     "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "6天前",
+     "pub": "2026-08-19T18:02:46+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek V4 Pro 0813 ： DSpark完整剧集："
     },
     {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "The jumping pegs puzzle",
+     "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
+     "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "08月18日",
+     "pub": "2026-08-18T14:54:17+00:00",
+     "desc": "MoMath每月系列谜题的一部分。"
+    },
+    {
+     "title": "Save your token cost with Gemini 3.7 Flash!!!",
+     "link": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
+     "cover": "https://i3.ytimg.com/vi/BOTJ0iXda-4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "08月14日",
+     "pub": "2026-08-14T21:54:23+00:00",
+     "desc": "3.7 Flash在软件工程、知识工作和Web开发工作流程方面实现了实质性改进—"
+    },
+    {
+     "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+     "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+     "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "08月14日",
+     "pub": "2026-08-14T08:42:07+00:00",
+     "desc": "查看权重与偏见，并在此处注册免费演示：📝本文可在此处获得：来源："
+    },
+    {
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "08月08日",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿AI ，谈论PCIe交换机， deepseek v4 flash 0731/preview/dspark ， GLM 5.2 ，"
+    },
+    {
+     "title": "The 64 sugar cubes puzzle",
+     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "07月24日",
+     "pub": "2026-07-24T15:05:39+00:00",
+     "desc": "查看所有每月拼图："
     }
    ]
   }
