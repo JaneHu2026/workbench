@@ -1,22 +1,12 @@
 {
- "fetchedAt": "06:52",
- "fetchedDate": "2026-08-26",
+ "fetchedAt": "05:21",
+ "fetchedDate": "2026-08-27",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "小米玄戒O3芯片藏着特别彩蛋",
-     "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O3%E8%8A%AF%E7%89%87%E8%97%8F%E7%9D%80%E7%89%B9%E5%88%AB%E5%BD%A9%E8%9B%8B?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/o42JBLTMAQHeEpLfCqmpAg4XlAIDQAzEGfekIA~noop.jpeg?lk3s=bfd515bb&x-expires=1787745600&x-signature=aFl5wv%2F1qUEg8sqgnbKUjI8PDmw%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7666756",
-     "desc": "热门话题「小米玄戒O3芯片藏着特别彩蛋」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
@@ -27,60 +17,6 @@
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
-    {
-     "title": "This Small AI Will Change Everything",
-     "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-     "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "1天前",
-     "pub": "2026-08-24T16:48:40+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Qwen3.8-27b可在此处获得：来源："
-    },
-    {
-     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-     "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-     "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "6天前",
-     "pub": "2026-08-19T18:02:46+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek V4 Pro 0813 ： DSpark完整剧集："
-    },
-    {
-     "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-     "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-     "cover": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "08月14日",
-     "pub": "2026-08-14T08:42:07+00:00",
-     "desc": "查看权重与偏见，并在此处注册免费演示：📝本文可在此处获得：来源："
-    },
-    {
-     "title": "The Right Harness is All You Need - For local Frontier AI",
-     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "08月08日",
-     "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿AI ，谈论PCIe交换机， deepseek v4 flash 0731/preview/dspark ， GLM 5.2 ，"
-    },
-    {
-     "title": "OpenAI hacked HuggingFace",
-     "link": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-     "cover": "https://i2.ytimg.com/vi/IY3b4HTxpgU/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "07月22日",
-     "pub": "2026-07-22T16:28:16+00:00",
-     "desc": "HuggingFace对事件的描述： OpenAI对事件的描述："
-    },
-    {
-     "title": "You Can Just Download More Tokens/Sec",
-     "link": "https://www.youtube.com/watch?v=GkClGdrGViQ",
-     "cover": "https://i4.ytimg.com/vi/GkClGdrGViQ/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "07月20日",
-     "pub": "2026-07-20T15:05:01+00:00",
-     "desc": "Talking DeepSeek DSpark/DeepSeek V4 Flash、Kimi K3、GPT-5.6、模型速度、保持硬件运行等。Writeup w"
-    },
     {
      "title": "How I use LLMs",
      "pubDate": "2025-02-27 22:29:56",
@@ -112,6 +48,114 @@
       "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
       "type": "application/x-shockwave-flash",
       "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's reproduce GPT-2 (124M)",
+     "pubDate": "2024-06-09 23:31:35",
+     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+     "guid": "yt:video:l8pRSuU81PU",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's build the GPT Tokenizer",
+     "pubDate": "2024-02-20 17:11:35",
+     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
+     "guid": "yt:video:zduSFxRajkE",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The jumping pegs puzzle",
+     "pubDate": "2026-08-18 14:54:17",
+     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+     "guid": "yt:video:rYyJm1tD3d0",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The 64 sugar cubes puzzle",
+     "pubDate": "2026-07-24 15:05:39",
+     "link": "https://www.youtube.com/shorts/6XPlmCDNLNc",
+     "guid": "yt:video:6XPlmCDNLNc",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/6XPlmCDNLNc?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+     "pubDate": "2026-07-16 11:56:04",
+     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+     "guid": "yt:video:GlYgs6v2YfU",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/GlYgs6v2YfU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "100 random chords, how many intersections?",
+     "pubDate": "2026-06-16 18:04:05",
+     "link": "https://www.youtube.com/shorts/wGffBCfrAsE",
+     "guid": "yt:video:wGffBCfrAsE",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/wGffBCfrAsE?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg"
      },
      "categories": [],
      "meta": "",
