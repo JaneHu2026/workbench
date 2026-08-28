@@ -1,22 +1,12 @@
 {
- "fetchedAt": "17:25",
- "fetchedDate": "2026-08-27",
+ "fetchedAt": "07:18",
+ "fetchedDate": "2026-08-28",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "OpenAI发布入侵抱抱脸事件报告",
-     "link": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83%E5%85%A5%E4%BE%B5%E6%8A%B1%E6%8A%B1%E8%84%B8%E4%BA%8B%E4%BB%B6%E6%8A%A5%E5%91%8A?type=general",
-     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8A18QmXFAywCeJXgIiUR5CBqPFb3qfiAAB2PI~noop.jpeg?lk3s=bfd515bb&x-expires=1787871600&x-signature=ae%2B0CiwJJzHOvoPWdCEnWu32Tks%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7978138",
-     "desc": "热门话题「OpenAI发布入侵抱抱脸事件报告」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
@@ -59,7 +49,7 @@
      "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
      "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-21T22:40:14+00:00",
      "desc": "🔗 链接 🔗 可能是中国模特"
     },
