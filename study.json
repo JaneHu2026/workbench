@@ -1,5 +1,5 @@
 {
- "fetchedAt": "07:18",
+ "fetchedAt": "18:18",
  "fetchedDate": "2026-08-28",
  "source": "server",
  "items": [
@@ -10,28 +10,47 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "经络刷刷副乳‼️详细版教程来了",
+     "link": "https://www.xiaohongshu.com/explore/6a6be39b0000000022015a1c?xsec_token=ABl-uumVTjz_K0hudUvLHd8UFpMHndoaA0oqLve_88-Mc%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608290218/6750bae2f40beb5c9002245b43cf1446/1040g00832391mevnn2005pc9c86o3i3nnrj7suo!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "老范变美记",
+     "meta": "❤️ 2236",
+     "desc": "#副乳怎么瘦[话题]# #副乳收服[话题]# #瘦副乳[话题]# #副乳[话题]# #电动经络刷推荐[话题]# #副乳消失术[话题]# #刷胳膊经络刷[话题]# #刮痧仪和电动经络刷哪个好[话题]# #柔泊氏99档黄铜电动经络刷[话题]# #柔泊氏经络刷[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
     {
+     "title": "This Free AI Just Caught The Billion Dollar Giants",
+     "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+     "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "8小时前",
+     "pub": "2026-08-28T09:44:44+00:00",
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
+    },
+    {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
      "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
      "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗链接🔗GLM-5.3-Flash：前沿情报，Flash成本❤️如果你想支持该频道❤️在这里支持：Patreo"
+     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
     },
     {
      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
      "cover": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-26T13:10:13+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
     },
@@ -40,7 +59,7 @@
      "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
      "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-24T16:48:40+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Qwen3.8-27b 可在此处获取：来源："
     },
@@ -52,15 +71,6 @@
      "meta": "6天前",
      "pub": "2026-08-21T22:40:14+00:00",
      "desc": "🔗 链接 🔗 可能是中国模特"
-    },
-    {
-     "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-     "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-     "cover": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "08月19日",
-     "pub": "2026-08-19T18:02:46+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：DeepSeek V4 Pro 0813：DSpark 完整剧集："
     },
     {
      "title": "The jumping pegs puzzle",
