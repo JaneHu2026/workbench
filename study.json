@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:58",
+ "fetchedAt": "11:27",
  "fetchedDate": "2026-08-30",
  "source": "server",
  "items": [
@@ -10,8 +10,27 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "每一部手机，就是一个活生生的人被卖园区",
+     "link": "https://www.xiaohongshu.com/explore/6a62ce81000000002201b0d4?xsec_token=ABhxNKLjr4V2kSqcTXf0eLgHy_9jiTkMqwR_yBV2Ovlsw%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608301927/727431038066a1008366f106e9109f2f/1040g00832305sh5on4005ph0odn1ou1vqmprpfo!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "阿勇救援回国",
+     "meta": "❤️ 2453",
+     "desc": "#柬埔寨[话题]# #东南亚救援[话题]# #妙瓦底[话题]# #缅北[话题]# #东南亚[话题]# #缅甸[话题]# #救援[话题]# #阿勇救援[话题]# #老挝[话题]# #回国[话题]#"
+    },
+    {
+     "title": "男子路旁玩手机 没注意身后站着一只熊 小腿被咬两口仍毫无察觉",
+     "link": "https://www.xiaohongshu.com/explore/6a6a99b40000000011014a1c?xsec_token=ABgwjg64du9GBTD9UQ88iEfUnt2WUFBrBmHUAPG9UMcpU%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202608301927/e681caa8f38c09d287bdcf190d4bdc1d/spectrum/1040g34o3237p4jpamu105o0lfcj09d50ts9epho!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "海客新闻",
+     "meta": "❤️ 3.4万",
+     "desc": "男子路旁玩手机 没注意身后站着一只熊 小腿被咬两口仍毫无察觉"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -22,16 +41,16 @@
      "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
      "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "6小时前",
+     "meta": "16小时前",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max 演练，包含 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-28T09:44:44+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
