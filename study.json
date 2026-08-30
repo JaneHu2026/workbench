@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:27",
- "fetchedDate": "2026-08-29",
+ "fetchedAt": "01:58",
+ "fetchedDate": "2026-08-30",
  "source": "server",
  "items": [
   {
@@ -10,23 +10,22 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "原来她真的在用手机看手机！",
-     "link": "https://www.xiaohongshu.com/explore/6a47394c0000000007022fda?xsec_token=ABoAGCGXHI2xM6NjnU9uJZdHkqasHkCJz38c--Y2rFggM%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608292027/ab2807b3afac418ee3491448a1f47063/spectrum/1040g34o32257vao674105qgb3ujgg801dr2teeo!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "阜阳刘亦菲",
-     "meta": "❤️ 2.4万",
-     "desc": "#综艺[话题]# #爆笑综艺[话题]# #我的艺术出道作[话题]# #她眼里有不一样的世界[话题]# #用眼好习惯[话题]# #眼睛可以近视[话题]# #你就宠她吧[话题]# #离不开手机[话题]# #让眼睛休息一下吧[话题]# #远离电子屏幕[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
+    {
+     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
+     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
+     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "6小时前",
+     "pub": "2026-08-29T18:58:48+00:00",
+     "desc": "Minimax H3 Max 演练，包含 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
+    },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
@@ -34,23 +33,23 @@
      "author": "Two Minute Papers",
      "meta": "1天前",
      "pub": "2026-08-28T09:44:44+00:00",
-     "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
     {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
      "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
      "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗链接🔗GLM-5.3-Flash：前沿情报，Flash成本❤️如果你想支持该频道❤️在这里支持：Patreo"
+     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
     },
     {
      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
      "cover": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-26T13:10:13+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
     },
@@ -59,7 +58,7 @@
      "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
      "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-24T16:48:40+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Qwen3.8-27b 可在此处获取：来源："
     },
@@ -70,7 +69,7 @@
      "author": "1littlecoder",
      "meta": "08月21日",
      "pub": "2026-08-21T22:40:14+00:00",
-     "desc": "🔗 链接🔗潜在的中国模式"
+     "desc": "🔗 链接 🔗 可能是中国模特"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -80,15 +79,6 @@
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
      "desc": "MoMath 每月拼图系列的一部分。"
-    },
-    {
-     "title": "Save your token cost with Gemini 3.7 Flash!!!",
-     "link": "https://www.youtube.com/watch?v=BOTJ0iXda-4",
-     "cover": "https://i3.ytimg.com/vi/BOTJ0iXda-4/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "08月14日",
-     "pub": "2026-08-14T21:54:23+00:00",
-     "desc": "3.7 Flash 在软件工程、知识工作和 Web 开发工作流程方面提供了重大改进 —"
     },
     {
      "title": "The Right Harness is All You Need - For local Frontier AI",
