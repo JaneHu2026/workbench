@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:27",
- "fetchedDate": "2026-08-30",
+ "fetchedAt": "01:53",
+ "fetchedDate": "2026-08-31",
  "source": "server",
  "items": [
   {
@@ -10,27 +10,8 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "每一部手机，就是一个活生生的人被卖园区",
-     "link": "https://www.xiaohongshu.com/explore/6a62ce81000000002201b0d4?xsec_token=ABhxNKLjr4V2kSqcTXf0eLgHy_9jiTkMqwR_yBV2Ovlsw%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608301927/727431038066a1008366f106e9109f2f/1040g00832305sh5on4005ph0odn1ou1vqmprpfo!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "阿勇救援回国",
-     "meta": "❤️ 2453",
-     "desc": "#柬埔寨[话题]# #东南亚救援[话题]# #妙瓦底[话题]# #缅北[话题]# #东南亚[话题]# #缅甸[话题]# #救援[话题]# #阿勇救援[话题]# #老挝[话题]# #回国[话题]#"
-    },
-    {
-     "title": "男子路旁玩手机 没注意身后站着一只熊 小腿被咬两口仍毫无察觉",
-     "link": "https://www.xiaohongshu.com/explore/6a6a99b40000000011014a1c?xsec_token=ABgwjg64du9GBTD9UQ88iEfUnt2WUFBrBmHUAPG9UMcpU%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202608301927/e681caa8f38c09d287bdcf190d4bdc1d/spectrum/1040g34o3237p4jpamu105o0lfcj09d50ts9epho!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "海客新闻",
-     "meta": "❤️ 3.4万",
-     "desc": "男子路旁玩手机 没注意身后站着一只熊 小腿被咬两口仍毫无察觉"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
@@ -41,9 +22,9 @@
      "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
      "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "16小时前",
+     "meta": "1天前",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
+     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
@@ -52,34 +33,34 @@
      "author": "Two Minute Papers",
      "meta": "2天前",
      "pub": "2026-08-28T09:44:44+00:00",
-     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
+     "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
     },
     {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
      "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
      "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
+     "desc": "🔗 链接🔗GLM-5.3-Flash ： Frontier Intelligence, Flash Cost❤️如果您想支持该频道，请点击此处❤️支持： Patreo"
     },
     {
      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
      "cover": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-26T13:10:13+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
+     "desc": "在此处查看Lambda并注册他们的GPU云： DeepSeek Harness 📝 +论文可在此处获得： 🙏……"
     },
     {
      "title": "This Small AI Will Change Everything",
      "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
      "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-24T16:48:40+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Qwen3.8-27b 可在此处获取：来源："
+     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Qwen3.8-27b可在此处获得：来源："
     },
     {
      "title": "I Tested Ox Alpha (stealth model)!!!",
@@ -88,7 +69,7 @@
      "author": "1littlecoder",
      "meta": "08月21日",
      "pub": "2026-08-21T22:40:14+00:00",
-     "desc": "🔗 链接 🔗 可能是中国模特"
+     "desc": "🔗 链接🔗潜在的中国模式"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -97,7 +78,7 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath 每月拼图系列的一部分。"
+     "desc": "MoMath每月系列谜题的一部分。"
     },
     {
      "title": "The Right Harness is All You Need - For local Frontier AI",
@@ -106,7 +87,7 @@
      "author": "sentdex",
      "meta": "08月08日",
      "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
+     "desc": "我们继续在家中运行前沿AI ，谈论PCIe交换机， deepseek v4 flash 0731/preview/dspark ， GLM 5.2 ，"
     }
    ]
   }
