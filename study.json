@@ -1,12 +1,22 @@
 {
- "fetchedAt": "01:53",
+ "fetchedAt": "12:58",
  "fetchedDate": "2026-08-31",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "首部AI长剧后西游记开播",
+     "link": "https://www.douyin.com/search/%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%BC%80%E6%92%AD?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ooqNIDCDqBIzBUfFEs2SzAIHAAnVflJgI9I2KQ~noop.jpeg?lk3s=bfd515bb&x-expires=1788199200&x-signature=VHYCyp4LeDEFbjw5g1IAf9YSqYs%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7721731",
+     "desc": "热门话题「首部AI长剧后西游记开播」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -31,7 +41,7 @@
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-28T09:44:44+00:00",
      "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
     },
