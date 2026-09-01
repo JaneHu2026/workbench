@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:58",
- "fetchedDate": "2026-08-31",
+ "fetchedAt": "02:16",
+ "fetchedDate": "2026-09-01",
  "source": "server",
  "items": [
   {
@@ -10,18 +10,28 @@
     {
      "title": "首部AI长剧后西游记开播",
      "link": "https://www.douyin.com/search/%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%BC%80%E6%92%AD?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ooqNIDCDqBIzBUfFEs2SzAIHAAnVflJgI9I2KQ~noop.jpeg?lk3s=bfd515bb&x-expires=1788199200&x-signature=VHYCyp4LeDEFbjw5g1IAf9YSqYs%3D&from=3218412987",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooqNIDCDqBIzBUfFEs2SzAIHAAnVflJgI9I2KQ~noop.jpeg?lk3s=bfd515bb&x-expires=1788249600&x-signature=SkKftBHYeFcM52ZQoQziBSvuvgg%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7721731",
+     "meta": "🔥 9121392",
      "desc": "热门话题「首部AI长剧后西游记开播」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "洗牙教程 ",
+     "link": "https://www.xiaohongshu.com/explore/6a66bcce000000001b01f0bb?xsec_token=AB6eCQXuMXxbKUV6r00umgi9JAs2yCYicBLyTcypSzn34%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609011015/7a613ada9a0695b3e022e41068031ad2/1040g008323iedocgg20g5q0sk9ojibe2iq1nka0!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "解压视频",
+     "meta": "❤️ 3284",
+     "desc": "#解压视频[话题]# #减肥餐[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -32,9 +42,9 @@
      "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
      "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
@@ -43,34 +53,34 @@
      "author": "Two Minute Papers",
      "meta": "3天前",
      "pub": "2026-08-28T09:44:44+00:00",
-     "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
     {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
      "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
      "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗 链接🔗GLM-5.3-Flash ： Frontier Intelligence, Flash Cost❤️如果您想支持该频道，请点击此处❤️支持： Patreo"
+     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
     },
     {
      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
      "cover": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-26T13:10:13+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： DeepSeek Harness 📝 +论文可在此处获得： 🙏……"
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
     },
     {
      "title": "This Small AI Will Change Everything",
      "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
      "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "6天前",
+     "meta": "08月24日",
      "pub": "2026-08-24T16:48:40+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Qwen3.8-27b可在此处获得：来源："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Qwen3.8-27b 可在此处获取：来源："
     },
     {
      "title": "I Tested Ox Alpha (stealth model)!!!",
@@ -79,7 +89,7 @@
      "author": "1littlecoder",
      "meta": "08月21日",
      "pub": "2026-08-21T22:40:14+00:00",
-     "desc": "🔗 链接🔗潜在的中国模式"
+     "desc": "🔗 链接 🔗 可能是中国模特"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -88,7 +98,7 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath每月系列谜题的一部分。"
+     "desc": "MoMath 每月拼图系列的一部分。"
     },
     {
      "title": "The Right Harness is All You Need - For local Frontier AI",
@@ -97,7 +107,7 @@
      "author": "sentdex",
      "meta": "08月08日",
      "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿AI ，谈论PCIe交换机， deepseek v4 flash 0731/preview/dspark ， GLM 5.2 ，"
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     }
    ]
   }
