@@ -1,35 +1,25 @@
 {
- "fetchedAt": "02:16",
+ "fetchedAt": "11:16",
  "fetchedDate": "2026-09-01",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "首部AI长剧后西游记开播",
-     "link": "https://www.douyin.com/search/%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%BC%80%E6%92%AD?type=general",
-     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ooqNIDCDqBIzBUfFEs2SzAIHAAnVflJgI9I2KQ~noop.jpeg?lk3s=bfd515bb&x-expires=1788249600&x-signature=SkKftBHYeFcM52ZQoQziBSvuvgg%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 9121392",
-     "desc": "热门话题「首部AI长剧后西游记开播」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
    "ok": true,
    "items": [
     {
-     "title": "洗牙教程 ",
-     "link": "https://www.xiaohongshu.com/explore/6a66bcce000000001b01f0bb?xsec_token=AB6eCQXuMXxbKUV6r00umgi9JAs2yCYicBLyTcypSzn34%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609011015/7a613ada9a0695b3e022e41068031ad2/1040g008323iedocgg20g5q0sk9ojibe2iq1nka0!nc_n_nwebp_prv_1",
+     "title": "王祖贤首部AI授权短片，美爆了！",
+     "link": "https://www.xiaohongshu.com/explore/6a61895d000000001b01ea57?xsec_token=ABgOcm9XkpeFGkO5R_EWiGT1HkwN870rDChHvrPvPass0%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609011916/3e0195f7df4ad9b60bce2e157834d29a/1040g008322utqsam7k6g5p5ku7156gb5433i8qg!nc_n_nwebp_prv_1",
      "source": "小红书",
-     "author": "解压视频",
-     "meta": "❤️ 3284",
-     "desc": "#解压视频[话题]# #减肥餐[话题]#"
+     "author": "广了个告",
+     "meta": "❤️ 1.7万",
+     "desc": ". 王祖贤时隔22年，以另一种方式回来了[种草R][拔草R] 长发轻扬，眉眼如旧。 当王祖贤再次出现在画面里，记忆中的小倩仿佛穿过岁月，重新与我们见面。 这支《倩影》并非真人出镜，而是在本人正版授权下，通过AI技术重现她年轻时的东方神韵。 科技负责跨越时间，经典负责唤醒青春。 原来真正的一眼万年，是多年以后再次看到，依然会为同一张面孔心动。 有些美从未被时间带走，只是换了一种方式归来。 视频来源：@王祖贤Joey @天下·万象 #王祖贤…"
     }
    ]
   },
@@ -37,6 +27,15 @@
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
+    {
+     "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+     "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+     "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2小时前",
+     "pub": "2026-09-01T09:04:56+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
+    },
     {
      "title": "Minimax H3 Max feels ILLEGAL and FAST!",
      "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
@@ -51,7 +50,7 @@
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-08-28T09:44:44+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
@@ -72,15 +71,6 @@
      "meta": "5天前",
      "pub": "2026-08-26T13:10:13+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
-    },
-    {
-     "title": "This Small AI Will Change Everything",
-     "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-     "cover": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "08月24日",
-     "pub": "2026-08-24T16:48:40+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Qwen3.8-27b 可在此处获取：来源："
     },
     {
      "title": "I Tested Ox Alpha (stealth model)!!!",
