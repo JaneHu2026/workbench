@@ -1,27 +1,27 @@
 {
- "fetchedAt": "01:38",
+ "fetchedAt": "10:50",
  "fetchedDate": "2026-09-02",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "韩剧爽文的风吹到了AI界",
-     "link": "https://www.douyin.com/search/%E9%9F%A9%E5%89%A7%E7%88%BD%E6%96%87%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86AI%E7%95%8C?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/oocqSAMNQCIQAJff8DAAgYAWaBInHY7feho2IH~noop.jpeg?lk3s=bfd515bb&x-expires=1788332400&x-signature=lYbYESP3SFT2THJesG6mbZrPNTA%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 8208777",
-     "desc": "热门话题「韩剧爽文的风吹到了AI界」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "跟AI范志毅学了两招助威动作⚽️",
+     "link": "https://www.xiaohongshu.com/explore/6a4fc1c3000000001101094c?xsec_token=ABIp4XwRnbUnh1VMUcdRuWCHofXVg558A5mCdpXEi1eSY%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609021849/27d474342216a23ca567e1546b8ea762/1040g2sg322dhqjc5n2705ncbd6ug9e717gln5l0!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "孙天宇",
+     "meta": "❤️ 1.4万",
+     "desc": "本来只是想和AI范志毅聊聊世界杯 没想到还顺便学了两招助威动作😂 你们最近都和AI范志毅聊了些什么？ 评论区来和我分享一下，说不定还能发现不少有意思的新玩法！ #此刻举杯为FIFA世界杯[话题]# #此刻举杯为我们的FIFA世界杯[话题]# #看FIFA世界杯就喝可口可乐[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -32,7 +32,7 @@
      "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
      "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "16小时前",
+     "meta": "1天前",
      "pub": "2026-09-01T09:04:56+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
     },
@@ -50,7 +50,7 @@
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-08-28T09:44:44+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
@@ -61,7 +61,7 @@
      "author": "1littlecoder",
      "meta": "6天前",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
+     "desc": "🔗链接🔗GLM-5.3-Flash：前沿情报，Flash成本❤️如果你想支持该频道❤️在这里支持：Patreo"
     },
     {
      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
