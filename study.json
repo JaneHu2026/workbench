@@ -1,27 +1,27 @@
 {
- "fetchedAt": "11:16",
- "fetchedDate": "2026-09-01",
+ "fetchedAt": "01:38",
+ "fetchedDate": "2026-09-02",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
-  },
-  {
-   "label": "小红书 AI 学习",
    "ok": true,
    "items": [
     {
-     "title": "王祖贤首部AI授权短片，美爆了！",
-     "link": "https://www.xiaohongshu.com/explore/6a61895d000000001b01ea57?xsec_token=ABgOcm9XkpeFGkO5R_EWiGT1HkwN870rDChHvrPvPass0%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609011916/3e0195f7df4ad9b60bce2e157834d29a/1040g008322utqsam7k6g5p5ku7156gb5433i8qg!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "广了个告",
-     "meta": "❤️ 1.7万",
-     "desc": ". 王祖贤时隔22年，以另一种方式回来了[种草R][拔草R] 长发轻扬，眉眼如旧。 当王祖贤再次出现在画面里，记忆中的小倩仿佛穿过岁月，重新与我们见面。 这支《倩影》并非真人出镜，而是在本人正版授权下，通过AI技术重现她年轻时的东方神韵。 科技负责跨越时间，经典负责唤醒青春。 原来真正的一眼万年，是多年以后再次看到，依然会为同一张面孔心动。 有些美从未被时间带走，只是换了一种方式归来。 视频来源：@王祖贤Joey @天下·万象 #王祖贤…"
+     "title": "韩剧爽文的风吹到了AI界",
+     "link": "https://www.douyin.com/search/%E9%9F%A9%E5%89%A7%E7%88%BD%E6%96%87%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86AI%E7%95%8C?type=general",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/oocqSAMNQCIQAJff8DAAgYAWaBInHY7feho2IH~noop.jpeg?lk3s=bfd515bb&x-expires=1788332400&x-signature=lYbYESP3SFT2THJesG6mbZrPNTA%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 8208777",
+     "desc": "热门话题「韩剧爽文的风吹到了AI界」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
+  },
+  {
+   "label": "小红书 AI 学习",
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
@@ -32,7 +32,7 @@
      "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
      "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2小时前",
+     "meta": "16小时前",
      "pub": "2026-09-01T09:04:56+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
     },
@@ -41,7 +41,7 @@
      "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
      "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-08-29T18:58:48+00:00",
      "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
@@ -59,7 +59,7 @@
      "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
      "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-26T16:31:41+00:00",
      "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
     },
@@ -68,7 +68,7 @@
      "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
      "cover": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-26T13:10:13+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
     },
