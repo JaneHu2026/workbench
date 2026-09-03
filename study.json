@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:43",
+ "fetchedAt": "10:50",
  "fetchedDate": "2026-09-03",
  "source": "server",
  "items": [
@@ -10,139 +10,84 @@
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "有手就会！手残党懒人免胶睫毛教程来啦",
-     "link": "https://www.xiaohongshu.com/explore/6a4efb7e000000001700b7ad?xsec_token=ABHBPIO2SZKUO0npPz1_ETSMWhWFDjIadMlO7opTlOrtw%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609030942/a7dcc345211a454daaf497ab07753a8f/spectrum/1040g34o322cq01ndmu105qh7mad21502ajerh20!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "月亮供电所",
-     "meta": "❤️ 3684",
-     "desc": "#假睫毛教程[话题]# #原来精美的眼妆这么简单[话题]# #自嫁接睫毛[话题]# #自然下睫毛[话题]# #假睫毛[话题]# #磁吸假睫毛[话题]# #自然款假睫毛[话题]# #睫毛推荐[话题]# #假睫毛挖掘机[话题]# #第一次贴假睫毛[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
     {
+     "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+     "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+     "cover": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2小时前",
+     "pub": "2026-09-03T08:23:37+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
+    },
+    {
      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
      "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
      "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-09-01T09:04:56+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
+    },
+    {
+     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
+     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
+     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "4天前",
+     "pub": "2026-08-29T18:58:48+00:00",
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-08-28T09:44:44+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
     {
-     "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-     "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-     "cover": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-     "author": "Two Minute Papers",
+     "title": "Ox Alpha is GLM 5.3 Flash!!!",
+     "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
+     "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
+     "author": "1littlecoder",
      "meta": "08月26日",
-     "pub": "2026-08-26T13:10:13+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek Harness + 论文可在此处获取：🙏..."
+     "pub": "2026-08-26T16:31:41+00:00",
+     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
     },
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "I Tested Ox Alpha (stealth model)!!!",
+     "link": "https://www.youtube.com/watch?v=3INNP9KXxp4",
+     "cover": "https://i4.ytimg.com/vi/3INNP9KXxp4/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "08月21日",
+     "pub": "2026-08-21T22:40:14+00:00",
+     "desc": "🔗 链接 🔗 可能是中国模特"
     },
     {
      "title": "The jumping pegs puzzle",
-     "pubDate": "2026-08-18 14:54:17",
-     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-     "guid": "yt:video:rYyJm1tD3d0",
+     "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
+     "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "08月18日",
+     "pub": "2026-08-18T14:54:17+00:00",
+     "desc": "MoMath 每月拼图系列的一部分。"
+    },
+    {
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "08月08日",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     }
    ]
   }
