@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:36",
+ "fetchedAt": "10:48",
  "fetchedDate": "2026-09-04",
  "source": "server",
  "items": [
@@ -10,20 +10,11 @@
     {
      "title": "OpenAI发布GPT-6 Astra",
      "link": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83GPT-6%20Astra?type=general",
-     "cover": "https://p26-sign.douyinpic.com/douyin-admin-obj/190fc243b20a816671808212e38fd83d~noop.jpeg?lk3s=bfd515bb&x-expires=1788505200&x-signature=D712cuvpkOQb4IzTGr%2BW%2BEYhpNw%3D&from=3218412987",
+     "cover": "https://p26-sign.douyinpic.com/douyin-admin-obj/190fc243b20a816671808212e38fd83d~noop.jpeg?lk3s=bfd515bb&x-expires=1788537600&x-signature=9AdnGHgXofiAAS4J7fORnTPtTfk%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 12011655",
-     "desc": "热门话题「OpenAI发布GPT-6 Astra」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    },
-    {
-     "title": "AI圈来了位天才",
-     "link": "https://www.douyin.com/search/AI%E5%9C%88%E6%9D%A5%E4%BA%86%E4%BD%8D%E5%A4%A9%E6%89%8D?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oIoBwAkAiCDAIpiwqPTAt7ffad09CJAlXEEqYo~noop.jpeg?lk3s=bfd515bb&x-expires=1788505200&x-signature=oe1DcQ%2FnFao51vXatTgtTs5i09o%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 11177515",
-     "desc": "热门话题「AI圈来了位天才」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7705752",
+     "desc": "热门话题「OpenAI发布GPT-6 Astra」：相关视频 12 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -41,27 +32,27 @@
      "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
      "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "1小时前",
+     "meta": "10小时前",
      "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
+     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
     },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
      "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
      "cover": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "17小时前",
+     "meta": "1天前",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
+     "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
     },
     {
      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
      "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
      "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-09-01T09:04:56+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： 📝 GLM 5.3 Flash ：来源："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
     },
     {
      "title": "Minimax H3 Max feels ILLEGAL and FAST!",
@@ -70,16 +61,16 @@
      "author": "1littlecoder",
      "meta": "5天前",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "6天前",
+     "meta": "08月28日",
      "pub": "2026-08-28T09:44:44+00:00",
-     "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
     {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
@@ -88,7 +79,7 @@
      "author": "1littlecoder",
      "meta": "08月26日",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗 链接🔗GLM-5.3-Flash ： Frontier Intelligence, Flash Cost❤️如果您想支持该频道，请点击此处❤️支持： Patreo"
+     "desc": "🔗链接🔗GLM-5.3-Flash：前沿情报，Flash成本❤️如果你想支持该频道❤️在这里支持：Patreo"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -97,16 +88,16 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath每月系列谜题的一部分。"
+     "desc": "MoMath 每月拼图系列的一部分。"
     },
     {
-     "title": "The 64 sugar cubes puzzle",
-     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "07月24日",
-     "pub": "2026-07-24T15:05:39+00:00",
-     "desc": "查看所有每月拼图："
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "08月08日",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     }
    ]
   }
