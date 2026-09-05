@@ -1,41 +1,32 @@
 {
- "fetchedAt": "10:48",
- "fetchedDate": "2026-09-04",
+ "fetchedAt": "01:38",
+ "fetchedDate": "2026-09-05",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "OpenAI发布GPT-6 Astra",
-     "link": "https://www.douyin.com/search/OpenAI%E5%8F%91%E5%B8%83GPT-6%20Astra?type=general",
-     "cover": "https://p26-sign.douyinpic.com/douyin-admin-obj/190fc243b20a816671808212e38fd83d~noop.jpeg?lk3s=bfd515bb&x-expires=1788537600&x-signature=9AdnGHgXofiAAS4J7fORnTPtTfk%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7705752",
-     "desc": "热门话题「OpenAI发布GPT-6 Astra」：相关视频 12 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "猜谜语猜字谜智力开发小学语文每天学习一点点",
+     "link": "https://www.xiaohongshu.com/explore/6a4f165f0000000008033594?xsec_token=ABIp4XwRnbUnh1VMUcdRuWCFtKuT7aeQ3iGLJH2GCbAaI%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609050937/cc3b2f37b96b5ea648cdb700057cdf72/1040g2sg322ctn23lnv305nk9u15g8tua2p2gppg!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "昕昕有话说",
+     "meta": "❤️ 672",
+     "desc": "#猜谜语[话题]##猜字谜[话题]##智力开发[话题]##小学语文[话题]##每天学习一点点[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
-    {
-     "title": "GPT 6 Astra in 11 mins!",
-     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
-     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "10小时前",
-     "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
-    },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
      "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
@@ -55,15 +46,6 @@
      "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
     },
     {
-     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
-     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
-     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "5天前",
-     "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
-    },
-    {
      "title": "The Billion Dollar AI Gap Is Collapsing",
      "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
      "cover": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
@@ -71,15 +53,6 @@
      "meta": "08月28日",
      "pub": "2026-08-28T09:44:44+00:00",
      "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
-    },
-    {
-     "title": "Ox Alpha is GLM 5.3 Flash!!!",
-     "link": "https://www.youtube.com/watch?v=z5kTYaOk_Sg",
-     "cover": "https://i3.ytimg.com/vi/z5kTYaOk_Sg/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "08月26日",
-     "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗链接🔗GLM-5.3-Flash：前沿情报，Flash成本❤️如果你想支持该频道❤️在这里支持：Patreo"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -91,13 +64,40 @@
      "desc": "MoMath 每月拼图系列的一部分。"
     },
     {
-     "title": "The Right Harness is All You Need - For local Frontier AI",
-     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "08月08日",
-     "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
+     "title": "The 64 sugar cubes puzzle",
+     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
+     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "07月24日",
+     "pub": "2026-07-24T15:05:39+00:00",
+     "desc": "查看所有每月谜题："
+    },
+    {
+     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+     "cover": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "07月16日",
+     "pub": "2026-07-16T11:56:04+00:00",
+     "desc": "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
+    },
+    {
+     "title": "10 AI Tools to Make Your Work Easier",
+     "link": "https://www.youtube.com/watch?v=w2lRUYV1mps",
+     "cover": "https://i4.ytimg.com/vi/w2lRUYV1mps/hqdefault.jpg",
+     "author": "AI Explained",
+     "meta": "10月25日",
+     "pub": "2024-10-25T13:05:57+00:00",
+     "desc": "🔔 立即订阅，所有通知均已开启，以获取更多 AI 新闻 🖤 立即支持我们，成为 AI 粉丝： 免责声明： 1. vi"
+    },
+    {
+     "title": "Unlock Wealth with AI: Top 5 Strategies",
+     "link": "https://www.youtube.com/watch?v=qenhplEujf8",
+     "cover": "https://i2.ytimg.com/vi/qenhplEujf8/hqdefault.jpg",
+     "author": "AI Explained",
+     "meta": "05月23日",
+     "pub": "2024-05-23T19:09:54+00:00",
+     "desc": "🔔 立即订阅，所有通知均已开启，以获取更多 AI 新闻 🖤 立即支持我们，成为 AI 粉丝： 免责声明： 1. vi"
     }
    ]
   }
