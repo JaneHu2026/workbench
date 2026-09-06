@@ -1,17 +1,46 @@
 {
- "fetchedAt": "10:07",
- "fetchedDate": "2026-09-05",
+ "fetchedAt": "01:32",
+ "fetchedDate": "2026-09-06",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "AI展现不了安徽的美",
+     "link": "https://www.douyin.com/search/AI%E5%B1%95%E7%8E%B0%E4%B8%8D%E4%BA%86%E5%AE%89%E5%BE%BD%E7%9A%84%E7%BE%8E?type=general",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ok53fVmRErP6AFoscGGQAABroSFNCkD9BQef77~noop.jpeg?lk3s=bfd515bb&x-expires=1788678000&x-signature=VBSUqXxE8ySMz1JQmj5RQ7ixbhs%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 9112296",
+     "desc": "热门话题「AI展现不了安徽的美」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "青苹果🍏猫眼 | 美甲界是在搞艺术吗？",
+     "link": "https://www.xiaohongshu.com/explore/6a79557d0000000028002e50?xsec_token=ABRgtr4pYQuF0D5Wh387b5nB3AFvf52wYwOlx0EDF5BaU%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609060931/01893f7dff760f6a9db2b71e85f3fcec/1040g2sg323m0i3oh7ang5pvadnv3i5hm005qog8!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "宝拉Bora",
+     "meta": "❤️ 4.6万",
+     "desc": "#猫眼[话题]# #美甲经验howto[话题]# #美甲控[话题]# #美甲界在搞艺术吗[话题]# #猫眼美甲[话题]# #指尖的艺术[话题]# #艺术美甲[话题]# #小众美甲[话题]# #ins美甲分享[话题]# #idol[话题]#"
+    },
+    {
+     "title": "切菜器保姆级教程！新手真的要看哟！",
+     "link": "https://www.xiaohongshu.com/explore/6a6041b9000000000401c666?xsec_token=AB1EYhreQSiWZKsXEI-4cN4jHiCOhPw3LjUSofu4nzF8I%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609060931/78a1e80839a759b37754f4fafea6fadd/spectrum/1040g34o322tm81v0n2105pu9fl8int7ic8dtke8!nc_n_nwebp_prv_1",
+     "source": "小红书",
+     "author": "赊刀人多功能切菜器",
+     "meta": "❤️ 8355",
+     "desc": "#切菜神器[话题]# #厨房好帮手[话题]# #厨房好物[话题]# #切菜机[话题]# #冰箱收纳盒[话题]# #刀架[话题]# #菜板[话题]# #削皮神器[话题]# #菜板推荐[话题]##好视频扶持计划[话题]#"
+    }
+   ]
   },
   {
    "label": "YouTube AI 学习",
@@ -22,7 +51,7 @@
      "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
      "cover": "https://i1.ytimg.com/vi/PJBZmCy1Hfg/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "19小时前",
+     "meta": "1天前",
      "pub": "2026-09-04T14:44:43+00:00",
      "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
     },
@@ -31,7 +60,7 @@
      "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
      "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-09-04T00:00:19+00:00",
      "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
     },
@@ -42,7 +71,7 @@
      "author": "Two Minute Papers",
      "meta": "2天前",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
+     "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
     },
     {
      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
@@ -58,7 +87,7 @@
      "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
      "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "6天前",
+     "meta": "08月29日",
      "pub": "2026-08-29T18:58:48+00:00",
      "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
