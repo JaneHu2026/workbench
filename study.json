@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:32",
+ "fetchedAt": "10:28",
  "fetchedDate": "2026-09-06",
  "source": "server",
  "items": [
@@ -8,13 +8,13 @@
    "ok": true,
    "items": [
     {
-     "title": "AI展现不了安徽的美",
-     "link": "https://www.douyin.com/search/AI%E5%B1%95%E7%8E%B0%E4%B8%8D%E4%BA%86%E5%AE%89%E5%BE%BD%E7%9A%84%E7%BE%8E?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ok53fVmRErP6AFoscGGQAABroSFNCkD9BQef77~noop.jpeg?lk3s=bfd515bb&x-expires=1788678000&x-signature=VBSUqXxE8ySMz1JQmj5RQ7ixbhs%3D&from=3218412987",
+     "title": "用AI拼豆的方式打开旅行",
+     "link": "https://www.douyin.com/search/%E7%94%A8AI%E6%8B%BC%E8%B1%86%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%97%85%E8%A1%8C?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oU0BpPmRpDhAiaCAXExAaAlPpYAIMUDBi5DOr~noop.jpeg?lk3s=bfd515bb&x-expires=1788710400&x-signature=rJ3EqiXyfv2RqJh3HNcVtg2Vq1g%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 9112296",
-     "desc": "热门话题「AI展现不了安徽的美」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7739102",
+     "desc": "热门话题「用AI拼豆的方式打开旅行」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -23,22 +23,13 @@
    "ok": true,
    "items": [
     {
-     "title": "青苹果🍏猫眼 | 美甲界是在搞艺术吗？",
-     "link": "https://www.xiaohongshu.com/explore/6a79557d0000000028002e50?xsec_token=ABRgtr4pYQuF0D5Wh387b5nB3AFvf52wYwOlx0EDF5BaU%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609060931/01893f7dff760f6a9db2b71e85f3fcec/1040g2sg323m0i3oh7ang5pvadnv3i5hm005qog8!nc_n_nwebp_prv_1",
+     "title": "啊啊啊啊已经是共享手机密码的关系了吗🫣",
+     "link": "https://www.xiaohongshu.com/explore/6a682aad000000000f016857?xsec_token=ABwYsMMF84fFsVnXRN15-UvYXskfUHjQ3Sv41OzblU7Dg%3D&xsec_source=pc_feed",
+     "cover": "http://sns-webpic-qc.xhscdn.com/202609061827/e00b059fa8f36cb195daa075cd139051/1040g0083235ddhll746g5odjao48cbsn447ok68!nc_n_nwebp_prv_1",
      "source": "小红书",
-     "author": "宝拉Bora",
-     "meta": "❤️ 4.6万",
-     "desc": "#猫眼[话题]# #美甲经验howto[话题]# #美甲控[话题]# #美甲界在搞艺术吗[话题]# #猫眼美甲[话题]# #指尖的艺术[话题]# #艺术美甲[话题]# #小众美甲[话题]# #ins美甲分享[话题]# #idol[话题]#"
-    },
-    {
-     "title": "切菜器保姆级教程！新手真的要看哟！",
-     "link": "https://www.xiaohongshu.com/explore/6a6041b9000000000401c666?xsec_token=AB1EYhreQSiWZKsXEI-4cN4jHiCOhPw3LjUSofu4nzF8I%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609060931/78a1e80839a759b37754f4fafea6fadd/spectrum/1040g34o322tm81v0n2105pu9fl8int7ic8dtke8!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "赊刀人多功能切菜器",
-     "meta": "❤️ 8355",
-     "desc": "#切菜神器[话题]# #厨房好帮手[话题]# #厨房好物[话题]# #切菜机[话题]# #冰箱收纳盒[话题]# #刀架[话题]# #菜板[话题]# #削皮神器[话题]# #菜板推荐[话题]##好视频扶持计划[话题]#"
+     "author": "Mdmnd",
+     "meta": "❤️ 8505",
+     "desc": "#野狗骨头[话题]# #张婧仪[话题]# #宋威龙[话题]# #夏威仪[话题]#"
     }
    ]
   },
@@ -53,7 +44,7 @@
      "author": "sentdex",
      "meta": "1天前",
      "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
+     "desc": "深入了解GLM 5.3 Flash。writeup: xgo kickstarter: Neural Networks fro…"
     },
     {
      "title": "GPT 6 Astra in 11 mins!",
@@ -62,25 +53,25 @@
      "author": "1littlecoder",
      "meta": "2天前",
      "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
+     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
     },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
      "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
      "cover": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
+     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
     },
     {
      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
      "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
      "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "4天前",
+     "meta": "5天前",
      "pub": "2026-09-01T09:04:56+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： 📝 GLM 5.3 Flash ：来源："
     },
     {
      "title": "Minimax H3 Max feels ILLEGAL and FAST!",
@@ -89,7 +80,7 @@
      "author": "1littlecoder",
      "meta": "08月29日",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
+     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
@@ -98,7 +89,7 @@
      "author": "Two Minute Papers",
      "meta": "08月28日",
      "pub": "2026-08-28T09:44:44+00:00",
-     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
+     "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
     },
     {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
@@ -107,7 +98,7 @@
      "author": "1littlecoder",
      "meta": "08月26日",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗链接🔗GLM-5.3-Flash：前沿情报，Flash成本❤️如果你想支持该频道❤️在这里支持：Patreo"
+     "desc": "🔗 链接🔗GLM-5.3-Flash ： Frontier Intelligence, Flash Cost❤️如果您想支持该频道，请点击此处❤️支持： Patreo"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -116,7 +107,7 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath 每月拼图系列的一部分。"
+     "desc": "MoMath每月系列谜题的一部分。"
     }
    ]
   }
