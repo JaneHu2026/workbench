@@ -1,6 +1,6 @@
 {
- "fetchedAt": "10:28",
- "fetchedDate": "2026-09-06",
+ "fetchedAt": "01:30",
+ "fetchedDate": "2026-09-07",
  "source": "server",
  "items": [
   {
@@ -8,30 +8,20 @@
    "ok": true,
    "items": [
     {
-     "title": "用AI拼豆的方式打开旅行",
-     "link": "https://www.douyin.com/search/%E7%94%A8AI%E6%8B%BC%E8%B1%86%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E6%97%85%E8%A1%8C?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oU0BpPmRpDhAiaCAXExAaAlPpYAIMUDBi5DOr~noop.jpeg?lk3s=bfd515bb&x-expires=1788710400&x-signature=rJ3EqiXyfv2RqJh3HNcVtg2Vq1g%3D&from=3218412987",
+     "title": "GAI上海演唱会",
+     "link": "https://www.douyin.com/search/GAI%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ow7dACfDCEsz9lqA5C2finaAcBmAHEc0FDSEIg~noop.jpeg?lk3s=bfd515bb&x-expires=1788764400&x-signature=lO1mlVRCCSbtx7bWusgPWFQz8bc%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7739102",
-     "desc": "热门话题「用AI拼豆的方式打开旅行」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7664753",
+     "desc": "热门话题「GAI上海演唱会」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "啊啊啊啊已经是共享手机密码的关系了吗🫣",
-     "link": "https://www.xiaohongshu.com/explore/6a682aad000000000f016857?xsec_token=ABwYsMMF84fFsVnXRN15-UvYXskfUHjQ3Sv41OzblU7Dg%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609061827/e00b059fa8f36cb195daa075cd139051/1040g0083235ddhll746g5odjao48cbsn447ok68!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "Mdmnd",
-     "meta": "❤️ 8505",
-     "desc": "#野狗骨头[话题]# #张婧仪[话题]# #宋威龙[话题]# #夏威仪[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
@@ -42,18 +32,18 @@
      "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
      "cover": "https://i1.ytimg.com/vi/PJBZmCy1Hfg/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解GLM 5.3 Flash。writeup: xgo kickstarter: Neural Networks fro…"
+     "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
     },
     {
      "title": "GPT 6 Astra in 11 mins!",
      "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
      "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
+     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
     },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
@@ -62,7 +52,7 @@
      "author": "Two Minute Papers",
      "meta": "3天前",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
+     "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
     },
     {
      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
@@ -71,7 +61,7 @@
      "author": "Two Minute Papers",
      "meta": "5天前",
      "pub": "2026-09-01T09:04:56+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： 📝 GLM 5.3 Flash ：来源："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
     },
     {
      "title": "Minimax H3 Max feels ILLEGAL and FAST!",
@@ -80,7 +70,7 @@
      "author": "1littlecoder",
      "meta": "08月29日",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
     {
      "title": "The Billion Dollar AI Gap Is Collapsing",
@@ -89,7 +79,7 @@
      "author": "Two Minute Papers",
      "meta": "08月28日",
      "pub": "2026-08-28T09:44:44+00:00",
-     "desc": "查看权重和偏见，并在此处注册免费演示：📝本文和Qwen3.8-Flash-Next可在此处获得："
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和 Qwen3.8-Flash-Next 可在此处获取："
     },
     {
      "title": "Ox Alpha is GLM 5.3 Flash!!!",
@@ -98,7 +88,7 @@
      "author": "1littlecoder",
      "meta": "08月26日",
      "pub": "2026-08-26T16:31:41+00:00",
-     "desc": "🔗 链接🔗GLM-5.3-Flash ： Frontier Intelligence, Flash Cost❤️如果您想支持该频道，请点击此处❤️支持： Patreo"
+     "desc": "🔗 链接🔗 GLM-5.3-Flash：前沿情报，Flash 成本❤️ 如果您想支持该频道❤️ 支持这里：Patreo"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -107,7 +97,7 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath每月系列谜题的一部分。"
+     "desc": "MoMath 每月拼图系列的一部分。"
     }
    ]
   }
