@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:40",
+ "fetchedAt": "10:47",
  "fetchedDate": "2026-09-08",
  "source": "server",
  "items": [
@@ -8,44 +8,43 @@
    "ok": true,
    "items": [
     {
-     "title": "华为再发布高性能芯片",
-     "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E5%86%8D%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ogbe9mMsqQCgA3A4ZBnFFsbEQvDFgYA4igfou8~noop.jpeg?lk3s=bfd515bb&x-expires=1788850800&x-signature=lF34a1P78LIh2lKTCE%2FU7nr7vZQ%3D&from=3218412987",
+     "title": "首款韬定律逻辑折叠芯片有多厉害",
+     "link": "https://www.douyin.com/search/%E9%A6%96%E6%AC%BE%E9%9F%AC%E5%AE%9A%E5%BE%8B%E9%80%BB%E8%BE%91%E6%8A%98%E5%8F%A0%E8%8A%AF%E7%89%87%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o0AD9LXrAPeMGcdL7eKCXnBlAEIzBM8QYVfWIu~noop.jpeg?lk3s=bfd515bb&x-expires=1788883200&x-signature=ROcrBy84UY32CDJz0h14W2NH%2F%2FA%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 8323084",
-     "desc": "热门话题「华为再发布高性能芯片」：相关视频 6 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    },
-    {
-     "title": "姜月初AI拼豆手速比斩妖还快",
-     "link": "https://www.douyin.com/search/%E5%A7%9C%E6%9C%88%E5%88%9DAI%E6%8B%BC%E8%B1%86%E6%89%8B%E9%80%9F%E6%AF%94%E6%96%A9%E5%A6%96%E8%BF%98%E5%BF%AB?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEAEDrcdLD1IfBRJ2OBsnE8NnTnei5iwv9DAyR~noop.jpeg?lk3s=bfd515bb&x-expires=1788850800&x-signature=mPq2vGefeDjcoKXVQF3PMBHqfTA%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7621769",
-     "desc": "热门话题「姜月初AI拼豆手速比斩妖还快」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7752700",
+     "desc": "热门话题「首款韬定律逻辑折叠芯片有多厉害」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "上面是我用AI 制做的",
-     "link": "https://www.xiaohongshu.com/explore/6a7fb86d0000000028003312?xsec_token=ABX_mbwtysIdP_je5fcmHAEHaYuPoW3itnSQAKzSayQw8%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609080940/ca700cf2c036ba6158356e713e9541d4/1040g008323sdg0227u705o6ef970bi18s1n5sp8!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "阿凯今天AI什么",
-     "meta": "❤️ 8404",
-     "desc": "上面是我用#AI[话题]# 制做的 下面是电影院正在上映的《#牛来[话题]# 》 你更喜欢手搓还是AI？"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
+    {
+     "title": "GPT-6 Astra Changes Everything",
+     "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+     "cover": "https://i2.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2小时前",
+     "pub": "2026-09-08T08:24:27+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：链接/来源：Honey sim：搜索“Variational Stokes：A Uni"
+    },
+    {
+     "title": "open source AI is winning !",
+     "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
+     "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "4小时前",
+     "pub": "2026-09-08T05:51:29+00:00",
+     "desc": ""
+    },
     {
      "title": "All Roads Lead back To GLM!",
      "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
@@ -56,6 +55,42 @@
      "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
     },
     {
+     "title": "GPT 6 Astra in 11 mins!",
+     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "4天前",
+     "pub": "2026-09-04T00:00:19+00:00",
+     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
+    },
+    {
+     "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+     "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+     "cover": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "5天前",
+     "pub": "2026-09-03T08:23:37+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
+    },
+    {
+     "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+     "link": "https://www.youtube.com/watch?v=w9RDunJACkc",
+     "cover": "https://i4.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "09月01日",
+     "pub": "2026-09-01T09:04:56+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
+    },
+    {
+     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
+     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
+     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "08月29日",
+     "pub": "2026-08-29T18:58:48+00:00",
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
+    },
+    {
      "title": "The jumping pegs puzzle",
      "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
      "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
@@ -63,60 +98,6 @@
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
      "desc": "MoMath 每月拼图系列的一部分。"
-    },
-    {
-     "title": "The Right Harness is All You Need - For local Frontier AI",
-     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "08月08日",
-     "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
-    },
-    {
-     "title": "The 64 sugar cubes puzzle",
-     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "07月24日",
-     "pub": "2026-07-24T15:05:39+00:00",
-     "desc": "查看所有每月谜题："
-    },
-    {
-     "title": "OpenAI hacked HuggingFace",
-     "link": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-     "cover": "https://i2.ytimg.com/vi/IY3b4HTxpgU/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "07月22日",
-     "pub": "2026-07-22T16:28:16+00:00",
-     "desc": "HuggingFace 对事件的报道： OpenAI 对事件的报道："
-    },
-    {
-     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-     "cover": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "07月16日",
-     "pub": "2026-07-16T11:56:04+00:00",
-     "desc": "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
-    },
-    {
-     "title": "How I use LLMs",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月27日",
-     "pub": "2025-02-27T22:29:56+00:00",
-     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为一种新的"
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月05日",
-     "pub": "2025-02-05T18:23:47+00:00",
-     "desc": "这是对为 ChatGPT 和相关 p 提供支持的大型语言模型 (LLM) AI 技术的普通受众的深入探讨"
     }
    ]
   }
