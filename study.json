@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:47",
+ "fetchedAt": "10:54",
  "fetchedDate": "2026-09-09",
  "source": "server",
  "items": [
@@ -8,13 +8,13 @@
    "ok": true,
    "items": [
     {
-     "title": "首款韬定律逻辑折叠芯片有多厉害",
-     "link": "https://www.douyin.com/search/%E9%A6%96%E6%AC%BE%E9%9F%AC%E5%AE%9A%E5%BE%8B%E9%80%BB%E8%BE%91%E6%8A%98%E5%8F%A0%E8%8A%AF%E7%89%87%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/o0AD9LXrAPeMGcdL7eKCXnBlAEIzBM8QYVfWIu~noop.jpeg?lk3s=bfd515bb&x-expires=1788937200&x-signature=LRPY4gy4KTSIqSfoM3R%2Fx%2F1C%2Bk0%3D&from=3218412987",
+     "title": "AI已经摸不透曹骏了",
+     "link": "https://www.douyin.com/search/AI%E5%B7%B2%E7%BB%8F%E6%91%B8%E4%B8%8D%E9%80%8F%E6%9B%B9%E9%AA%8F%E4%BA%86?type=general",
+     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/okV4rK0M4SBIAirAop7BPmviaw46BcaD7aqEA~noop.jpeg?lk3s=bfd515bb&x-expires=1788969600&x-signature=DZERu2soX1lK7X7RNccHQ53bTQ4%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7719107",
-     "desc": "热门话题「首款韬定律逻辑折叠芯片有多厉害」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7705373",
+     "desc": "热门话题「AI已经摸不透曹骏了」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -32,16 +32,16 @@
      "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
      "cover": "https://i2.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "17小时前",
+     "meta": "1天前",
      "pub": "2026-09-08T08:24:27+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ：链接/来源： Honey sim ：搜索“Variational Stokes ： A Uni"
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：链接/来源：Honey sim：搜索“Variational Stokes：A Uni"
     },
     {
      "title": "open source AI is winning !",
      "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
      "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "19小时前",
+     "meta": "1天前",
      "pub": "2026-09-08T05:51:29+00:00",
      "desc": ""
     },
@@ -52,7 +52,7 @@
      "author": "sentdex",
      "meta": "4天前",
      "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解GLM 5.3 Flash。writeup: xgo kickstarter: Neural Networks fro…"
+     "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
     },
     {
      "title": "GPT 6 Astra in 11 mins!",
@@ -61,16 +61,16 @@
      "author": "1littlecoder",
      "meta": "5天前",
      "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
+     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
     },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
      "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
      "cover": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
     },
     {
      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
@@ -79,7 +79,7 @@
      "author": "Two Minute Papers",
      "meta": "09月01日",
      "pub": "2026-09-01T09:04:56+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： 📝 GLM 5.3 Flash ：来源："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 GLM 5.3 Flash：来源："
     },
     {
      "title": "Minimax H3 Max feels ILLEGAL and FAST!",
@@ -88,7 +88,7 @@
      "author": "1littlecoder",
      "meta": "08月29日",
      "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
+     "desc": "Minimax H3 Max 演练，带有 10 个热门提示🔗链接🔗❤️如果您想支持该频道❤️在这里支持：Patreon"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -97,7 +97,7 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath每月系列谜题的一部分。"
+     "desc": "MoMath 每月拼图系列的一部分。"
     }
    ]
   }
