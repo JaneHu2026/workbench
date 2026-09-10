@@ -1,42 +1,49 @@
 {
- "fetchedAt": "01:43",
+ "fetchedAt": "10:50",
  "fetchedDate": "2026-09-10",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "AI已经摸不透曹骏了",
-     "link": "https://www.douyin.com/search/AI%E5%B7%B2%E7%BB%8F%E6%91%B8%E4%B8%8D%E9%80%8F%E6%9B%B9%E9%AA%8F%E4%BA%86?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okV4rK0M4SBIAirAop7BPmviaw46BcaD7aqEA~noop.jpeg?lk3s=bfd515bb&x-expires=1789023600&x-signature=1TN%2BWQb8ZtXK59C%2FXfn50xQY6rA%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7634080",
-     "desc": "热门话题「AI已经摸不透曹骏了」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "万无一失！新手保姆级画眼线教程",
-     "link": "https://www.xiaohongshu.com/explore/6a6ad88b000000000e034f2f?xsec_token=ABgwjg64du9GBTD9UQ88iEff-2j19Ew9zHAOctkvgweH8%3D&xsec_source=pc_feed",
-     "cover": "http://sns-webpic-qc.xhscdn.com/202609100942/9fdbe7113c7b147a3fcd2806087dcc89/spectrum/1040g0k032380nsdn70005p3b8og44vtu2qm2lbg!nc_n_nwebp_prv_1",
-     "source": "小红书",
-     "author": "姜乘澜",
-     "meta": "❤️ 10万+",
-     "desc": "0基础也可以很好的完成[爱心R] #梳妆台艺术家[话题]# #妆出于澜[话题]#"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
+    {
+     "title": "The Equation That Might Destroy Itself",
+     "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+     "cover": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2小时前",
+     "pub": "2026-09-10T08:47:23+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU云： Navier-Stokes解决方📝案白皮书可在此处获得： My fluid si"
+    },
+    {
+     "title": "GPT-6 Astra Changes Everything",
+     "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+     "cover": "https://i2.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2天前",
+     "pub": "2026-09-08T08:24:27+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ：链接/来源： Honey sim ：搜索“Variational Stokes ： A Uni"
+    },
+    {
+     "title": "open source AI is winning !",
+     "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
+     "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "2天前",
+     "pub": "2026-09-08T05:51:29+00:00",
+     "desc": ""
+    },
     {
      "title": "All Roads Lead back To GLM!",
      "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
@@ -44,7 +51,34 @@
      "author": "sentdex",
      "meta": "5天前",
      "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
+     "desc": "深入了解GLM 5.3 Flash。writeup: xgo kickstarter: Neural Networks fro…"
+    },
+    {
+     "title": "GPT 6 Astra in 11 mins!",
+     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "6天前",
+     "pub": "2026-09-04T00:00:19+00:00",
+     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
+    },
+    {
+     "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+     "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+     "cover": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "09月03日",
+     "pub": "2026-09-03T08:23:37+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
+    },
+    {
+     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
+     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
+     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "08月29日",
+     "pub": "2026-08-29T18:58:48+00:00",
+     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
     },
     {
      "title": "The jumping pegs puzzle",
@@ -53,61 +87,7 @@
      "author": "3Blue1Brown",
      "meta": "08月18日",
      "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath 每月拼图系列的一部分。"
-    },
-    {
-     "title": "The Right Harness is All You Need - For local Frontier AI",
-     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
-     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "08月08日",
-     "pub": "2026-08-08T17:22:18+00:00",
-     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
-    },
-    {
-     "title": "The 64 sugar cubes puzzle",
-     "link": "https://www.youtube.com/watch?v=6XPlmCDNLNc",
-     "cover": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "07月24日",
-     "pub": "2026-07-24T15:05:39+00:00",
-     "desc": "查看所有每月谜题："
-    },
-    {
-     "title": "OpenAI hacked HuggingFace",
-     "link": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
-     "cover": "https://i2.ytimg.com/vi/IY3b4HTxpgU/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "07月22日",
-     "pub": "2026-07-22T16:28:16+00:00",
-     "desc": "HuggingFace 对事件的报道： OpenAI 对事件的报道："
-    },
-    {
-     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-     "cover": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "07月16日",
-     "pub": "2026-07-16T11:56:04+00:00",
-     "desc": "训练 LLM 的损失函数从何而来。适合该受众的工作机会：早期观点和其他"
-    },
-    {
-     "title": "How I use LLMs",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月27日",
-     "pub": "2025-02-27T22:29:56+00:00",
-     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为一种新的"
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月05日",
-     "pub": "2025-02-05T18:23:47+00:00",
-     "desc": "这是对为 ChatGPT 和相关 p 提供支持的大型语言模型 (LLM) AI 技术的普通受众的深入探讨"
+     "desc": "MoMath每月系列谜题的一部分。"
     }
    ]
   }
