@@ -1,6 +1,6 @@
 {
- "fetchedAt": "10:50",
- "fetchedDate": "2026-09-10",
+ "fetchedAt": "01:42",
+ "fetchedDate": "2026-09-11",
  "source": "server",
  "items": [
   {
@@ -18,13 +18,13 @@
    "ok": true,
    "items": [
     {
-     "title": "The Equation That Might Destroy Itself",
+     "title": "I Never Thought I’d See This Happen",
      "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
      "cover": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2小时前",
+     "meta": "16小时前",
      "pub": "2026-09-10T08:47:23+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Navier-Stokes解决方📝案白皮书可在此处获得： My fluid si"
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Navier-Stokes 解决方案论文可在此处获取：我的流体 si"
     },
     {
      "title": "GPT-6 Astra Changes Everything",
@@ -33,34 +33,16 @@
      "author": "Two Minute Papers",
      "meta": "2天前",
      "pub": "2026-09-08T08:24:27+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ：链接/来源： Honey sim ：搜索“Variational Stokes ： A Uni"
-    },
-    {
-     "title": "open source AI is winning !",
-     "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
-     "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "2天前",
-     "pub": "2026-09-08T05:51:29+00:00",
-     "desc": ""
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：链接/来源：Honey sim：搜索“Variational Stokes：A Uni"
     },
     {
      "title": "All Roads Lead back To GLM!",
      "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
      "cover": "https://i1.ytimg.com/vi/PJBZmCy1Hfg/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "5天前",
-     "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解GLM 5.3 Flash。writeup: xgo kickstarter: Neural Networks fro…"
-    },
-    {
-     "title": "GPT 6 Astra in 11 mins!",
-     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
-     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
-     "author": "1littlecoder",
      "meta": "6天前",
-     "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
+     "pub": "2026-09-04T14:44:43+00:00",
+     "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
     },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
@@ -69,25 +51,43 @@
      "author": "Two Minute Papers",
      "meta": "09月03日",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
+     "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
     },
     {
-     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
-     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
-     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "08月29日",
-     "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
+     "title": "The Right Harness is All You Need - For local Frontier AI",
+     "link": "https://www.youtube.com/watch?v=H50xoAzNfB0",
+     "cover": "https://i1.ytimg.com/vi/H50xoAzNfB0/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "08月08日",
+     "pub": "2026-08-08T17:22:18+00:00",
+     "desc": "我们继续在家中运行前沿人工智能、会说话的 PCIe 交换机、deepseek v4 闪存 0731/preview/dspark、GLM 5.2、"
     },
     {
-     "title": "The jumping pegs puzzle",
-     "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
-     "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "08月18日",
-     "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath每月系列谜题的一部分。"
+     "title": "OpenAI hacked HuggingFace",
+     "link": "https://www.youtube.com/watch?v=IY3b4HTxpgU",
+     "cover": "https://i2.ytimg.com/vi/IY3b4HTxpgU/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "07月22日",
+     "pub": "2026-07-22T16:28:16+00:00",
+     "desc": "HuggingFace 对事件的报道： OpenAI 对事件的报道："
+    },
+    {
+     "title": "How I use LLMs",
+     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "02月27日",
+     "pub": "2025-02-27T22:29:56+00:00",
+     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为一种新的"
+    },
+    {
+     "title": "Deep Dive into LLMs like ChatGPT",
+     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "02月05日",
+     "pub": "2025-02-05T18:23:47+00:00",
+     "desc": "这是对为 ChatGPT 和相关 p 提供支持的大型语言模型 (LLM) AI 技术的普通受众的深入探讨"
     }
    ]
   }
