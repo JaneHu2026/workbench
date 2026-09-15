@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:04",
- "fetchedDate": "2026-09-14",
+ "fetchedAt": "02:05",
+ "fetchedDate": "2026-09-15",
  "source": "server",
  "items": [
   {
@@ -18,22 +18,13 @@
    "ok": true,
    "items": [
     {
-     "title": "Effective Doomerism",
-     "link": "https://www.youtube.com/watch?v=KSXm_KCMR60",
-     "cover": "https://i4.ytimg.com/vi/KSXm_KCMR60/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "2天前",
-     "pub": "2026-09-11T14:10:01+00:00",
-     "desc": "Neural Networks from Scratch book:频道会员资格: Discord: Reddit:"
-    },
-    {
      "title": "I Never Thought I’d See This Happen",
      "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
      "cover": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
      "author": "Two Minute Papers",
      "meta": "4天前",
      "pub": "2026-09-10T08:47:23+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Navier-Stokes解决方📝案白皮书可在此处获得： My fluid si"
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Navier-Stokes 解决方案论文可在此处获取：我的流体 si"
     },
     {
      "title": "GPT-6 Astra Changes Everything",
@@ -42,34 +33,7 @@
      "author": "Two Minute Papers",
      "meta": "6天前",
      "pub": "2026-09-08T08:24:27+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU Cloud ：链接/来源： Honey sim ：搜索“Variational Stokes ： A Uni"
-    },
-    {
-     "title": "open source AI is winning !",
-     "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
-     "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "6天前",
-     "pub": "2026-09-08T05:51:29+00:00",
-     "desc": ""
-    },
-    {
-     "title": "All Roads Lead back To GLM!",
-     "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
-     "cover": "https://i1.ytimg.com/vi/PJBZmCy1Hfg/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月04日",
-     "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解GLM 5.3 Flash。writeup: xgo kickstarter: Neural Networks fro…"
-    },
-    {
-     "title": "GPT 6 Astra in 11 mins!",
-     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
-     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "09月04日",
-     "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "很抱歉重新上传，我之前误上传了一段视频！🔗链接 🔗"
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：链接/来源：Honey sim：搜索“Variational Stokes：A Uni"
     },
     {
      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
@@ -78,16 +42,97 @@
      "author": "Two Minute Papers",
      "meta": "09月03日",
      "pub": "2026-09-03T08:23:37+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： Claude 📝 Fable 5.1论文可在此处获得："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Claude Fable 5.1 论文可在此处获取："
     },
     {
-     "title": "Minimax H3 Max feels ILLEGAL and FAST!",
-     "link": "https://www.youtube.com/watch?v=7JIrJyxF0Ho",
-     "cover": "https://i4.ytimg.com/vi/7JIrJyxF0Ho/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "08月29日",
-     "pub": "2026-08-29T18:58:48+00:00",
-     "desc": "Minimax H3 Max演练，包含10个热门提示🔗链接🔗 ❤️如果您想支持该频道，请点击此处❤️支持： Patreon"
+     "title": "How I use LLMs",
+     "pubDate": "2025-02-27 22:29:56",
+     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+     "guid": "yt:video:EWvNQjAaOHw",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Deep Dive into LLMs like ChatGPT",
+     "pubDate": "2025-02-05 18:23:47",
+     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "guid": "yt:video:7xTGNNLPyMI",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's reproduce GPT-2 (124M)",
+     "pubDate": "2024-06-09 23:31:35",
+     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+     "guid": "yt:video:l8pRSuU81PU",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's build the GPT Tokenizer",
+     "pubDate": "2024-02-20 17:11:35",
+     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
+     "guid": "yt:video:zduSFxRajkE",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The jumping pegs puzzle",
+     "pubDate": "2026-08-18 14:54:17",
+     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+     "guid": "yt:video:rYyJm1tD3d0",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     }
    ]
   }
