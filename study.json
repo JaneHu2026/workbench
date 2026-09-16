@@ -1,22 +1,12 @@
 {
- "fetchedAt": "11:18",
- "fetchedDate": "2026-09-15",
+ "fetchedAt": "01:56",
+ "fetchedDate": "2026-09-16",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "苹果推出Siri人工智能",
-     "link": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BASiri%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o8LIo2gIZEe6g16qAiAuQjIof6AalBACIDi9qF~noop.jpeg?lk3s=bfd515bb&x-expires=1789491600&x-signature=cXPZZJu0HGISv%2BJuTLHqdiHBcS4%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 8624031",
-     "desc": "热门话题「苹果推出Siri人工智能」：相关视频 6 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
@@ -28,76 +18,148 @@
    "ok": true,
    "items": [
     {
-     "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-     "link": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-     "cover": "https://i2.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "1小时前",
-     "pub": "2026-09-15T10:12:34+00:00",
-     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和来源可在此处获取："
-    },
-    {
-     "title": "Everything is LLM - Vibe coding a robot task",
-     "link": "https://www.youtube.com/watch?v=OIw6zY_AQOg",
-     "cover": "https://i4.ytimg.com/vi/OIw6zY_AQOg/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "20小时前",
-     "pub": "2026-09-14T15:11:08+00:00",
-     "desc": "使用 XGO 机器人探索一些振动编码。您可以在这里查看这个特殊的机器人：来自...的神经网络"
-    },
-    {
-     "title": "Effective Doomerism",
-     "link": "https://www.youtube.com/watch?v=KSXm_KCMR60",
-     "cover": "https://i4.ytimg.com/vi/KSXm_KCMR60/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "3天前",
-     "pub": "2026-09-11T14:10:01+00:00",
-     "desc": "《Neural Networks from Scratch》一书：频道会员：Discord：Reddit："
-    },
-    {
-     "title": "I Never Thought I’d See This Happen",
-     "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-     "cover": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "5天前",
-     "pub": "2026-09-10T08:47:23+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Navier-Stokes 解决方案论文可在此处获取：我的流体 si"
-    },
-    {
-     "title": "GPT-6 Astra Changes Everything",
-     "link": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-     "cover": "https://i2.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "09月08日",
-     "pub": "2026-09-08T08:24:27+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：链接/来源：Honey sim：搜索“Variational Stokes：A Uni"
-    },
-    {
-     "title": "open source AI is winning !",
-     "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
-     "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "09月08日",
-     "pub": "2026-09-08T05:51:29+00:00",
+     "title": "How I use LLMs",
+     "pubDate": "2025-02-27 22:29:56",
+     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+     "guid": "yt:video:EWvNQjAaOHw",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
      "desc": ""
     },
     {
-     "title": "All Roads Lead back To GLM!",
-     "link": "https://www.youtube.com/watch?v=PJBZmCy1Hfg",
-     "cover": "https://i1.ytimg.com/vi/PJBZmCy1Hfg/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月04日",
-     "pub": "2026-09-04T14:44:43+00:00",
-     "desc": "深入了解 GLM 5.3 Flash。撰写：xgo kickstarter：神经网络..."
+     "title": "Deep Dive into LLMs like ChatGPT",
+     "pubDate": "2025-02-05 18:23:47",
+     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "guid": "yt:video:7xTGNNLPyMI",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     },
     {
-     "title": "GPT 6 Astra in 11 mins!",
-     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
-     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
-     "author": "1littlecoder",
-     "meta": "09月04日",
-     "pub": "2026-09-04T00:00:19+00:00",
-     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
+     "title": "Let's reproduce GPT-2 (124M)",
+     "pubDate": "2024-06-09 23:31:35",
+     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+     "guid": "yt:video:l8pRSuU81PU",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's build the GPT Tokenizer",
+     "pubDate": "2024-02-20 17:11:35",
+     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
+     "guid": "yt:video:zduSFxRajkE",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The jumping pegs puzzle",
+     "pubDate": "2026-08-18 14:54:17",
+     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+     "guid": "yt:video:rYyJm1tD3d0",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The 64 sugar cubes puzzle",
+     "pubDate": "2026-07-24 15:05:39",
+     "link": "https://www.youtube.com/shorts/6XPlmCDNLNc",
+     "guid": "yt:video:6XPlmCDNLNc",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/6XPlmCDNLNc?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+     "pubDate": "2026-07-16 11:56:04",
+     "link": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+     "guid": "yt:video:GlYgs6v2YfU",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/GlYgs6v2YfU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "100 random chords, how many intersections?",
+     "pubDate": "2026-06-16 18:04:05",
+     "link": "https://www.youtube.com/shorts/wGffBCfrAsE",
+     "guid": "yt:video:wGffBCfrAsE",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/wGffBCfrAsE?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     }
    ]
   }
