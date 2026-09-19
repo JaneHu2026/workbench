@@ -1,12 +1,22 @@
 {
- "fetchedAt": "01:53",
+ "fetchedAt": "10:28",
  "fetchedDate": "2026-09-19",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "国产韩剧打开AI爽剧新赛道",
+     "link": "https://www.douyin.com/search/%E5%9B%BD%E4%BA%A7%E9%9F%A9%E5%89%A7%E6%89%93%E5%BC%80AI%E7%88%BD%E5%89%A7%E6%96%B0%E8%B5%9B%E9%81%93?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/owIquVUBUCDCpA7heeIAuLIBAGGtOXC0ieKbcE~noop.jpeg?lk3s=bfd515bb&x-expires=1789833600&x-signature=XQjPFCqOB0pyf5J5jal%2FyCrCn5o%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7668673",
+     "desc": "热门话题「国产韩剧打开AI爽剧新赛道」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -18,148 +28,76 @@
    "ok": true,
    "items": [
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
      "title": "The last IMO problem AI could not solve",
-     "pubDate": "2026-09-18 17:14:08",
-     "link": "https://www.youtube.com/shorts/bRQEWPA832A",
-     "guid": "yt:video:bRQEWPA832A",
+     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
+     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/bRQEWPA832A?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "17小时前",
+     "pub": "2026-09-18T17:14:08+00:00",
+     "desc": "完整视频："
     },
     {
      "title": "The last IMO problem AI could not solve",
-     "pubDate": "2026-09-18 17:12:53",
      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-     "guid": "yt:video:Nbwv5wHQoj0",
+     "cover": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/Nbwv5wHQoj0?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "17小时前",
+     "pub": "2026-09-18T17:12:53+00:00",
+     "desc": "一个美丽的谜题，人工智能及其所需的直觉无法解决。观看我们的虚拟招聘会：观看新视频 Earl"
     },
     {
-     "title": "The jumping pegs puzzle",
-     "pubDate": "2026-08-18 14:54:17",
-     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-     "guid": "yt:video:rYyJm1tD3d0",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
+     "link": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
+     "cover": "https://i4.ytimg.com/vi/g8WjRGi8o6w/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "19小时前",
+     "pub": "2026-09-18T14:55:26+00:00",
+     "desc": "更进一步，让 GLM 5.3 Flash 通过函数调用和对象来控制所有逻辑"
     },
     {
-     "title": "The 64 sugar cubes puzzle",
-     "pubDate": "2026-07-24 15:05:39",
-     "link": "https://www.youtube.com/shorts/6XPlmCDNLNc",
-     "guid": "yt:video:6XPlmCDNLNc",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/6XPlmCDNLNc?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/6XPlmCDNLNc/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "DeepSeek’s Insane New Architecture",
+     "link": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+     "cover": "https://i3.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "1天前",
+     "pub": "2026-09-18T07:03:46+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 DeepSeek V4.1 Flash 论文可在此处获取：勘误表：Opu…"
+    },
+    {
+     "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+     "link": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+     "cover": "https://i2.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "4天前",
+     "pub": "2026-09-15T10:12:34+00:00",
+     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和来源可在此处获取："
+    },
+    {
+     "title": "Everything is LLM - Vibe coding a robot task",
+     "link": "https://www.youtube.com/watch?v=OIw6zY_AQOg",
+     "cover": "https://i4.ytimg.com/vi/OIw6zY_AQOg/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "4天前",
+     "pub": "2026-09-14T15:11:08+00:00",
+     "desc": "使用 XGO 机器人探索一些振动编码。您可以在这里查看这个特殊的机器人：来自...的神经网络"
+    },
+    {
+     "title": "Effective Doomerism",
+     "link": "https://www.youtube.com/watch?v=KSXm_KCMR60",
+     "cover": "https://i4.ytimg.com/vi/KSXm_KCMR60/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月11日",
+     "pub": "2026-09-11T14:10:01+00:00",
+     "desc": "《Neural Networks from Scratch》一书：频道会员：Discord：Reddit："
+    },
+    {
+     "title": "I Never Thought I’d See This Happen",
+     "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+     "cover": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "09月10日",
+     "pub": "2026-09-10T08:47:23+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Navier-Stokes 解决方案论文可在此处获取：我的流体 si"
     }
    ]
   }
