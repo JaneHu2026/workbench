@@ -1,12 +1,22 @@
 {
- "fetchedAt": "12:14",
- "fetchedDate": "2026-09-21",
+ "fetchedAt": "02:04",
+ "fetchedDate": "2026-09-22",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "跟与辉同行用AI打开山西",
+     "link": "https://www.douyin.com/search/%E8%B7%9F%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E7%94%A8AI%E6%89%93%E5%BC%80%E5%B1%B1%E8%A5%BF?type=general",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0rAPBEhH1D89Og3vwD4FYuAfvNCiqIAHfIJPi~noop.jpeg?lk3s=bfd515bb&x-expires=1790064000&x-signature=0E8RjqLu4VfwpeuUSkSqUyeYuv0%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7754255",
+     "desc": "热门话题「跟与辉同行用AI打开山西」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -18,20 +28,11 @@
    "ok": true,
    "items": [
     {
-     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
-     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "1天前",
-     "pub": "2026-09-19T15:35:20+00:00",
-     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
-    },
-    {
      "title": "The last IMO problem AI could not solve",
      "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
      "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-09-18T17:14:08+00:00",
      "desc": "完整视频："
     },
@@ -40,54 +41,81 @@
      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
      "cover": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-09-18T17:12:53+00:00",
      "desc": "一个美丽的谜题，人工智能及其所需的直觉无法解决。观看我们的虚拟招聘会：观看新视频 Earl"
     },
     {
-     "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
-     "link": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
-     "cover": "https://i4.ytimg.com/vi/g8WjRGi8o6w/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "2天前",
-     "pub": "2026-09-18T14:55:26+00:00",
-     "desc": "更进一步，让 GLM 5.3 Flash 通过函数调用和对象来控制所有逻辑"
+     "title": "The jumping pegs puzzle",
+     "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
+     "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "08月18日",
+     "pub": "2026-08-18T14:54:17+00:00",
+     "desc": "MoMath 每月拼图系列的一部分。"
+    },
+    {
+     "title": "How I use LLMs",
+     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "02月27日",
+     "pub": "2025-02-27T22:29:56+00:00",
+     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为一种新的"
+    },
+    {
+     "title": "Deep Dive into LLMs like ChatGPT",
+     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "02月05日",
+     "pub": "2025-02-05T18:23:47+00:00",
+     "desc": "这是对为 ChatGPT 和相关 p 提供支持的大型语言模型 (LLM) AI 技术的普通受众的深入探讨"
+    },
+    {
+     "title": "Let's reproduce GPT-2 (124M)",
+     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+     "cover": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "06月09日",
+     "pub": "2024-06-09T23:31:35+00:00",
+     "desc": "我们从头开始重现 GPT-2 (124M)。这个视频涵盖了整个过程：首先我们构建GPT-2网络，然后"
     },
     {
      "title": "DeepSeek’s Insane New Architecture",
+     "pubDate": "2026-09-18 07:03:46",
      "link": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-     "cover": "https://i3.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
+     "guid": "yt:video:vIHw_2VjSUw",
      "author": "Two Minute Papers",
-     "meta": "3天前",
-     "pub": "2026-09-18T07:03:46+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 DeepSeek V4.1 Flash 论文可在此处获取：勘误表：Opu…"
+     "thumbnail": "https://i3.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/vIHw_2VjSUw?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     },
     {
      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+     "pubDate": "2026-09-15 10:12:34",
      "link": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-     "cover": "https://i2.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
+     "guid": "yt:video:YoEWjZSwoys",
      "author": "Two Minute Papers",
-     "meta": "6天前",
-     "pub": "2026-09-15T10:12:34+00:00",
-     "desc": "查看权重和偏差并在此处注册免费演示：📝 论文和来源可在此处获取："
-    },
-    {
-     "title": "Everything is LLM - Vibe coding a robot task",
-     "link": "https://www.youtube.com/watch?v=OIw6zY_AQOg",
-     "cover": "https://i4.ytimg.com/vi/OIw6zY_AQOg/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "6天前",
-     "pub": "2026-09-14T15:11:08+00:00",
-     "desc": "使用 XGO 机器人探索一些振动编码。您可以在这里查看这个特殊的机器人：来自......的神经网络"
-    },
-    {
-     "title": "I Never Thought I’d See This Happen",
-     "link": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-     "cover": "https://i2.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "09月10日",
-     "pub": "2026-09-10T08:47:23+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Navier-Stokes 解决方案论文可在此处获取：我的流体 si"
+     "thumbnail": "https://i2.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/YoEWjZSwoys?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i2.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     }
    ]
   }
