@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:51",
+ "fetchedAt": "11:17",
  "fetchedDate": "2026-09-24",
  "source": "server",
  "items": [
@@ -17,6 +17,42 @@
    "label": "YouTube AI 学习",
    "ok": true,
    "items": [
+    {
+     "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+     "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+     "cover": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2小时前",
+     "pub": "2026-09-24T08:40:55+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：Claude Opus 5.5：行走的生物视频和论文："
+    },
+    {
+     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
+     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "20小时前",
+     "pub": "2026-09-23T14:50:17+00:00",
+     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
+    },
+    {
+     "title": "Yes, Jev Is Insane, But There's A Catch",
+     "link": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+     "cover": "https://i2.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2天前",
+     "pub": "2026-09-22T09:32:13+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Jev：完整歌曲："
+    },
+    {
+     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
+     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "4天前",
+     "pub": "2026-09-19T15:35:20+00:00",
+     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
+    },
     {
      "title": "The last IMO problem AI could not solve",
      "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
@@ -36,103 +72,22 @@
      "desc": "一个美丽的谜题，人工智能及其所需的直觉无法解决。观看我们的虚拟招聘会：观看新视频 Earl"
     },
     {
-     "title": "The jumping pegs puzzle",
-     "link": "https://www.youtube.com/watch?v=rYyJm1tD3d0",
-     "cover": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "08月18日",
-     "pub": "2026-08-18T14:54:17+00:00",
-     "desc": "MoMath 每月拼图系列的一部分。"
+     "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
+     "link": "https://www.youtube.com/watch?v=g8WjRGi8o6w",
+     "cover": "https://i4.ytimg.com/vi/g8WjRGi8o6w/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "5天前",
+     "pub": "2026-09-18T14:55:26+00:00",
+     "desc": "更进一步，让 GLM 5.3 Flash 通过函数调用和对象来控制所有逻辑"
     },
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Yes, Jev Is Insane, But There's A Catch",
-     "pubDate": "2026-09-22 09:32:13",
-     "link": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-     "guid": "yt:video:qBBRRsH0rQc",
+     "title": "DeepSeek’s Insane New Architecture",
+     "link": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+     "cover": "https://i3.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "thumbnail": "https://i2.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/qBBRRsH0rQc?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "6天前",
+     "pub": "2026-09-18T07:03:46+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 DeepSeek V4.1 Flash 论文可在此处获取：勘误表：Opu…"
     }
    ]
   }
