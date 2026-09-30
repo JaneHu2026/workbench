@@ -1,22 +1,12 @@
 {
- "fetchedAt": "12:19",
- "fetchedDate": "2026-09-29",
+ "fetchedAt": "02:38",
+ "fetchedDate": "2026-09-30",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "AI把知识拍成大片了",
-     "link": "https://www.douyin.com/search/AI%E6%8A%8A%E7%9F%A5%E8%AF%86%E6%8B%8D%E6%88%90%E5%A4%A7%E7%89%87%E4%BA%86?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQI7LMQ4eeaTblGlDgeuLiAOCuQviZy5JXcVvB~noop.jpeg?lk3s=bfd515bb&x-expires=1790704800&x-signature=BgWqzhrXGNoEj7Q17YEFv1iPXAo%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7863163",
-     "desc": "热门话题「AI把知识拍成大片了」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
@@ -32,7 +22,7 @@
      "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
      "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-09-25T13:35:02+00:00",
      "desc": "每月系列谜题的一部分："
     },
@@ -50,7 +40,7 @@
      "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
      "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-09-23T14:50:17+00:00",
      "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
     },
