@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:54",
- "fetchedDate": "2026-10-04",
+ "fetchedAt": "02:37",
+ "fetchedDate": "2026-10-05",
  "source": "server",
  "items": [
   {
@@ -33,7 +33,7 @@
      "author": "Two Minute Papers",
      "meta": "09月24日",
      "pub": "2026-09-24T08:40:55+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud： 注意：在行走生物实验中，Astra 使用了一个简化版"
+     "desc": "在这里查看Lambda并注册他们的GPU云：注意：在步行生物实验中， Astra使用了一个简单的"
     },
     {
      "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
@@ -42,7 +42,7 @@
      "author": "sentdex",
      "meta": "09月23日",
      "pub": "2026-09-23T14:50:17+00:00",
-     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
+     "desc": "我们将在这里介绍一下，首先是GLM 5.3 Flash NVFP4的一些新基准，然后是一些新基准"
     },
     {
      "title": "Yes, Jev Is Insane, But There's A Catch",
@@ -51,7 +51,7 @@
      "author": "Two Minute Papers",
      "meta": "09月22日",
      "pub": "2026-09-22T09:32:13+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Jev：完整歌曲："
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： 📝 Jev ：完整歌曲："
     },
     {
      "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
@@ -60,7 +60,7 @@
      "author": "sentdex",
      "meta": "09月19日",
      "pub": "2026-09-19T15:35:20+00:00",
-     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
+     "desc": "Zhipu的“Toward Recursive Self-Imfement” - Typesafe Jev公告： Neural…"
     },
     {
      "title": "The last IMO problem AI could not solve",
@@ -69,7 +69,7 @@
      "author": "3Blue1Brown",
      "meta": "09月18日",
      "pub": "2026-09-18T17:14:08+00:00",
-     "desc": "完整视频："
+     "desc": "完整视频"
     },
     {
      "title": "The last IMO problem AI could not solve",
@@ -78,7 +78,7 @@
      "author": "3Blue1Brown",
      "meta": "09月18日",
      "pub": "2026-09-18T17:12:53+00:00",
-     "desc": "一个美丽的谜题，人工智能及其所需的直觉无法解决。观看我们的虚拟招聘会：观看新视频 Earl"
+     "desc": "一个美丽的谜题，逃脱了人工智能及其所需的直觉。查看我们的线上招聘会：观看新视频Earl"
     },
     {
      "title": "GLM 5.3 Flash Doing all High Level Robot Control - Everything is LLM P.2",
@@ -87,7 +87,7 @@
      "author": "sentdex",
      "meta": "09月18日",
      "pub": "2026-09-18T14:55:26+00:00",
-     "desc": "更进一步，让 GLM 5.3 Flash 通过函数调用和对象来控制所有逻辑"
+     "desc": "更进一步，让GLM 5.3 Flash通过函数调用以及对象来控制所有逻辑"
     }
    ]
   }
