@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:56",
+ "fetchedAt": "12:50",
  "fetchedDate": "2026-10-07",
  "source": "server",
  "items": [
@@ -18,121 +18,76 @@
    "ok": true,
    "items": [
     {
-     "title": "How I use LLMs",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月27日",
-     "pub": "2025-02-27T22:29:56+00:00",
-     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为一种新的"
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月05日",
-     "pub": "2025-02-05T18:23:47+00:00",
-     "desc": "这是对为 ChatGPT 和相关 p 提供支持的大型语言模型 (LLM) AI 技术的普通受众的深入探讨"
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "cover": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "06月09日",
-     "pub": "2024-06-09T23:31:35+00:00",
-     "desc": "我们从头开始重现 GPT-2 (124M)。这个视频涵盖了整个过程：首先我们构建GPT-2网络，然后"
+     "title": "The Billion Dollar AI Advantage Is Disappearing",
+     "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+     "cover": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2天前",
+     "pub": "2026-10-05T09:53:12+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Sonnet 5.5：🙏 我们要感谢我们慷慨的 Patreon 支持"
     },
     {
      "title": "The Phone Number puzzle",
-     "pubDate": "2026-09-25 13:35:02",
-     "link": "https://www.youtube.com/shorts/ausLKMojXaY",
-     "guid": "yt:video:ausLKMojXaY",
+     "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
+     "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/ausLKMojXaY?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "09月25日",
+     "pub": "2026-09-25T13:35:02+00:00",
+     "desc": "每月系列谜题的一部分："
     },
     {
-     "title": "The last IMO problem AI could not solve",
-     "pubDate": "2026-09-18 17:14:08",
-     "link": "https://www.youtube.com/shorts/bRQEWPA832A",
-     "guid": "yt:video:bRQEWPA832A",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/bRQEWPA832A?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "The last IMO problem AI could not solve",
-     "pubDate": "2026-09-18 17:12:53",
-     "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-     "guid": "yt:video:Nbwv5wHQoj0",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/Nbwv5wHQoj0?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "The jumping pegs puzzle",
-     "pubDate": "2026-08-18 14:54:17",
-     "link": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-     "guid": "yt:video:rYyJm1tD3d0",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/rYyJm1tD3d0?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "The Billion Dollar AI Advantage Is Disappearing",
-     "pubDate": "2026-10-05 09:53:12",
-     "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-     "guid": "yt:video:ZHVNTTKu9fU",
+     "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+     "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+     "cover": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "thumbnail": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/ZHVNTTKu9fU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "09月24日",
+     "pub": "2026-09-24T08:40:55+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud： 注意：在行走生物实验中，Astra 使用了一个简化版"
+    },
+    {
+     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
+     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月23日",
+     "pub": "2026-09-23T14:50:17+00:00",
+     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
+    },
+    {
+     "title": "Yes, Jev Is Insane, But There's A Catch",
+     "link": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+     "cover": "https://i2.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "09月22日",
+     "pub": "2026-09-22T09:32:13+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 Jev：完整歌曲："
+    },
+    {
+     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
+     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月19日",
+     "pub": "2026-09-19T15:35:20+00:00",
+     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：神经……"
+    },
+    {
+     "title": "The last IMO problem AI could not solve",
+     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
+     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "09月18日",
+     "pub": "2026-09-18T17:14:08+00:00",
+     "desc": "完整视频："
+    },
+    {
+     "title": "The last IMO problem AI could not solve",
+     "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+     "cover": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "09月18日",
+     "pub": "2026-09-18T17:12:53+00:00",
+     "desc": "一个美丽的谜题，人工智能及其所需的直觉无法解决。观看我们的虚拟招聘会：观看新视频 Earl"
     }
    ]
   }
