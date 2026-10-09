@@ -1,12 +1,22 @@
 {
- "fetchedAt": "12:58",
- "fetchedDate": "2026-10-08",
+ "fetchedAt": "03:19",
+ "fetchedDate": "2026-10-09",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "OpenAI营收数据引发美股重挫",
+     "link": "https://www.douyin.com/search/OpenAI%E8%90%A5%E6%94%B6%E6%95%B0%E6%8D%AE%E5%BC%95%E5%8F%91%E7%BE%8E%E8%82%A1%E9%87%8D%E6%8C%AB?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYBBAPFZ8ijgMABDE1iBzIPlInXpw4lZEoIf9e~noop.jpeg?lk3s=bfd515bb&x-expires=1791536400&x-signature=ujJkomLnC0x0NWte7jvpfRmKTaA%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7638643",
+     "desc": "热门话题「OpenAI营收数据引发美股重挫」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -18,40 +28,13 @@
    "ok": true,
    "items": [
     {
-     "title": "DeepMind's New AI Just Cracked The Code Of Life",
-     "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-     "cover": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "23小时前",
-     "pub": "2026-10-07T13:29:33+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：感谢 Google DeepMind 的邀请。 📝 AlphaGenome Atlas 是"
-    },
-    {
-     "title": "The Billion Dollar AI Advantage Is Disappearing",
-     "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-     "cover": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "3天前",
-     "pub": "2026-10-05T09:53:12+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU 云：📝 Sonnet 5.5：🙏 我们要感谢我们慷慨的 Patreon 支持"
-    },
-    {
-     "title": "The Phone Number puzzle",
-     "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
-     "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月25日",
-     "pub": "2026-09-25T13:35:02+00:00",
-     "desc": "每月系列谜题的一部分："
-    },
-    {
-     "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-     "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-     "cover": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "09月24日",
-     "pub": "2026-09-24T08:40:55+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud： 注意：在行走生物实验中，Astra 使用了一个简化版"
+     "title": "Robot Chonk Cleans the Floor",
+     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "11小时前",
+     "pub": "2026-10-08T16:04:24+00:00",
+     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
     },
     {
      "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
@@ -69,25 +52,97 @@
      "author": "sentdex",
      "meta": "09月19日",
      "pub": "2026-09-19T15:35:20+00:00",
-     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：神经……"
+     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
     },
     {
-     "title": "The last IMO problem AI could not solve",
-     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
-     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月18日",
-     "pub": "2026-09-18T17:14:08+00:00",
-     "desc": "完整视频："
+     "title": "How I use LLMs",
+     "pubDate": "2025-02-27 22:29:56",
+     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+     "guid": "yt:video:EWvNQjAaOHw",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     },
     {
-     "title": "The last IMO problem AI could not solve",
-     "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-     "cover": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
+     "title": "Deep Dive into LLMs like ChatGPT",
+     "pubDate": "2025-02-05 18:23:47",
+     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "guid": "yt:video:7xTGNNLPyMI",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's reproduce GPT-2 (124M)",
+     "pubDate": "2024-06-09 23:31:35",
+     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+     "guid": "yt:video:l8pRSuU81PU",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "Let's build the GPT Tokenizer",
+     "pubDate": "2024-02-20 17:11:35",
+     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
+     "guid": "yt:video:zduSFxRajkE",
+     "author": "Andrej Karpathy",
+     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The Phone Number puzzle",
+     "pubDate": "2026-09-25 13:35:02",
+     "link": "https://www.youtube.com/shorts/ausLKMojXaY",
+     "guid": "yt:video:ausLKMojXaY",
      "author": "3Blue1Brown",
-     "meta": "09月18日",
-     "pub": "2026-09-18T17:12:53+00:00",
-     "desc": "一个美丽的谜题，人工智能及其所需的直觉无法解决。观看我们的虚拟招聘会：观看新视频 Earl"
+     "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/ausLKMojXaY?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     }
    ]
   }
