@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:23",
- "fetchedDate": "2026-10-14",
+ "fetchedAt": "02:03",
+ "fetchedDate": "2026-10-15",
  "source": "server",
  "items": [
   {
@@ -10,11 +10,11 @@
     {
      "title": "iPhone Duo已完成大模型备案",
      "link": "https://www.douyin.com/search/iPhone%20Duo%E5%B7%B2%E5%AE%8C%E6%88%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%87%E6%A1%88?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/og9DFBeczA5WYz8PIClzEfN5CPz1qIAVHAd9gC~noop.jpeg?lk3s=bfd515bb&x-expires=1791997200&x-signature=09K%2BaC%2BRfIcL2iBGzOffVeLLnfY%3D&from=3218412987",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/og9DFBeczA5WYz8PIClzEfN5CPz1qIAVHAd9gC~noop.jpeg?lk3s=bfd515bb&x-expires=1792051200&x-signature=pI6Syo05sW%2FwlubfCoM7ylkdrKo%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 12170139",
-     "desc": "热门话题「iPhone Duo已完成大模型备案」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 8003762",
+     "desc": "热门话题「iPhone Duo已完成大模型备案」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -25,81 +25,8 @@
   },
   {
    "label": "YouTube AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-     "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "1天前",
-     "pub": "2026-10-13T08:56:12+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 论文可在此处获取："
-    },
-    {
-     "title": "DeepSeek Solved AI’s Memory Problem",
-     "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-     "cover": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "2天前",
-     "pub": "2026-10-11T16:53:17+00:00",
-     "desc": "请在此处查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek OCR 论文可在此处获取：🙏 我们希望"
-    },
-    {
-     "title": "Robot Chonk Cleans the Floor",
-     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "5天前",
-     "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
-    },
-    {
-     "title": "DeepMind's New AI Just Cracked The Code Of Life",
-     "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-     "cover": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "6天前",
-     "pub": "2026-10-07T13:29:33+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：感谢 Google DeepMind 的邀请。 📝 AlphaGenome Atlas 是"
-    },
-    {
-     "title": "The Phone Number puzzle",
-     "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
-     "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月25日",
-     "pub": "2026-09-25T13:35:02+00:00",
-     "desc": "每月系列谜题的一部分："
-    },
-    {
-     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
-     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月23日",
-     "pub": "2026-09-23T14:50:17+00:00",
-     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
-    },
-    {
-     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
-     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月19日",
-     "pub": "2026-09-19T15:35:20+00:00",
-     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
-    },
-    {
-     "title": "The last IMO problem AI could not solve",
-     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
-     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月18日",
-     "pub": "2026-09-18T17:14:08+00:00",
-     "desc": "完整视频："
-    }
-   ]
+   "ok": false,
+   "items": []
   }
  ]
 }
