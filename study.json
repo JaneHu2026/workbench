@@ -1,5 +1,5 @@
 {
- "fetchedAt": "01:53",
+ "fetchedAt": "10:55",
  "fetchedDate": "2026-10-16",
  "source": "server",
  "items": [
@@ -8,12 +8,21 @@
    "ok": true,
    "items": [
     {
-     "title": "当我拥有自己的ai播放器",
-     "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%8B%A5%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84ai%E6%92%AD%E6%94%BE%E5%99%A8?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-fd6e84/oEEiOJIwJimUgdQZETBpSIXwLHB6WpRaKs6vq~noop.jpeg?lk3s=bfd515bb&x-expires=1792134000&x-signature=9fsklFmYtS%2FkVD3eIayY6RrIw7E%3D&from=3218412987",
+     "title": "中国方案赋能全球算力",
+     "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%96%B9%E6%A1%88%E8%B5%8B%E8%83%BD%E5%85%A8%E7%90%83%E7%AE%97%E5%8A%9B?type=general",
+     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/o8DEvG1wIIPZlvTs1IaiARBTF1iKQZtVSThAE~noop.jpeg?lk3s=bfd515bb&x-expires=1792166400&x-signature=aTfHVudd8mIKuUViiq8lo%2FDZP78%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 10960054",
+     "meta": "🔥 10399249",
+     "desc": "热门话题「中国方案赋能全球算力」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    },
+    {
+     "title": "当我拥有自己的ai播放器",
+     "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%8B%A5%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84ai%E6%92%AD%E6%94%BE%E5%99%A8?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-fd6e84/oEEiOJIwJimUgdQZETBpSIXwLHB6WpRaKs6vq~noop.jpeg?lk3s=bfd515bb&x-expires=1792166400&x-signature=fBE%2F037lKpTrKA1G5Ye85pVpCdM%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7637565",
      "desc": "热门话题「当我拥有自己的ai播放器」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
@@ -32,9 +41,9 @@
      "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
      "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-10-13T08:56:12+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云：📝这些论文可在此处获得："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 论文可在此处获取："
     },
     {
      "title": "DeepSeek Solved AI’s Memory Problem",
@@ -43,7 +52,16 @@
      "author": "Two Minute Papers",
      "meta": "4天前",
      "pub": "2026-10-11T16:53:17+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 DeepSeek OCR论文可在此处获得：🙏我们希望"
+     "desc": "请在此处查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek OCR 论文可在此处获取：🙏 我们希望"
+    },
+    {
+     "title": "Robot Chonk Cleans the Floor",
+     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "10月08日",
+     "pub": "2026-10-08T16:04:24+00:00",
+     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
     },
     {
      "title": "DeepMind's New AI Just Cracked The Code Of Life",
@@ -52,7 +70,7 @@
      "author": "Two Minute Papers",
      "meta": "10月07日",
      "pub": "2026-10-07T13:29:33+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云：感谢Google DeepMind的邀请📝。AlphaGenome Atlas"
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：感谢 Google DeepMind 的邀请。 📝 AlphaGenome Atlas 是"
     },
     {
      "title": "The Phone Number puzzle",
@@ -64,40 +82,31 @@
      "desc": "每月系列谜题的一部分："
     },
     {
+     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
+     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月23日",
+     "pub": "2026-09-23T14:50:17+00:00",
+     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
+    },
+    {
+     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
+     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月19日",
+     "pub": "2026-09-19T15:35:20+00:00",
+     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
+    },
+    {
      "title": "The last IMO problem AI could not solve",
      "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
      "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
      "author": "3Blue1Brown",
      "meta": "09月18日",
      "pub": "2026-09-18T17:14:08+00:00",
-     "desc": "完整视频"
-    },
-    {
-     "title": "The last IMO problem AI could not solve",
-     "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-     "cover": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月18日",
-     "pub": "2026-09-18T17:12:53+00:00",
-     "desc": "一个美丽的谜题，逃脱了人工智能及其所需的直觉。查看我们的线上招聘会：观看新视频Earl"
-    },
-    {
-     "title": "How I use LLMs",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月27日",
-     "pub": "2025-02-27T22:29:56+00:00",
-     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为"
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月05日",
-     "pub": "2025-02-05T18:23:47+00:00",
-     "desc": "这是一般受众深入探讨大型语言模型（ LLM ）人工智能技术，该技术支持ChatGPT和相关"
+     "desc": "完整视频："
     }
    ]
   }
