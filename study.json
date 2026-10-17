@@ -1,12 +1,22 @@
 {
- "fetchedAt": "01:48",
+ "fetchedAt": "10:17",
  "fetchedDate": "2026-10-17",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": false,
-   "items": []
+   "ok": true,
+   "items": [
+    {
+     "title": "智能粮仓守护每一粒粮食",
+     "link": "https://www.douyin.com/search/%E6%99%BA%E8%83%BD%E7%B2%AE%E4%BB%93%E5%AE%88%E6%8A%A4%E6%AF%8F%E4%B8%80%E7%B2%92%E7%B2%AE%E9%A3%9F?type=general",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/ef854d1e5efb44b39f5ee92fa2a59025~noop.jpeg?lk3s=bfd515bb&x-expires=1792252800&x-signature=FYH%2Fec3jQd6Wg4iY2OagqsTyDLo%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 11596073",
+     "desc": "热门话题「智能粮仓守护每一粒粮食」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    }
+   ]
   },
   {
    "label": "小红书 AI 学习",
@@ -22,9 +32,45 @@
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
      "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "9小时前",
+     "meta": "18小时前",
      "pub": "2026-10-16T16:15:20+00:00",
      "desc": "分享对数学未来的一些想法这些视频由观众直接资助：一种同样有价值的su形式"
+    },
+    {
+     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+     "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "4天前",
+     "pub": "2026-10-13T08:56:12+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 论文可在此处获取："
+    },
+    {
+     "title": "DeepSeek Solved AI’s Memory Problem",
+     "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+     "cover": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "5天前",
+     "pub": "2026-10-11T16:53:17+00:00",
+     "desc": "请在此处查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek OCR 论文可在此处获取：🙏 我们希望"
+    },
+    {
+     "title": "Robot Chonk Cleans the Floor",
+     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "10月08日",
+     "pub": "2026-10-08T16:04:24+00:00",
+     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
+    },
+    {
+     "title": "DeepMind's New AI Just Cracked The Code Of Life",
+     "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+     "cover": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "10月07日",
+     "pub": "2026-10-07T13:29:33+00:00",
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：感谢 Google DeepMind 的邀请。 📝 AlphaGenome Atlas 是"
     },
     {
      "title": "The Phone Number puzzle",
@@ -36,103 +82,22 @@
      "desc": "每月系列谜题的一部分："
     },
     {
-     "title": "The last IMO problem AI could not solve",
-     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
-     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月18日",
-     "pub": "2026-09-18T17:14:08+00:00",
-     "desc": "完整视频："
+     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
+     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月23日",
+     "pub": "2026-09-23T14:50:17+00:00",
+     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
     },
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-     "pubDate": "2026-10-13 08:56:12",
-     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-     "guid": "yt:video:z_sXLlLVUls",
-     "author": "Two Minute Papers",
-     "thumbnail": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/z_sXLlLVUls?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
+     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
+     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月19日",
+     "pub": "2026-09-19T15:35:20+00:00",
+     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
     }
    ]
   }
