@@ -1,6 +1,6 @@
 {
- "fetchedAt": "10:17",
- "fetchedDate": "2026-10-17",
+ "fetchedAt": "01:46",
+ "fetchedDate": "2026-10-18",
  "source": "server",
  "items": [
   {
@@ -8,13 +8,13 @@
    "ok": true,
    "items": [
     {
-     "title": "智能粮仓守护每一粒粮食",
-     "link": "https://www.douyin.com/search/%E6%99%BA%E8%83%BD%E7%B2%AE%E4%BB%93%E5%AE%88%E6%8A%A4%E6%AF%8F%E4%B8%80%E7%B2%92%E7%B2%AE%E9%A3%9F?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/ef854d1e5efb44b39f5ee92fa2a59025~noop.jpeg?lk3s=bfd515bb&x-expires=1792252800&x-signature=FYH%2Fec3jQd6Wg4iY2OagqsTyDLo%3D&from=3218412987",
+     "title": "GAI杭州演唱会",
+     "link": "https://www.douyin.com/search/GAI%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o0ADAe1lbAv2GFWgL6DIAlE0sCSLgGeBr4f0ae~noop.jpeg?lk3s=bfd515bb&x-expires=1792306800&x-signature=CdVhWGnZoPE0d605s%2BeyPefpiEA%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 11596073",
-     "desc": "热门话题「智能粮仓守护每一粒粮食」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7661553",
+     "desc": "热门话题「GAI杭州演唱会」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -29,75 +29,147 @@
    "items": [
     {
      "title": "There's never been a better time to go into math",
+     "pubDate": "2026-10-16 16:15:20",
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
+     "guid": "yt:video:LKrwhjOI8Nc",
      "author": "3Blue1Brown",
-     "meta": "18小时前",
-     "pub": "2026-10-16T16:15:20+00:00",
-     "desc": "分享对数学未来的一些想法这些视频由观众直接资助：一种同样有价值的su形式"
-    },
-    {
-     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-     "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "4天前",
-     "pub": "2026-10-13T08:56:12+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 论文可在此处获取："
-    },
-    {
-     "title": "DeepSeek Solved AI’s Memory Problem",
-     "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-     "cover": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "5天前",
-     "pub": "2026-10-11T16:53:17+00:00",
-     "desc": "请在此处查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek OCR 论文可在此处获取：🙏 我们希望"
-    },
-    {
-     "title": "Robot Chonk Cleans the Floor",
-     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "10月08日",
-     "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
-    },
-    {
-     "title": "DeepMind's New AI Just Cracked The Code Of Life",
-     "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-     "cover": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月07日",
-     "pub": "2026-10-07T13:29:33+00:00",
-     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：感谢 Google DeepMind 的邀请。 📝 AlphaGenome Atlas 是"
+     "thumbnail": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/LKrwhjOI8Nc?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     },
     {
      "title": "The Phone Number puzzle",
-     "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
-     "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
+     "pubDate": "2026-09-25 13:35:02",
+     "link": "https://www.youtube.com/shorts/ausLKMojXaY",
+     "guid": "yt:video:ausLKMojXaY",
      "author": "3Blue1Brown",
-     "meta": "09月25日",
-     "pub": "2026-09-25T13:35:02+00:00",
-     "desc": "每月系列谜题的一部分："
+     "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/ausLKMojXaY?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     },
     {
-     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
-     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月23日",
-     "pub": "2026-09-23T14:50:17+00:00",
-     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
+     "title": "The last IMO problem AI could not solve",
+     "pubDate": "2026-09-18 17:14:08",
+     "link": "https://www.youtube.com/shorts/bRQEWPA832A",
+     "guid": "yt:video:bRQEWPA832A",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/bRQEWPA832A?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     },
     {
-     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
-     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月19日",
-     "pub": "2026-09-19T15:35:20+00:00",
-     "desc": "智浦的《走向递归自我完善》——Typesafe Jev公告：Neural…"
+     "title": "The last IMO problem AI could not solve",
+     "pubDate": "2026-09-18 17:12:53",
+     "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+     "guid": "yt:video:Nbwv5wHQoj0",
+     "author": "3Blue1Brown",
+     "thumbnail": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/Nbwv5wHQoj0?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+     "pubDate": "2026-10-13 08:56:12",
+     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+     "guid": "yt:video:z_sXLlLVUls",
+     "author": "Two Minute Papers",
+     "thumbnail": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/z_sXLlLVUls?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "DeepSeek Solved AI’s Memory Problem",
+     "pubDate": "2026-10-11 16:53:17",
+     "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+     "guid": "yt:video:4fLVq6HJsKc",
+     "author": "Two Minute Papers",
+     "thumbnail": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/4fLVq6HJsKc?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "DeepMind's New AI Just Cracked The Code Of Life",
+     "pubDate": "2026-10-07 13:29:33",
+     "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+     "guid": "yt:video:Wkaw03p3BrM",
+     "author": "Two Minute Papers",
+     "thumbnail": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/Wkaw03p3BrM?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
+    },
+    {
+     "title": "The Billion Dollar AI Advantage Is Disappearing",
+     "pubDate": "2026-10-05 09:53:12",
+     "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+     "guid": "yt:video:ZHVNTTKu9fU",
+     "author": "Two Minute Papers",
+     "thumbnail": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
+     "description": "",
+     "content": "",
+     "enclosure": {
+      "link": "https://www.youtube.com/v/ZHVNTTKu9fU?version=3",
+      "type": "application/x-shockwave-flash",
+      "thumbnail": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg"
+     },
+     "categories": [],
+     "meta": "",
+     "desc": ""
     }
    ]
   }
