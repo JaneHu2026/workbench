@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:03",
+ "fetchedAt": "12:26",
  "fetchedDate": "2026-10-19",
  "source": "server",
  "items": [
@@ -18,22 +18,40 @@
    "ok": true,
    "items": [
     {
+     "title": "Gemini 4 Argon Really Surprised Me",
+     "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+     "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "3小时前",
+     "pub": "2026-10-19T08:49:21+00:00",
+     "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Gemini 4 Argon + 报告可在此处获取："
+    },
+    {
+     "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
+     "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
+     "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "14小时前",
+     "pub": "2026-10-18T22:01:38+00:00",
+     "desc": "对华硕的 DGX Station 进行测试，测试各种 LLM 工作负载并找出 ET900N 的位置和方式"
+    },
+    {
      "title": "There's never been a better time to go into math",
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
      "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
      "meta": "2天前",
      "pub": "2026-10-16T16:15:20+00:00",
-     "desc": "分享一些关于数学未来的想法这些视频由观众直接资助：一种同样有价值的"
+     "desc": "分享对数学未来的一些想法这些视频由观众直接资助：一种同样有价值的su形式"
     },
     {
      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
      "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
      "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "5天前",
+     "meta": "6天前",
      "pub": "2026-10-13T08:56:12+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云：📝这些论文可在此处获得："
+     "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 论文可在此处获取："
     },
     {
      "title": "DeepSeek Solved AI’s Memory Problem",
@@ -42,16 +60,16 @@
      "author": "Two Minute Papers",
      "meta": "10月11日",
      "pub": "2026-10-11T16:53:17+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 DeepSeek OCR论文可在此处获得：🙏我们希望"
+     "desc": "请在此处查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek OCR 论文可在此处获取：🙏 我们希望"
     },
     {
-     "title": "DeepMind's New AI Just Cracked The Code Of Life",
-     "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-     "cover": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月07日",
-     "pub": "2026-10-07T13:29:33+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云：感谢Google DeepMind的邀请📝。AlphaGenome Atlas"
+     "title": "Robot Chonk Cleans the Floor",
+     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "10月08日",
+     "pub": "2026-10-08T16:04:24+00:00",
+     "desc": "为我们的 chonkbot 注入智能来清洁地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
     },
     {
      "title": "The Phone Number puzzle",
@@ -63,31 +81,13 @@
      "desc": "每月系列谜题的一部分："
     },
     {
-     "title": "The last IMO problem AI could not solve",
-     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
-     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月18日",
-     "pub": "2026-09-18T17:14:08+00:00",
-     "desc": "完整视频"
-    },
-    {
-     "title": "How I use LLMs",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月27日",
-     "pub": "2025-02-27T22:29:56+00:00",
-     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为"
-    },
-    {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "author": "Andrej Karpathy",
-     "meta": "02月05日",
-     "pub": "2025-02-05T18:23:47+00:00",
-     "desc": "这是一般受众深入探讨大型语言模型（ LLM ）人工智能技术，该技术支持ChatGPT和相关"
+     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
+     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
+     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "09月23日",
+     "pub": "2026-09-23T14:50:17+00:00",
+     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
     }
    ]
   }
