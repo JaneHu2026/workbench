@@ -1,31 +1,12 @@
 {
- "fetchedAt": "10:33",
- "fetchedDate": "2026-10-18",
+ "fetchedAt": "02:03",
+ "fetchedDate": "2026-10-19",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "广交会上机器人从展品变员工",
-     "link": "https://www.douyin.com/search/%E5%B9%BF%E4%BA%A4%E4%BC%9A%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%8E%E5%B1%95%E5%93%81%E5%8F%98%E5%91%98%E5%B7%A5?type=general",
-     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/osLrJYPciIQtA4Vgv87tiDkuQUnQAIJIgaBN8~noop.jpeg?lk3s=bfd515bb&x-expires=1792339200&x-signature=tUyr9XsbUCG4oG2tIZvC3fPr5h4%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 11086468",
-     "desc": "热门话题「广交会上机器人从展品变员工」：相关视频 4 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    },
-    {
-     "title": "宋亚轩大战AI",
-     "link": "https://www.douyin.com/search/%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%A4%A7%E6%88%98AI?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/osfkJweGOIfX78VBmpEomqsKoDzA0IQULCKLQg~noop.jpeg?lk3s=bfd515bb&x-expires=1792339200&x-signature=RRMjxX0qKHbAgKBc%2FkkKjb3i3r0%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7665473",
-     "desc": "热门话题「宋亚轩大战AI」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
@@ -41,7 +22,7 @@
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
      "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-10-16T16:15:20+00:00",
      "desc": "分享一些关于数学未来的想法这些视频由观众直接资助：一种同样有价值的"
     },
@@ -59,18 +40,9 @@
      "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
      "cover": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "6天前",
+     "meta": "10月11日",
      "pub": "2026-10-11T16:53:17+00:00",
      "desc": "在此处查看Lambda并注册他们的GPU云： 📝 DeepSeek OCR论文可在此处获得：🙏我们希望"
-    },
-    {
-     "title": "Robot Chonk Cleans the Floor",
-     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "10月08日",
-     "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的chonkbot注入智能来清洁我们的地板。Using sourccey bot from Neural Networks from Scratch book: C"
     },
     {
      "title": "DeepMind's New AI Just Cracked The Code Of Life",
@@ -91,22 +63,31 @@
      "desc": "每月系列谜题的一部分："
     },
     {
-     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
-     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月23日",
-     "pub": "2026-09-23T14:50:17+00:00",
-     "desc": "我们将在这里介绍一下，首先是GLM 5.3 Flash NVFP4的一些新基准，然后是一些新基准"
+     "title": "The last IMO problem AI could not solve",
+     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
+     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "09月18日",
+     "pub": "2026-09-18T17:14:08+00:00",
+     "desc": "完整视频"
     },
     {
-     "title": "Jev, Yang & Recursive Self Improvement - Happenings in AI",
-     "link": "https://www.youtube.com/watch?v=NZnYCleQX6w",
-     "cover": "https://i3.ytimg.com/vi/NZnYCleQX6w/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月19日",
-     "pub": "2026-09-19T15:35:20+00:00",
-     "desc": "Zhipu的“Toward Recursive Self-Imfement” - Typesafe Jev公告： Neural…"
+     "title": "How I use LLMs",
+     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+     "cover": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "02月27日",
+     "pub": "2025-02-27T22:29:56+00:00",
+     "desc": "大型语言模型的示例驱动的实用演练及其不断增长的相关功能列表，作为"
+    },
+    {
+     "title": "Deep Dive into LLMs like ChatGPT",
+     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+     "cover": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+     "author": "Andrej Karpathy",
+     "meta": "02月05日",
+     "pub": "2025-02-05T18:23:47+00:00",
+     "desc": "这是一般受众深入探讨大型语言模型（ LLM ）人工智能技术，该技术支持ChatGPT和相关"
     }
    ]
   }
