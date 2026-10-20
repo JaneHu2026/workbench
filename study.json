@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:26",
- "fetchedDate": "2026-10-19",
+ "fetchedAt": "02:19",
+ "fetchedDate": "2026-10-20",
  "source": "server",
  "items": [
   {
@@ -22,7 +22,7 @@
      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
      "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "3小时前",
+     "meta": "17小时前",
      "pub": "2026-10-19T08:49:21+00:00",
      "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Gemini 4 Argon + 报告可在此处获取："
     },
@@ -31,7 +31,7 @@
      "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
      "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "14小时前",
+     "meta": "1天前",
      "pub": "2026-10-18T22:01:38+00:00",
      "desc": "对华硕的 DGX Station 进行测试，测试各种 LLM 工作负载并找出 ET900N 的位置和方式"
     },
@@ -40,7 +40,7 @@
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
      "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "2天前",
+     "meta": "3天前",
      "pub": "2026-10-16T16:15:20+00:00",
      "desc": "分享对数学未来的一些想法这些视频由观众直接资助：一种同样有价值的su形式"
     },
