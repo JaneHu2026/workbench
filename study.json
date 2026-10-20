@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:19",
+ "fetchedAt": "11:03",
  "fetchedDate": "2026-10-20",
  "source": "server",
  "items": [
@@ -18,11 +18,11 @@
    "ok": true,
    "items": [
     {
-     "title": "Gemini 4 Argon Really Surprised Me",
+     "title": "Gemini 4 Argon Is Not What I Expected",
      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
      "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "17小时前",
+     "meta": "1天前",
      "pub": "2026-10-19T08:49:21+00:00",
      "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Gemini 4 Argon + 报告可在此处获取："
     },
@@ -49,7 +49,7 @@
      "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
      "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "6天前",
+     "meta": "10月13日",
      "pub": "2026-10-13T08:56:12+00:00",
      "desc": "在这里查看 Lambda 并注册他们的 GPU Cloud：📝 论文可在此处获取："
     },
