@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:03",
- "fetchedDate": "2026-10-20",
+ "fetchedAt": "02:13",
+ "fetchedDate": "2026-10-21",
  "source": "server",
  "items": [
   {
@@ -31,7 +31,7 @@
      "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
      "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-10-18T22:01:38+00:00",
      "desc": "对华硕的 DGX Station 进行测试，测试各种 LLM 工作负载并找出 ET900N 的位置和方式"
     },
@@ -40,7 +40,7 @@
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
      "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-10-16T16:15:20+00:00",
      "desc": "分享对数学未来的一些想法这些视频由观众直接资助：一种同样有价值的su形式"
     },
