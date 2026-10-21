@@ -1,5 +1,5 @@
 {
- "fetchedAt": "02:13",
+ "fetchedAt": "11:20",
  "fetchedDate": "2026-10-21",
  "source": "server",
  "items": [
@@ -22,7 +22,7 @@
      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
      "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-10-19T08:49:21+00:00",
      "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Gemini 4 Argon + 报告可在此处获取："
     },
@@ -69,7 +69,7 @@
      "author": "sentdex",
      "meta": "10月08日",
      "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的 chonkbot 注入智能来清洁地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
+     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
     },
     {
      "title": "The Phone Number puzzle",
