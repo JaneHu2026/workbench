@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:20",
- "fetchedDate": "2026-10-22",
+ "fetchedAt": "02:13",
+ "fetchedDate": "2026-10-23",
  "source": "server",
  "items": [
   {
@@ -18,49 +18,13 @@
    "ok": true,
    "items": [
     {
-     "title": "Gemini 4 Argon Is Not What I Expected",
-     "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-     "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "3天前",
-     "pub": "2026-10-19T08:49:21+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Gemini 4 Argon +报告可在此处获得："
-    },
-    {
      "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
      "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
      "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
      "author": "sentdex",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-10-18T22:01:38+00:00",
-     "desc": "通过华硕的DGX站，测试各种LLM工作负载，并找出ET900N的位置和方式"
-    },
-    {
-     "title": "There's never been a better time to go into math",
-     "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "5天前",
-     "pub": "2026-10-16T16:15:20+00:00",
-     "desc": "分享一些关于数学未来的想法这些视频由观众直接资助：一种同样有价值的"
-    },
-    {
-     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-     "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月13日",
-     "pub": "2026-10-13T08:56:12+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云：📝这些论文可在此处获得："
-    },
-    {
-     "title": "DeepSeek Solved AI’s Memory Problem",
-     "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-     "cover": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月11日",
-     "pub": "2026-10-11T16:53:17+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 DeepSeek OCR论文可在此处获得：🙏我们希望"
+     "desc": "对华硕的 DGX Station 进行测试，测试各种 LLM 工作负载并找出 ET900N 的位置和方式"
     },
     {
      "title": "Robot Chonk Cleans the Floor",
@@ -69,16 +33,7 @@
      "author": "sentdex",
      "meta": "10月08日",
      "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的chonkbot注入智能来清洁我们的地板。Using sourccey bot from Neural Networks from Scratch book: C"
-    },
-    {
-     "title": "The Phone Number puzzle",
-     "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
-     "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月25日",
-     "pub": "2026-09-25T13:35:02+00:00",
-     "desc": "每月系列谜题的一部分："
+     "desc": "为我们的 chonkbot 注入智能来清洁我们的地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
     },
     {
      "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
@@ -87,7 +42,7 @@
      "author": "sentdex",
      "meta": "09月23日",
      "pub": "2026-09-23T14:50:17+00:00",
-     "desc": "我们将在这里介绍一下，首先是GLM 5.3 Flash NVFP4的一些新基准，然后是一些新基准"
+     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
     }
    ]
   }
