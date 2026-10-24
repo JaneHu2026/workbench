@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:10",
- "fetchedDate": "2026-10-23",
+ "fetchedAt": "02:11",
+ "fetchedDate": "2026-10-24",
  "source": "server",
  "items": [
   {
@@ -27,20 +27,11 @@
      "desc": "在此处查看 Lambda 并注册他们的 GPU Cloud：📝 Gemini 4 Argon + 报告可在此处获取："
     },
     {
-     "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
-     "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
-     "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "4天前",
-     "pub": "2026-10-18T22:01:38+00:00",
-     "desc": "对华硕的 DGX Station 进行测试，测试各种 LLM 工作负载并找出 ET900N 的位置和方式"
-    },
-    {
      "title": "There's never been a better time to go into math",
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
      "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "6天前",
+     "meta": "10月16日",
      "pub": "2026-10-16T16:15:20+00:00",
      "desc": "分享对数学未来的一些想法这些视频由观众直接资助：一种同样有价值的su形式"
     },
@@ -63,15 +54,6 @@
      "desc": "请在此处查看 Lambda 并注册他们的 GPU 云：📝 DeepSeek OCR 论文可在此处获取：🙏 我们希望"
     },
     {
-     "title": "Robot Chonk Cleans the Floor",
-     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "10月08日",
-     "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的 chonkbot 注入智能来清洁地板。使用《Neural Networks from Scratch》一书中的 source bot：C"
-    },
-    {
      "title": "The Phone Number puzzle",
      "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
      "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
@@ -81,13 +63,31 @@
      "desc": "每月系列谜题的一部分："
     },
     {
-     "title": "Decision Models, DSV4.1 Flash & New Benchmarks",
-     "link": "https://www.youtube.com/watch?v=HO_1Tof1-qk",
-     "cover": "https://i1.ytimg.com/vi/HO_1Tof1-qk/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "09月23日",
-     "pub": "2026-09-23T14:50:17+00:00",
-     "desc": "我们将在这里全面介绍一下，首先是 GLM 5.3 Flash NVFP4 的一些新基准测试，然后是一些新的基准测试"
+     "title": "The last IMO problem AI could not solve",
+     "link": "https://www.youtube.com/watch?v=bRQEWPA832A",
+     "cover": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
+     "author": "3Blue1Brown",
+     "meta": "09月18日",
+     "pub": "2026-09-18T17:14:08+00:00",
+     "desc": "完整视频："
+    },
+    {
+     "title": "open source AI is winning !",
+     "link": "https://www.youtube.com/watch?v=gtgvaD9C5XM",
+     "cover": "https://i4.ytimg.com/vi/gtgvaD9C5XM/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "09月08日",
+     "pub": "2026-09-08T05:51:29+00:00",
+     "desc": ""
+    },
+    {
+     "title": "GPT 6 Astra in 11 mins!",
+     "link": "https://www.youtube.com/watch?v=XbaJ1FFsO6M",
+     "cover": "https://i1.ytimg.com/vi/XbaJ1FFsO6M/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "09月04日",
+     "pub": "2026-09-04T00:00:19+00:00",
+     "desc": "抱歉重新上传，我之前错误地上传了一个剪辑！ 🔗 链接🔗"
     }
    ]
   }
