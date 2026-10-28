@@ -1,6 +1,6 @@
 {
- "fetchedAt": "11:45",
- "fetchedDate": "2026-10-27",
+ "fetchedAt": "02:46",
+ "fetchedDate": "2026-10-28",
  "source": "server",
  "items": [
   {
@@ -8,13 +8,22 @@
    "ok": true,
    "items": [
     {
-     "title": "老干妈HR回应AI裁员传闻",
-     "link": "https://www.douyin.com/search/%E8%80%81%E5%B9%B2%E5%A6%88HR%E5%9B%9E%E5%BA%94AI%E8%A3%81%E5%91%98%E4%BC%A0%E9%97%BB?type=general",
-     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/os0AmfzfPg39D1DQEajEA1BNOA3FIzWWqYsMKG~noop.jpeg?lk3s=bfd515bb&x-expires=1793120400&x-signature=s6nKTslEKD%2Bi6vUGp40Nx4mP5js%3D&from=3218412987",
+     "title": "八大算力枢纽连成一张网",
+     "link": "https://www.douyin.com/search/%E5%85%AB%E5%A4%A7%E7%AE%97%E5%8A%9B%E6%9E%A2%E7%BA%BD%E8%BF%9E%E6%88%90%E4%B8%80%E5%BC%A0%E7%BD%91?type=general",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o4IgIEAh9nv4AKDqGFLhfZmo9t2ApERgDeJCBY~noop.jpeg?lk3s=bfd515bb&x-expires=1793174400&x-signature=qYf%2F%2FTTMAgwnN1QtUVUATUcfRI0%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7681417",
-     "desc": "热门话题「老干妈HR回应AI裁员传闻」：相关视频 7 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 11002971",
+     "desc": "热门话题「八大算力枢纽连成一张网」：相关视频 1 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+    },
+    {
+     "title": "AI小狗男主进入白切黑时代",
+     "link": "https://www.douyin.com/search/AI%E5%B0%8F%E7%8B%97%E7%94%B7%E4%B8%BB%E8%BF%9B%E5%85%A5%E7%99%BD%E5%88%87%E9%BB%91%E6%97%B6%E4%BB%A3?type=general",
+     "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o0mQBQsqILAjXvFAQ7iGazWekpJpmPVf1BueCP~noop.jpeg?lk3s=bfd515bb&x-expires=1793174400&x-signature=w2NsORKlY6O2mMrnJMWV9wtHFoQ%3D&from=3218412987",
+     "source": "抖音热榜",
+     "author": "",
+     "meta": "🔥 7643529",
+     "desc": "热门话题「AI小狗男主进入白切黑时代」：相关视频 2 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -25,81 +34,8 @@
   },
   {
    "label": "YouTube AI 学习",
-   "ok": true,
-   "items": [
-    {
-     "title": "Sphere Intersection Puzzle Corrected",
-     "link": "https://www.youtube.com/watch?v=V_uq3v6xK-4",
-     "cover": "https://i3.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "1天前",
-     "pub": "2026-10-25T14:30:46+00:00",
-     "desc": "一系列每月谜题的一部分其他解决方案的早期视图："
-    },
-    {
-     "title": "Gemini 4 Argon Is Not What I Expected",
-     "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-     "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月19日",
-     "pub": "2026-10-19T08:49:21+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Gemini 4 Argon +报告可在此处获得："
-    },
-    {
-     "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
-     "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
-     "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "10月18日",
-     "pub": "2026-10-18T22:01:38+00:00",
-     "desc": "通过华硕的DGX站，测试各种LLM工作负载，并找出ET900N的位置和方式"
-    },
-    {
-     "title": "There's never been a better time to go into math",
-     "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "10月16日",
-     "pub": "2026-10-16T16:15:20+00:00",
-     "desc": "分享一些关于数学未来的想法这些视频由观众直接资助：一种同样有价值的"
-    },
-    {
-     "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-     "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-     "cover": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月13日",
-     "pub": "2026-10-13T08:56:12+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云：📝这些论文可在此处获得："
-    },
-    {
-     "title": "DeepSeek Solved AI’s Memory Problem",
-     "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-     "cover": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-     "author": "Two Minute Papers",
-     "meta": "10月11日",
-     "pub": "2026-10-11T16:53:17+00:00",
-     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 DeepSeek OCR论文可在此处获得：🙏我们希望"
-    },
-    {
-     "title": "Robot Chonk Cleans the Floor",
-     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
-     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
-     "author": "sentdex",
-     "meta": "10月08日",
-     "pub": "2026-10-08T16:04:24+00:00",
-     "desc": "为我们的chonkbot注入智能来清洁我们的地板。Using sourccey bot from Neural Networks from Scratch book: C"
-    },
-    {
-     "title": "The Phone Number puzzle",
-     "link": "https://www.youtube.com/watch?v=ausLKMojXaY",
-     "cover": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-     "author": "3Blue1Brown",
-     "meta": "09月25日",
-     "pub": "2026-09-25T13:35:02+00:00",
-     "desc": "每月系列谜题的一部分："
-    }
-   ]
+   "ok": false,
+   "items": []
   }
  ]
 }
