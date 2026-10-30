@@ -1,6 +1,6 @@
 {
- "fetchedAt": "12:27",
- "fetchedDate": "2026-10-29",
+ "fetchedAt": "12:19",
+ "fetchedDate": "2026-10-30",
  "source": "server",
  "items": [
   {
@@ -8,13 +8,13 @@
    "ok": true,
    "items": [
     {
-     "title": "薛之谦称要与AI音乐对峙到底",
-     "link": "https://www.douyin.com/search/%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%A7%B0%E8%A6%81%E4%B8%8EAI%E9%9F%B3%E4%B9%90%E5%AF%B9%E5%B3%99%E5%88%B0%E5%BA%95?type=general",
-     "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ooTC2dgbrgM1DdCp7EhL7ffIg5GPc1AYbAeAfd~noop.jpeg?lk3s=bfd515bb&x-expires=1793296800&x-signature=X6oDG3NI7ieSK7qPE0EWdAkB2vA%3D&from=3218412987",
+     "title": "AI珍珠圣女妆",
+     "link": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86?type=general",
+     "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/ogiYyD01QANQhXAAoACEepUAFIG9gAFXqjCPEf~noop.jpeg?lk3s=bfd515bb&x-expires=1793383200&x-signature=75SB%2FTd8aE2P3mo4bp28DlJcD9U%3D&from=3218412987",
      "source": "抖音热榜",
      "author": "",
-     "meta": "🔥 7663686",
-     "desc": "热门话题「薛之谦称要与AI音乐对峙到底」：相关视频 3 条 · 讨论 1 条。点击前往抖音查看话题视频。"
+     "meta": "🔥 7846550",
+     "desc": "热门话题「AI珍珠圣女妆」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
     }
    ]
   },
@@ -32,7 +32,7 @@
      "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
      "cover": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
      "author": "Two Minute Papers",
-     "meta": "18小时前",
+     "meta": "1天前",
      "pub": "2026-10-28T17:32:40+00:00",
      "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek 📝 v4.1 Flash 1017可在此处获得：来源："
     },
@@ -41,7 +41,7 @@
      "link": "https://www.youtube.com/watch?v=OneYJJWDnNA",
      "cover": "https://i4.ytimg.com/vi/OneYJJWDnNA/hqdefault.jpg",
      "author": "1littlecoder",
-     "meta": "1天前",
+     "meta": "2天前",
      "pub": "2026-10-27T15:12:33+00:00",
      "desc": "无限OCR 2现已推出！百度超受欢迎的OCR又回来了，效率更高，稀疏参考更好-滑动Wi"
     },
@@ -50,7 +50,7 @@
      "link": "https://www.youtube.com/watch?v=V_uq3v6xK-4",
      "cover": "https://i3.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "meta": "3天前",
+     "meta": "4天前",
      "pub": "2026-10-25T14:30:46+00:00",
      "desc": "一系列每月谜题的一部分其他解决方案的早期视图："
     },
