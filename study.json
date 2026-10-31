@@ -1,22 +1,12 @@
 {
- "fetchedAt": "02:56",
+ "fetchedAt": "11:50",
  "fetchedDate": "2026-10-31",
  "source": "server",
  "items": [
   {
    "label": "抖音 AI · 科技热点",
-   "ok": true,
-   "items": [
-    {
-     "title": "AI珍珠圣女妆",
-     "link": "https://www.douyin.com/search/AI%E7%8F%8D%E7%8F%A0%E5%9C%A3%E5%A5%B3%E5%A6%86?type=general",
-     "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/ogiYyD01QANQhXAAoACEepUAFIG9gAFXqjCPEf~noop.jpeg?lk3s=bfd515bb&x-expires=1793433600&x-signature=w9BINSNZWTuHbuPfnxk1AeYxpkY%3D&from=3218412987",
-     "source": "抖音热榜",
-     "author": "",
-     "meta": "🔥 7727904",
-     "desc": "热门话题「AI珍珠圣女妆」：相关视频 10 条 · 讨论 1 条。点击前往抖音查看话题视频。"
-    }
-   ]
+   "ok": false,
+   "items": []
   },
   {
    "label": "小红书 AI 学习",
@@ -28,148 +18,76 @@
    "ok": true,
    "items": [
     {
-     "title": "How I use LLMs",
-     "pubDate": "2025-02-27 22:29:56",
-     "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
-     "guid": "yt:video:EWvNQjAaOHw",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/EWvNQjAaOHw?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "OpenAI Claims It Just Did The Impossible",
+     "link": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+     "cover": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "19小时前",
+     "pub": "2026-10-30T15:57:16+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 OpenAI的论文可在此处获得："
     },
     {
-     "title": "Deep Dive into LLMs like ChatGPT",
-     "pubDate": "2025-02-05 18:23:47",
-     "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-     "guid": "yt:video:7xTGNNLPyMI",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/7xTGNNLPyMI?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i4.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "DeepSeek's New AI Is An Absolute Monster",
+     "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+     "cover": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "2天前",
+     "pub": "2026-10-28T17:32:40+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU Cloud ： DeepSeek 📝 v4.1 Flash 1017可在此处获得：来源："
     },
     {
-     "title": "Let's reproduce GPT-2 (124M)",
-     "pubDate": "2024-06-09 23:31:35",
-     "link": "https://www.youtube.com/watch?v=l8pRSuU81PU",
-     "guid": "yt:video:l8pRSuU81PU",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/l8pRSuU81PU?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/l8pRSuU81PU/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "Let's build the GPT Tokenizer",
-     "pubDate": "2024-02-20 17:11:35",
-     "link": "https://www.youtube.com/watch?v=zduSFxRajkE",
-     "guid": "yt:video:zduSFxRajkE",
-     "author": "Andrej Karpathy",
-     "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/zduSFxRajkE?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/zduSFxRajkE/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "Unlimited OCR 2 is here!",
+     "link": "https://www.youtube.com/watch?v=OneYJJWDnNA",
+     "cover": "https://i4.ytimg.com/vi/OneYJJWDnNA/hqdefault.jpg",
+     "author": "1littlecoder",
+     "meta": "3天前",
+     "pub": "2026-10-27T15:12:33+00:00",
+     "desc": "无限OCR 2现已推出！百度超受欢迎的OCR又回来了，效率更高，稀疏参考更好-滑动Wi"
     },
     {
      "title": "The Sphere Intersection Puzzle",
-     "pubDate": "2026-10-25 14:30:46",
-     "link": "https://www.youtube.com/shorts/V_uq3v6xK-4",
-     "guid": "yt:video:V_uq3v6xK-4",
+     "link": "https://www.youtube.com/watch?v=V_uq3v6xK-4",
+     "cover": "https://i3.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/V_uq3v6xK-4?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/V_uq3v6xK-4/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "5天前",
+     "pub": "2026-10-25T14:30:46+00:00",
+     "desc": "一系列每月谜题的一部分其他解决方案的早期视图："
+    },
+    {
+     "title": "Gemini 4 Argon Is Not What I Expected",
+     "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+     "cover": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+     "author": "Two Minute Papers",
+     "meta": "10月19日",
+     "pub": "2026-10-19T08:49:21+00:00",
+     "desc": "在此处查看Lambda并注册他们的GPU云： 📝 Gemini 4 Argon +报告可在此处获得："
+    },
+    {
+     "title": "Datacenter at Home - GB300 GPU - w/ Asus DGX Station (ET900N G3)",
+     "link": "https://www.youtube.com/watch?v=cCEAQiueLwo",
+     "cover": "https://i4.ytimg.com/vi/cCEAQiueLwo/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "10月18日",
+     "pub": "2026-10-18T22:01:38+00:00",
+     "desc": "通过华硕的DGX站，测试各种LLM工作负载，并找出ET900N的位置和方式"
     },
     {
      "title": "There's never been a better time to go into math",
-     "pubDate": "2026-10-16 16:15:20",
      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-     "guid": "yt:video:LKrwhjOI8Nc",
+     "cover": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
      "author": "3Blue1Brown",
-     "thumbnail": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/LKrwhjOI8Nc?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "meta": "10月16日",
+     "pub": "2026-10-16T16:15:20+00:00",
+     "desc": "分享一些关于数学未来的想法这些视频由观众直接资助：一种同样有价值的"
     },
     {
-     "title": "The Phone Number puzzle",
-     "pubDate": "2026-09-25 13:35:02",
-     "link": "https://www.youtube.com/shorts/ausLKMojXaY",
-     "guid": "yt:video:ausLKMojXaY",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/ausLKMojXaY?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i2.ytimg.com/vi/ausLKMojXaY/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
-    },
-    {
-     "title": "The last IMO problem AI could not solve",
-     "pubDate": "2026-09-18 17:14:08",
-     "link": "https://www.youtube.com/shorts/bRQEWPA832A",
-     "guid": "yt:video:bRQEWPA832A",
-     "author": "3Blue1Brown",
-     "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg",
-     "description": "",
-     "content": "",
-     "enclosure": {
-      "link": "https://www.youtube.com/v/bRQEWPA832A?version=3",
-      "type": "application/x-shockwave-flash",
-      "thumbnail": "https://i3.ytimg.com/vi/bRQEWPA832A/hqdefault.jpg"
-     },
-     "categories": [],
-     "meta": "",
-     "desc": ""
+     "title": "Robot Chonk Cleans the Floor",
+     "link": "https://www.youtube.com/watch?v=dGkJe3aIWT4",
+     "cover": "https://i1.ytimg.com/vi/dGkJe3aIWT4/hqdefault.jpg",
+     "author": "sentdex",
+     "meta": "10月08日",
+     "pub": "2026-10-08T16:04:24+00:00",
+     "desc": "为我们的chonkbot注入智能来清洁我们的地板。Using sourccey bot from Neural Networks from Scratch book: C"
     }
    ]
   }
